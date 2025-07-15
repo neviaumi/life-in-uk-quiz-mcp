@@ -1,0 +1,23 @@
+{
+  "name": "life-in-uk-quiz-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neviaumi/life-in-uk-quiz-mcp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/neviaumi/life-in-uk-quiz-mcp/issues"
+  },
+  "homepage": "https://github.com/neviaumi/life-in-uk-quiz-mcp#readme",
+  "dependencies": {
+    "@google/gemini-cli": "0.1.12"
+  }
+}
