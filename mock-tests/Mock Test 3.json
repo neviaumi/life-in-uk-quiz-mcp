@@ -1,0 +1,490 @@
+[
+  {
+    "question": "What were 'the Troubles' about?",
+    "remark": "Mark one answers",
+    "options": [
+      {
+        "value": "Independence for Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Independence for Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "Setting up an English parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "Disagreement over Ireland becoming one country",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO political parties formed the coalition government in 2010?",
+    "remark": "Mark two answer",
+    "options": [
+      {
+        "value": "Liberal Democrats",
+        "isAnswer": true
+      },
+      {
+        "value": "Conservatives",
+        "isAnswer": true
+      },
+      {
+        "value": "Labour",
+        "isAnswer": false
+      },
+      {
+        "value": "Communists",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In 1348 a third of the populations of England, Wales and Scotland died as a result of which plague?",
+    "remark": "Mark one answers",
+    "options": [
+      {
+        "value": "The Black Death",
+        "isAnswer": true
+      },
+      {
+        "value": "The White Death",
+        "isAnswer": false
+      },
+      {
+        "value": "The Green Death",
+        "isAnswer": false
+      },
+      {
+        "value": "The Blue Death",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The jet engine and radar were developed in Britain in the 1830s.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO changes were introduced by the Education Act of 1944?",
+    "remark": "Mark two answer",
+    "options": [
+      {
+        "value": "Free secondary education for all",
+        "isAnswer": true
+      },
+      {
+        "value": "A clear division between primary and secondary education",
+        "isAnswer": true
+      },
+      {
+        "value": "New public examinations",
+        "isAnswer": false
+      },
+      {
+        "value": "Primary education for all",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who invaded England in 1066?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William of Normandy",
+        "isAnswer": true
+      },
+      {
+        "value": "Richard of the Lionheart",
+        "isAnswer": false
+      },
+      {
+        "value": "Canute",
+        "isAnswer": false
+      },
+      {
+        "value": "Harold of Wessex",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are associated with Sir Francis Drake?",
+    "remark": "Mark two answer",
+    "options": [
+      {
+        "value": "Early fight",
+        "isAnswer": false
+      },
+      {
+        "value": "Sailing around the world",
+        "isAnswer": true
+      },
+      {
+        "value": "The Spanish Armada",
+        "isAnswer": true
+      },
+      {
+        "value": "The Titanic",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which colonies of British Empire decided to declare their independence in 1776?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Australian",
+        "isAnswer": false
+      },
+      {
+        "value": "American",
+        "isAnswer": true
+      },
+      {
+        "value": "South African",
+        "isAnswer": false
+      },
+      {
+        "value": "Canadian",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are 20th-century British discoveries or invention?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Mobile phone",
+        "isAnswer": false
+      },
+      {
+        "value": "World Wide Web",
+        "isAnswer": true
+      },
+      {
+        "value": "Diesel engine",
+        "isAnswer": false
+      },
+      {
+        "value": "Television",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who could not get Parliament to agree to his or her religious and foreign policy views and tried to rule without Parliament?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Henry VII",
+        "isAnswer": false
+      },
+      {
+        "value": "Bloody Mary",
+        "isAnswer": false
+      },
+      {
+        "value": "Charles I",
+        "isAnswer": true
+      },
+      {
+        "value": "Eilzabeth I",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "St Columba became the first Archbishop of Canterbury.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Charles II was crowned king of England, Wales, Scotland and Ireland in the Restoration after the English Civil War.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which Northern Irish portrait artist, who died in 1941, painted some portraits of the Royal Family?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Markey Robinson",
+        "isAnswer": false
+      },
+      {
+        "value": "Basil Blackshaw",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir John Lavery",
+        "isAnswer": true
+      },
+      {
+        "value": "Paul Henry",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following UK landmarks is in Northern Ireland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Giants Causeway",
+        "isAnswer": true
+      },
+      {
+        "value": "Big Ben",
+        "isAnswer": false
+      },
+      {
+        "value": "Snowdonia",
+        "isAnswer": false
+      },
+      {
+        "value": "The Eden Project",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What are the names of the TWO famous British film actors?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Colin Firth",
+        "isAnswer": true
+      },
+      {
+        "value": "Robert Louis Stevenson",
+        "isAnswer": false
+      },
+      {
+        "value": "Jayne Torville",
+        "isAnswer": false
+      },
+      {
+        "value": "Tilda Swinton",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "When is Boxing Day?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The last Monday in August",
+        "isAnswer": false
+      },
+      {
+        "value": "The day after Christmas Day",
+        "isAnswer": true
+      },
+      {
+        "value": "The day after Easter",
+        "isAnswer": false
+      },
+      {
+        "value": "1st May",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the capital city of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "London",
+        "isAnswer": false
+      },
+      {
+        "value": "Sheffield",
+        "isAnswer": true
+      },
+      {
+        "value": "Liverpool",
+        "isAnswer": false
+      },
+      {
+        "value": "Birmingham",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What important change to our voting rights took place in 1969?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Prisoners were given the vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Women over 35 were given the vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Compulsory voting was introduced",
+        "isAnswer": false
+      },
+      {
+        "value": "The voting age was reduced to 18 for men and women",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are examples of criminal law?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Selling tobacco to anyone under the age of 18",
+        "isAnswer": true
+      },
+      {
+        "value": "Discrimination in the workplace",
+        "isAnswer": false
+      },
+      {
+        "value": "Racial crime",
+        "isAnswer": true
+      },
+      {
+        "value": "Disputes about faulty goods",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Where is the National Assembly for Wales based?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Newport",
+        "isAnswer": false
+      },
+      {
+        "value": "London",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": true
+      },
+      {
+        "value": "Glasgow",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Police and Crime Commissioners (PCCs) are appointed by the local council.",
+        "isAnswer": false
+      },
+      {
+        "value": "Police and Crime Commissioners (PCCs) are appointed through a public election.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What information must always be entered on an electoral registration form?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Only the names of adult men residents at the address",
+        "isAnswer": false
+      },
+      {
+        "value": "The names of all eligible voters who live at the address",
+        "isAnswer": true
+      },
+      {
+        "value": "Only the names of adult women residents at the address",
+        "isAnswer": false
+      },
+      {
+        "value": "The names of everyone at the address",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "As well as giving legal advice, solicitors are able to do which TWO of the following?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Represent clients in court",
+        "isAnswer": true
+      },
+      {
+        "value": "Take action for a client",
+        "isAnswer": true
+      },
+      {
+        "value": "Arrest suspects",
+        "isAnswer": false
+      },
+      {
+        "value": "Change the law",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Commonwealth is a group of religions that together make up a federal republic.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Commonwealth is a group of countries that support each other and work together.",
+        "isAnswer": true
+      }
+    ]
+  }
+]

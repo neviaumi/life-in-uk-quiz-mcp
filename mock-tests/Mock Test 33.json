@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Why was Magna Carta important?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It established a new system of free education.",
+        "isAnswer": false
+      },
+      {
+        "value": "It gave all men the vote.",
+        "isAnswer": false
+      },
+      {
+        "value": "It limited the power of the monarch.",
+        "isAnswer": true
+      },
+      {
+        "value": "It gave women legal rights.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were major welfare changes introduced from 1945 to 1950?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "State retirement pension",
+        "isAnswer": false
+      },
+      {
+        "value": "Employment exchanges",
+        "isAnswer": false
+      },
+      {
+        "value": "National Health Services (NHS)",
+        "isAnswer": true
+      },
+      {
+        "value": "A social security system for all",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Henry VII established the house of Tudor. What colour rose became the Tudor emblem?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Red",
+        "isAnswer": false
+      },
+      {
+        "value": "Pink",
+        "isAnswer": false
+      },
+      {
+        "value": "White",
+        "isAnswer": false
+      },
+      {
+        "value": "Red and white",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "How old was Edward VI when he died?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "35",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": false
+      },
+      {
+        "value": "15",
+        "isAnswer": true
+      },
+      {
+        "value": "56",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO events happened to the church in England following the restoration of Charles II?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The Puritans grew in strength and number",
+        "isAnswer": false
+      },
+      {
+        "value": "The Puritans and Roman Catholics were kept out of power",
+        "isAnswer": true
+      },
+      {
+        "value": "The Church of England was restored as the official Church",
+        "isAnswer": true
+      },
+      {
+        "value": "The Church of England was suppressed",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who was William Shakespeare?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A naval commander",
+        "isAnswer": false
+      },
+      {
+        "value": "A poet, actor and playwright",
+        "isAnswer": true
+      },
+      {
+        "value": "An English parliamentarian",
+        "isAnswer": false
+      },
+      {
+        "value": "A Scottish patriot",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During which king's reign in 1665 was there a major outbreak of plague in London?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "James II",
+        "isAnswer": false
+      },
+      {
+        "value": "Charles I",
+        "isAnswer": false
+      },
+      {
+        "value": "James I and Charles I were very skilled at negotiating with Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "Charles II",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are British inventions?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Jet engine",
+        "isAnswer": true
+      },
+      {
+        "value": "Hovercraft",
+        "isAnswer": true
+      },
+      {
+        "value": "Helicopter",
+        "isAnswer": false
+      },
+      {
+        "value": "Golf cart",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "When William of orange came to the throne with his wife Mary, this later became known as the Glorious Revolution. Why?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William of Orange defeated a much larger army",
+        "isAnswer": false
+      },
+      {
+        "value": "It signalled the start of the Hundred Years War",
+        "isAnswer": false
+      },
+      {
+        "value": "It led to the Reformation and the formation of the Protestant Church",
+        "isAnswer": false
+      },
+      {
+        "value": "There was no fighting in England",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which British novelist created the fictional detective, Sherlock Holmes?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Evelyn Waugh",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert Louis Stevenson",
+        "isAnswer": false
+      },
+      {
+        "value": "Graham Greene",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Arthur Conan Doyle",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What type of Church is the Church of Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Roman Catholic",
+        "isAnswer": false
+      },
+      {
+        "value": "Presbyterian",
+        "isAnswer": true
+      },
+      {
+        "value": "Methodist",
+        "isAnswer": false
+      },
+      {
+        "value": "Quaker",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Archbishop of Canterbury opens the parliamentary session each year.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Women in Britain make up about a quarter of the workforce.",
+        "isAnswer": false
+      },
+      {
+        "value": "Women in Britain make up about half of the workforce.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nUK population growth has been faster in recent years.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nYou have to be 16 or over to buy a drink in a public house (pub) or nightclub.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is it acceptable in the UK to treat people worse because of their sexual orientation?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "No, it is never acceptable to treat people worse for their sexual orientation",
+        "isAnswer": true
+      },
+      {
+        "value": "Yes, if their sexual orientation is forbidden by religion",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Someone wishing to stand as a candidate for election as an MP would need to be how old?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "There is no minimum age limit",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The Chancellor of the Exchequer is responsible for which area of government policy?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Health",
+        "isAnswer": false
+      },
+      {
+        "value": "Economy",
+        "isAnswer": true
+      },
+      {
+        "value": "Immigration",
+        "isAnswer": false
+      },
+      {
+        "value": "Education",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following will help you get along with your neighbours?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Only putting rubbish and recycling out on collection days",
+        "isAnswer": true
+      },
+      {
+        "value": "Having an untidy garden",
+        "isAnswer": false
+      },
+      {
+        "value": "Only introducing yourself to them after a year",
+        "isAnswer": false
+      },
+      {
+        "value": "Making lots of noise, especially late at night",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "After the age of 70, drivers must renew their licence every three years.",
+        "isAnswer": true
+      },
+      {
+        "value": "After the age of 70, drivers must renew their licence every five years.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "An example of a criminal offence is being in debt.",
+        "isAnswer": false
+      },
+      {
+        "value": "An example of a criminal offence is carrying a weapon.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which jubilee did Queen Elizabeth II celebrate in 2012?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Diamond Jubilee",
+        "isAnswer": true
+      },
+      {
+        "value": "Golden Jubilee",
+        "isAnswer": false
+      },
+      {
+        "value": "Platinum Jubilee",
+        "isAnswer": false
+      },
+      {
+        "value": "Silver Jubilee",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The right for every adult male and female to vote is usually known as what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Universal balloting",
+        "isAnswer": false
+      },
+      {
+        "value": "Universal suffrage",
+        "isAnswer": true
+      },
+      {
+        "value": "Universal democracy",
+        "isAnswer": false
+      },
+      {
+        "value": "Universal voting rights",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBreaking a Forced Marriage Protection Order can result in a prison sentence.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  }
+]

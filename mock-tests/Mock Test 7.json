@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What countries does 'Great Britain' refer to?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Just England",
+        "isAnswer": false
+      },
+      {
+        "value": "England and Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "England, Scotland and Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "England, Scotland and Northern Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?British scientists were the first to clone a mammal successfully. The animal was a rabbit.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Richard Arkwright developed efficient and profitable factories.",
+        "isAnswer": true
+      },
+      {
+        "value": "Richard Arkwright developed new farming methods in the UK.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Emmeline Pankhurst is famous for her leadership of the campaign to give women the vote in parliamentary elections in the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Battle of Britain in 1940 was fought at sea.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Battle of Britain in 1940 was fought in the skies.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?In 1921 a treaty gave independence to the south of Ireland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In which part of the British Empire did Boer War of 1899-1902 take place?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "South Africa",
+        "isAnswer": true
+      },
+      {
+        "value": "Australia",
+        "isAnswer": false
+      },
+      {
+        "value": "Canada",
+        "isAnswer": false
+      },
+      {
+        "value": "India",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these is an accurate estimate of the number of casualties suffered by Britain in the First World War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "2 million",
+        "isAnswer": true
+      },
+      {
+        "value": "10 million",
+        "isAnswer": false
+      },
+      {
+        "value": "500,000",
+        "isAnswer": false
+      },
+      {
+        "value": "8 million",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these people was a great British playwright?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William Shakespeare",
+        "isAnswer": true
+      },
+      {
+        "value": "William Caxton",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Francis Drake",
+        "isAnswer": false
+      },
+      {
+        "value": "Geoffrey Chaucer",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who was James II's eldest daughter, Mary, married to?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "She never married",
+        "isAnswer": false
+      },
+      {
+        "value": "The French Dauphin",
+        "isAnswer": false
+      },
+      {
+        "value": "William of Orange",
+        "isAnswer": true
+      },
+      {
+        "value": "The Duke of York",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "When did Parliament as we know it today begin to develop?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Bronze Age",
+        "isAnswer": false
+      },
+      {
+        "value": "The Middle Ages",
+        "isAnswer": true
+      },
+      {
+        "value": "The Stone Age",
+        "isAnswer": false
+      },
+      {
+        "value": "The Iron Age",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?The symbol of the House of Lancaster was a red rose and the symbol of the House of York was a white rose.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these countries was part of the British Empire during Victoria's reign?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "India",
+        "isAnswer": true
+      },
+      {
+        "value": "Switzerland",
+        "isAnswer": false
+      },
+      {
+        "value": "France",
+        "isAnswer": false
+      },
+      {
+        "value": "USA",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?The threat of Viking attack caused the people in the north to unite, and the term Scotland was used to describe that country.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What were The Canterbury Tales?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A Series of poems",
+        "isAnswer": true
+      },
+      {
+        "value": "A Royal Charter",
+        "isAnswer": false
+      },
+      {
+        "value": "A story about Canterbury Cathedral",
+        "isAnswer": false
+      },
+      {
+        "value": "A book of Christian doctrine",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are influential British bands?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The national Trust",
+        "isAnswer": false
+      },
+      {
+        "value": "The Rolling Stones",
+        "isAnswer": true
+      },
+      {
+        "value": "The Royal Family",
+        "isAnswer": false
+      },
+      {
+        "value": "The Beatles",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?There are many variations in language in the different parts of the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "To go into a betting shop casino, you have to be what age?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "15",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "17",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?The small claims procedure is an informal way for people to settle minor disputes.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How often are elections for the European Parliament held?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every 10 years",
+        "isAnswer": false
+      },
+      {
+        "value": "Every five years",
+        "isAnswer": true
+      },
+      {
+        "value": "Every two years",
+        "isAnswer": false
+      },
+      {
+        "value": "Annually",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "If your car is more than three years old, how often will it need a Ministry of Transport (MOT) test?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every 10 years",
+        "isAnswer": false
+      },
+      {
+        "value": "Every six months",
+        "isAnswer": false
+      },
+      {
+        "value": "Every three years",
+        "isAnswer": false
+      },
+      {
+        "value": "Every year",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?Members of the House of Lords are elected by a constituency.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?Military training for young people is provided by National Citizen Service.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How is the electoral register updated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every household receives a registration form, which must be completed and returned",
+        "isAnswer": true
+      },
+      {
+        "value": "Every household receives a phone call to enquire about eligible voters",
+        "isAnswer": false
+      },
+      {
+        "value": "Every household must request a registration form",
+        "isAnswer": false
+      },
+      {
+        "value": "How is the electoral register updated?",
+        "isAnswer": false
+      }
+    ]
+  }
+]

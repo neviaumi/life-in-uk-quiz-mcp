@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The United Kingdom consists of England, Ireland, Scotland and Wales.",
+        "isAnswer": false
+      },
+      {
+        "value": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What important event happened in England in 1066?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Romans left England",
+        "isAnswer": false
+      },
+      {
+        "value": "The Norman invasion",
+        "isAnswer": true
+      },
+      {
+        "value": "The Battle of Bannockburn",
+        "isAnswer": false
+      },
+      {
+        "value": "The building of the Offa Dyke",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who was given the title of Lord Protector in the 17th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Isaac Newton",
+        "isAnswer": false
+      },
+      {
+        "value": "Oliver Cromwell",
+        "isAnswer": true
+      },
+      {
+        "value": "King Charles II",
+        "isAnswer": false
+      },
+      {
+        "value": "Samuel Pepys",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "By 1400 the preferred language of English court was French",
+        "isAnswer": false
+      },
+      {
+        "value": "By 1400 the preferred language of English court was English",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which country of the UK is not represented on the Union Flag?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBy around AD 600, Anglo-Saxon kingdoms were established in Britain.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Black Death destroyed cereal crops, leading to a famine that killed many peasants.",
+        "isAnswer": false
+      },
+      {
+        "value": "After the Black Death, there were labour shortages and peasants began to demand higher wages.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO places did the Vikings come from?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "France",
+        "isAnswer": false
+      },
+      {
+        "value": "Norway",
+        "isAnswer": true
+      },
+      {
+        "value": "Belgium",
+        "isAnswer": false
+      },
+      {
+        "value": "Denmark",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What sorts of stories were depicted in the stained glass windows of many cathedrals built in The Middle Ages?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Stories about battles and victories",
+        "isAnswer": false
+      },
+      {
+        "value": "Stories about communities and farming",
+        "isAnswer": false
+      },
+      {
+        "value": "Stories about kings and coronations",
+        "isAnswer": false
+      },
+      {
+        "value": "Stories about the Bible and saints",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the capital city of Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Edinburgh",
+        "isAnswer": true
+      },
+      {
+        "value": "Dundee",
+        "isAnswer": false
+      },
+      {
+        "value": "Aberdeen",
+        "isAnswer": false
+      },
+      {
+        "value": "Glasgow",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "EastEnders and Coronation Street are historical landmarks.",
+        "isAnswer": false
+      },
+      {
+        "value": "EastEnders and Coronation Street are popular television programmes.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are Protestant Christian groups in the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Roman Catholics",
+        "isAnswer": false
+      },
+      {
+        "value": "Buddhist",
+        "isAnswer": false
+      },
+      {
+        "value": "Baptists",
+        "isAnswer": true
+      },
+      {
+        "value": "Methodists",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is a bank holiday?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A week off for everyone in the UK.",
+        "isAnswer": false
+      },
+      {
+        "value": "A holiday just for people working in banks.",
+        "isAnswer": false
+      },
+      {
+        "value": "A public holiday when banks and other businesses close for the day.",
+        "isAnswer": true
+      },
+      {
+        "value": "An extra holiday entitlement for working longer hours than usual.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nCardiff, Swansea and Newport are cities in England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The British equivalent of the Oscars is hosted by BAFTA. For what do these initials stand?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "British Association of Film and Technical Appliances",
+        "isAnswer": false
+      },
+      {
+        "value": "British Academy of Film and Television Arts",
+        "isAnswer": true
+      },
+      {
+        "value": "British Academy of Film and Theatre Awards",
+        "isAnswer": false
+      },
+      {
+        "value": "British Awards for Film and Televisions Actors",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nJane Austen and Charles Dickens were both famous sculptors.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Areas of protected countryside that everyone can visit and where people live, work and look after the landscape are called which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "National parks",
+        "isAnswer": true
+      },
+      {
+        "value": "Country estates",
+        "isAnswer": false
+      },
+      {
+        "value": "Moorland",
+        "isAnswer": false
+      },
+      {
+        "value": "Greenfield sites",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Gilbert and Sullivan comic opera?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Pirates o Penzance",
+        "isAnswer": false
+      },
+      {
+        "value": "A Midsummer Night's Dream",
+        "isAnswer": true
+      },
+      {
+        "value": "HMS Pinafore",
+        "isAnswer": false
+      },
+      {
+        "value": "The Mikado",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People in the UK are living longer than ever before.",
+        "isAnswer": true
+      },
+      {
+        "value": "The average lifespan for UK residents is steadily decreasing",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who has to pay National Insurance Contributions?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People who work full-time",
+        "isAnswer": false
+      },
+      {
+        "value": "All those aged 50 and below",
+        "isAnswer": false
+      },
+      {
+        "value": "Everybody in the UK who is in paid work",
+        "isAnswer": true
+      },
+      {
+        "value": "Single people with no dependents",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe candidate who wins the most votes is elected MP for the constituency.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIf you are a commonwealth citizen living in the UK you can vote in all public elections.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What age group does the National Citizen Service programme cover?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "16- and 17-year-old",
+        "isAnswer": true
+      },
+      {
+        "value": "All children up to the age of 17",
+        "isAnswer": false
+      },
+      {
+        "value": "18-to 30-year-olds",
+        "isAnswer": false
+      },
+      {
+        "value": "Pensioners",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is it possible for the leader of the opposition to become Prime Minister?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Yes, if his or her party wins a General Election",
+        "isAnswer": true
+      },
+      {
+        "value": "Yes, if the Prime Minister resigns",
+        "isAnswer": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The 'plantation' settlements in Ireland during the 17th century led to Catholic farmers replacing Protestant landowners.",
+        "isAnswer": false
+      },
+      {
+        "value": "The 'plantation' settlement in Ireland during the 17th century led to Protestant farmers replacing Catholic landowners.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What was the name given to supporters of King Charles I during the Civil War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Cavaliers",
+        "isAnswer": true
+      },
+      {
+        "value": "Roundheads",
+        "isAnswer": false
+      },
+      {
+        "value": "Luddites",
+        "isAnswer": false
+      },
+      {
+        "value": "Levellers",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO were introduced before the First World War (1914)?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Child Benefit payments",
+        "isAnswer": false
+      },
+      {
+        "value": "Free school meals",
+        "isAnswer": true
+      },
+      {
+        "value": "State retirement pension",
+        "isAnswer": true
+      },
+      {
+        "value": "National Health Services (NHS)",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe First World War ended at 11.00am on 11 November 1918.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Scotland changed in which TWO ways after Battle of Culloden?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Clansmen became tenants who had to pay for the land they used",
+        "isAnswer": true
+      },
+      {
+        "value": "Chieftains took control of the land away from the English king",
+        "isAnswer": false
+      },
+      {
+        "value": "The clans were entirely destroyed",
+        "isAnswer": false
+      },
+      {
+        "value": "Chieftains became landlords if they had the favour of the English king",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which period of British history saw the emergence of a national culture and identity?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Victorian period",
+        "isAnswer": false
+      },
+      {
+        "value": "The Bronze Age",
+        "isAnswer": false
+      },
+      {
+        "value": "The Middle Ages",
+        "isAnswer": true
+      },
+      {
+        "value": "The Tudor period",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The English Parliament during the reign of Charles I contained many Puritans. What did the Puritans believe in?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "None of the above",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholic religious doctrine and worship",
+        "isAnswer": false
+      },
+      {
+        "value": "The power of the nobility to control Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "Simple and strict religious doctrine and worship",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "After the Glorious Revolution, Parliament was still some way from being a democracy. Why?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Parliament took control of who could be monarch",
+        "isAnswer": false
+      },
+      {
+        "value": "Only bishops were able to vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Only women were allowed to vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Only men who owned property of a certain value could vote",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a line from one of Churchill's famous speeches?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The only thing we have to fear is fear itself",
+        "isAnswer": false
+      },
+      {
+        "value": "I have a dream",
+        "isAnswer": false
+      },
+      {
+        "value": "I have nothing to offer but blood, toil, tears and sweat",
+        "isAnswer": true
+      },
+      {
+        "value": "The lady's not for turning",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nProtestant believed that a person's own relationship with God was more important that submitting to the authority of the Church.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Beveridge Report of 1942 outlined a plan to end the war in Europe.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Beveridge Report of 1942 provided the basis of the modern welfare state.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "At which of the following famous UK landmarks would you find biomes?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Snowdonia",
+        "isAnswer": false
+      },
+      {
+        "value": "Edinburgh Castle",
+        "isAnswer": false
+      },
+      {
+        "value": "Giant Causeway",
+        "isAnswer": false
+      },
+      {
+        "value": "The Eden Project",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "St David is the patron saint of which country of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is New Year's Eve called in Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Remembrance Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Bonfire Night",
+        "isAnswer": false
+      },
+      {
+        "value": "Hogmanay",
+        "isAnswer": true
+      },
+      {
+        "value": "Vaisakhi",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is Yorkshire Pudding?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A caramel-flavoured dessert",
+        "isAnswer": false
+      },
+      {
+        "value": "Meat and potato in a pastry",
+        "isAnswer": false
+      },
+      {
+        "value": "Batter cooked in the oven",
+        "isAnswer": true
+      },
+      {
+        "value": "Apple and pears with custard",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "St Andrew is the patron of which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the minimum legal age you can buy alcohol in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "19",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "20",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Andy Murray is the first British man to sail around the world.",
+        "isAnswer": false
+      },
+      {
+        "value": "Andy Murray is the first British man to win a singles tennis title in a Grand Slam tournament since 1936.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "NATO is a group of North American and European countries that have agreed to do which TWO of the following?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Allow the free movement of people across borders",
+        "isAnswer": false
+      },
+      {
+        "value": "Promote traditional culture",
+        "isAnswer": false
+      },
+      {
+        "value": "Protect each other when under attack",
+        "isAnswer": true
+      },
+      {
+        "value": "Promote peace between member countries",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who opens the new parliamentary session each year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Speaker of the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "The monarch",
+        "isAnswer": true
+      },
+      {
+        "value": "The Prime Minister",
+        "isAnswer": false
+      },
+      {
+        "value": "The Archbishop of Canterbury",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are part of the UK government?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The cabinet",
+        "isAnswer": true
+      },
+      {
+        "value": "The National Trust",
+        "isAnswer": false
+      },
+      {
+        "value": "FIFA",
+        "isAnswer": false
+      },
+      {
+        "value": "The civil service",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Are police obliged to obey the law?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Yes, except when investigating a difficult case",
+        "isAnswer": false
+      },
+      {
+        "value": "Yes, always",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is a verdict of 'not proven' possible?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Yes, but only in a Magistrates' Court",
+        "isAnswer": false
+      },
+      {
+        "value": "Yes, but only in Scotland",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which one of the following is not a benefit of volunteering?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Being paid",
+        "isAnswer": true
+      },
+      {
+        "value": "Meeting new people",
+        "isAnswer": false
+      },
+      {
+        "value": "Being able to add new experience to your CV",
+        "isAnswer": false
+      },
+      {
+        "value": "Having a chance to practise English",
+        "isAnswer": false
+      }
+    ]
+  }
+]

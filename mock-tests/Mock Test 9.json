@@ -1,0 +1,450 @@
+[
+  {
+    "question": "Which of the following is a British overseas territory?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "France",
+        "isAnswer": false
+      },
+      {
+        "value": "USA",
+        "isAnswer": false
+      },
+      {
+        "value": "The Falkland Islands",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "How old was Edward VI when he died?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "56",
+        "isAnswer": false
+      },
+      {
+        "value": "15",
+        "isAnswer": true
+      },
+      {
+        "value": "18",
+        "isAnswer": false
+      },
+      {
+        "value": "35",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which queen is remembered for her rebellion against the Romans?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Anne",
+        "isAnswer": false
+      },
+      {
+        "value": "Boudicca",
+        "isAnswer": true
+      },
+      {
+        "value": "Elizabeth",
+        "isAnswer": false
+      },
+      {
+        "value": "Victoria",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Roman army left England after 400 years to defend other parts of their Empire.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Roman army left England after 150 years to defend other parts of their Empire.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "For much of the Stone Age, Britain was connected to the continent by what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A glacier",
+        "isAnswer": false
+      },
+      {
+        "value": "A land bridge",
+        "isAnswer": true
+      },
+      {
+        "value": "A bridge",
+        "isAnswer": false
+      },
+      {
+        "value": "A tunnel",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish poet wrote The Bruce about the Battle of Bannockburn?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Geoffrey Chaucer",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert Burns",
+        "isAnswer": false
+      },
+      {
+        "value": "John Barbour",
+        "isAnswer": true
+      },
+      {
+        "value": "John Milton",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Royal Society is the oldest surviving scientific society in the world.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a famous Stone Age site in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Windsor Castle",
+        "isAnswer": false
+      },
+      {
+        "value": "Stonehenge",
+        "isAnswer": true
+      },
+      {
+        "value": "Globe Theatre",
+        "isAnswer": false
+      },
+      {
+        "value": "Nelson's Column",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Halloween is a modern American festival that has recently become popular in the UK.",
+        "isAnswer": false
+      },
+      {
+        "value": "Halloween has its roots in an ancient pagan festival marking the beginning of winter.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous gardens in the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Sissinghurst",
+        "isAnswer": true
+      },
+      {
+        "value": "Snowdonia",
+        "isAnswer": false
+      },
+      {
+        "value": "London eye",
+        "isAnswer": false
+      },
+      {
+        "value": "Bodnant Garden",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Several British writers have won the Nobel prize in Literature.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Several British writers have won the Nobel prize in Literature.",
+        "isAnswer": true
+      },
+      {
+        "value": "No British writer has won the Nobel prize in Literature.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nPeople over 75 years of age do not have to pay for a television licence.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of following are correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The National Trust is a charity that works to preserve important building in the UK.",
+        "isAnswer": true
+      },
+      {
+        "value": "The National Trust is a government-run organisation that provides funding for charities.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Eid al-Fitr celebrates the end of Ramadan. For how long before do Muslims fast?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "One month",
+        "isAnswer": true
+      },
+      {
+        "value": "Two weeks",
+        "isAnswer": false
+      },
+      {
+        "value": "Twenty-one days",
+        "isAnswer": false
+      },
+      {
+        "value": "Five days",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Dogs in public places must wear a muzzle.",
+        "isAnswer": false
+      },
+      {
+        "value": "Dogs in public places must wear a collar showing the owner's name and address.",
+        "isAnswer": true
+      },
+      {
+        "value": "Dogs in public places must wear a collar.",
+        "isAnswer": false
+      },
+      {
+        "value": "All dog owners must have licence to keep their pets.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Lewis Hamilton is a leading figure in which sport?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Tennis",
+        "isAnswer": false
+      },
+      {
+        "value": "Squash",
+        "isAnswer": false
+      },
+      {
+        "value": "Horse racing",
+        "isAnswer": false
+      },
+      {
+        "value": "Motor racing",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What must you have done in order to vote in elections?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Paid income tax in the previous year",
+        "isAnswer": false
+      },
+      {
+        "value": "Registered your identity with the police",
+        "isAnswer": false
+      },
+      {
+        "value": "Put your name on the electoral register",
+        "isAnswer": true
+      },
+      {
+        "value": "Passed an electoral test",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO chambers form the UK Parliament?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "House of Lords",
+        "isAnswer": true
+      },
+      {
+        "value": "House of Representatives",
+        "isAnswer": false
+      },
+      {
+        "value": "House of Commons",
+        "isAnswer": true
+      },
+      {
+        "value": "House of Fraser",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Self-employed people need to pay National Insurance Contributions themselves.",
+        "isAnswer": true
+      },
+      {
+        "value": "Self-employed people can ask a friend to pay their National Insurance Contribution on their behalf.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Countries are obliged to belong to the Commonwealth.",
+        "isAnswer": false
+      },
+      {
+        "value": "Countries join the Commonwealth voluntarily.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO issues can the devolved administrations pass laws on?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Education",
+        "isAnswer": true
+      },
+      {
+        "value": "Foreign affairs",
+        "isAnswer": false
+      },
+      {
+        "value": "Immigration",
+        "isAnswer": false
+      },
+      {
+        "value": "Health",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIf a person is aged under 21, this case will be heard in a Youth Court.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following deal with civil disputes?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Crown Court",
+        "isAnswer": false
+      },
+      {
+        "value": "Sheriff Court",
+        "isAnswer": true
+      },
+      {
+        "value": "County Court",
+        "isAnswer": true
+      },
+      {
+        "value": "Youth Court",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Chequers is the Prime Minister's house in London.",
+        "isAnswer": false
+      },
+      {
+        "value": "Chequers is the Prime Minister's country house.",
+        "isAnswer": true
+      }
+    ]
+  }
+]

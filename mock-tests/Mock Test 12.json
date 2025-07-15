@@ -1,0 +1,450 @@
+[
+  {
+    "question": "Which TWO are 20th-century British discoveries or inventions?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Printing press",
+        "isAnswer": false
+      },
+      {
+        "value": "Radium",
+        "isAnswer": false
+      },
+      {
+        "value": "Hovercraft",
+        "isAnswer": true
+      },
+      {
+        "value": "Penicillin",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were important 20th-century inventors?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Isambard Kingdom Brunel",
+        "isAnswer": false
+      },
+      {
+        "value": "George Stephenson",
+        "isAnswer": false
+      },
+      {
+        "value": "Alan Turing",
+        "isAnswer": true
+      },
+      {
+        "value": "Tim Berners-Lee",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nCommercial expansion and prosperity of the 19th century were sustained in part by the booming slave trade.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Margaret Thatcher was the UK's first female Prime Minister.",
+        "isAnswer": true
+      },
+      {
+        "value": "Margaret Thatcher was the UK's second female Prime Minister.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these reasons best explains why town planning laws were tightened in the early 20th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To allow for the building of new churches",
+        "isAnswer": false
+      },
+      {
+        "value": "To stop skyscrapers being built",
+        "isAnswer": false
+      },
+      {
+        "value": "To prevent the further development of slums",
+        "isAnswer": true
+      },
+      {
+        "value": "To allow for the building of new roads",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The leaders of the Easter uprising were executed under military law.",
+        "isAnswer": true
+      },
+      {
+        "value": "The leaders of Easter uprising were transported to Australia.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBritain had colonies in southern Africa in the 19th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "During the English Civil War, in which TWO battles was Charles I's army defeated?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Battle of Naseby",
+        "isAnswer": true
+      },
+      {
+        "value": "Battle of Hastings",
+        "isAnswer": false
+      },
+      {
+        "value": "Battle of Bosworth field",
+        "isAnswer": false
+      },
+      {
+        "value": "Battle of Marston Moor",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe BBC began the world's first regular television service in 1936.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What event is remembered on November 5th every year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A plot to blow up the House of Parliament in 1605",
+        "isAnswer": true
+      },
+      {
+        "value": "The End of the Second World War",
+        "isAnswer": false
+      },
+      {
+        "value": "The defeat of Spanish Armada in 1588",
+        "isAnswer": false
+      },
+      {
+        "value": "The Queen's Birthday",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn the UK, 1 April is a day when people play jokes on each.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a traditional food associated with Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ulster fry",
+        "isAnswer": false
+      },
+      {
+        "value": "Fish and chips",
+        "isAnswer": false
+      },
+      {
+        "value": "Haggis",
+        "isAnswer": true
+      },
+      {
+        "value": "Roast beef",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Thomas Chippendale was an 18th- century designer of furniture.",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Terrence Conran was an 18th-century designer of furniture.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The House of Commons may overrule the Houser of Lords",
+        "isAnswer": true
+      },
+      {
+        "value": "The House of Commons may never overrule the House of Lords",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "West Germany, France, Luxembourg, the Netherlands and Italy formed the European Economic Community (EEC) in 1957 along with which other country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sweden",
+        "isAnswer": false
+      },
+      {
+        "value": "Belgium",
+        "isAnswer": true
+      },
+      {
+        "value": "Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Albania",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Northern Ireland Assembly makes decisions in which TWO of the following areas?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Foreign policy",
+        "isAnswer": false
+      },
+      {
+        "value": "Agriculture",
+        "isAnswer": true
+      },
+      {
+        "value": "The environment",
+        "isAnswer": true
+      },
+      {
+        "value": "Nuclear energy",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nForcing another person to marry is a criminal offence in the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What TWO actions can a judge take if a public body is not respecting someone's legal rights?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Order them to change their practices",
+        "isAnswer": true
+      },
+      {
+        "value": "Order them to pay compensation",
+        "isAnswer": true
+      },
+      {
+        "value": "Close down the public body",
+        "isAnswer": false
+      },
+      {
+        "value": "Place its members in prison",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Welsh Assembly and the Scottish Parliament were formed in which year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "2008",
+        "isAnswer": false
+      },
+      {
+        "value": "1999",
+        "isAnswer": true
+      },
+      {
+        "value": "2003",
+        "isAnswer": false
+      },
+      {
+        "value": "1997",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA mayor is always elected.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which city is the Scottish Parliament based?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Glasgow",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": false
+      },
+      {
+        "value": "Edinburgh",
+        "isAnswer": true
+      },
+      {
+        "value": "Sheffield",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "A poll card includes which TWO pieces of information?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The date of the election",
+        "isAnswer": true
+      },
+      {
+        "value": "Where the polling station or polling place is located",
+        "isAnswer": true
+      },
+      {
+        "value": "Who you should vote for",
+        "isAnswer": false
+      },
+      {
+        "value": "How much tax you should pay",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a document that sets out fundamental rights or freedoms?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Statute of Rhuddlan",
+        "isAnswer": false
+      },
+      {
+        "value": "The UK Constitution",
+        "isAnswer": false
+      },
+      {
+        "value": "The Act of Union",
+        "isAnswer": false
+      },
+      {
+        "value": "The Habeas Corpus Act",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "West Germany, France, Luxembourg, the Netherlands and Italy formed the European Economic Community (EEC) in 1957 along with which other country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sweden",
+        "isAnswer": false
+      },
+      {
+        "value": "Belgium",
+        "isAnswer": true
+      },
+      {
+        "value": "Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Albania",
+        "isAnswer": false
+      }
+    ]
+  }
+]

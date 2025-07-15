@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Is the statement below TRUE or FALSE?\nParticipating in your community is a fundamental principle of British life.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Channel Islands and the Isle of Man are part of the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThere is a dragon on the official flag of Wales.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe 'Restoration' refers to the re-establishment of Catholicism as the official Church in the 17th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were British inventions?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Jet engine",
+        "isAnswer": true
+      },
+      {
+        "value": "Personal computer",
+        "isAnswer": false
+      },
+      {
+        "value": "Diesel engine",
+        "isAnswer": false
+      },
+      {
+        "value": "Television",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What were TWO important aspects of the Reform Act of 1832?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It abolished rotten boroughs",
+        "isAnswer": true
+      },
+      {
+        "value": "It increased the number of people who could vote.",
+        "isAnswer": true
+      },
+      {
+        "value": "It gave women the vote",
+        "isAnswer": false
+      },
+      {
+        "value": "It decreased the power of the monarch.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which famous leader said the following:'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the street, we shall fight in the hills; we shall never surrender'?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Winston Churchill",
+        "isAnswer": true
+      },
+      {
+        "value": "Oliver Cromwell",
+        "isAnswer": false
+      },
+      {
+        "value": "Clement Attlee",
+        "isAnswer": false
+      },
+      {
+        "value": "Admiral Nelson",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The first farmers probably came to Britain from where?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Nor-west Europe",
+        "isAnswer": false
+      },
+      {
+        "value": "North America",
+        "isAnswer": false
+      },
+      {
+        "value": "South-east Europe",
+        "isAnswer": true
+      },
+      {
+        "value": "Norway",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA Formula 1 Grand Prix race is held in Britain every year.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What festival is celebrated on the 31st of October?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Valentine's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Bonfire Night",
+        "isAnswer": false
+      },
+      {
+        "value": "Hogmanay",
+        "isAnswer": false
+      },
+      {
+        "value": "Halloween",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSome people rent land called 'an allotment' where they grow fruit and vegetables.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What task is associated with National Trust?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Preserving important buildings and places",
+        "isAnswer": true
+      },
+      {
+        "value": "Conversing native bird species",
+        "isAnswer": false
+      },
+      {
+        "value": "Conversing deep water fish",
+        "isAnswer": false
+      },
+      {
+        "value": "Preserving old aircraft",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which modern-day country was the compose George Frederick Handel Born?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Russia",
+        "isAnswer": false
+      },
+      {
+        "value": "Iceland",
+        "isAnswer": false
+      },
+      {
+        "value": "Japan",
+        "isAnswer": false
+      },
+      {
+        "value": "Germany",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous Paralympians?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Ellie Simmonds",
+        "isAnswer": true
+      },
+      {
+        "value": "Baroness Tanni Grey-Thompson",
+        "isAnswer": true
+      },
+      {
+        "value": "Dame Elle MacArthur",
+        "isAnswer": false
+      },
+      {
+        "value": "Jessica Ennis",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The capital city of Scotland is Edinburgh",
+        "isAnswer": true
+      },
+      {
+        "value": "The capital city of Scotland is Glasgow",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which famous religious building has been the coronation church since 1066 and is the final resting place for 17 monarchs?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "St Paul's Cathedral",
+        "isAnswer": false
+      },
+      {
+        "value": "Westminster Cathedral",
+        "isAnswer": false
+      },
+      {
+        "value": "York Minster",
+        "isAnswer": false
+      },
+      {
+        "value": "Westminster Abbey",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Christmas tradition in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Decorating houses and trees",
+        "isAnswer": false
+      },
+      {
+        "value": "Having a barbeque",
+        "isAnswer": true
+      },
+      {
+        "value": "Giving gifts",
+        "isAnswer": false
+      },
+      {
+        "value": "Sending cards",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "When were the first professional football clubs formed?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "19th Century",
+        "isAnswer": true
+      },
+      {
+        "value": "18th Century",
+        "isAnswer": false
+      },
+      {
+        "value": "10th Century",
+        "isAnswer": false
+      },
+      {
+        "value": "17th Century",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The national Eisteddfod is a major cultural festival that takes place in which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Sir Anthony Van Dyck was famous as which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Actor",
+        "isAnswer": false
+      },
+      {
+        "value": "Sculptor",
+        "isAnswer": false
+      },
+      {
+        "value": "Composer",
+        "isAnswer": false
+      },
+      {
+        "value": "Painter",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The Festival of Lights is another name for which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Eid ul Adha",
+        "isAnswer": false
+      },
+      {
+        "value": "Diwali",
+        "isAnswer": true
+      },
+      {
+        "value": "Vaisakhi",
+        "isAnswer": false
+      },
+      {
+        "value": "Hannukah",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Civil servants have to be politically aligned to the elected government",
+        "isAnswer": false
+      },
+      {
+        "value": "Civil servants are politically neutral",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In a Crown Court, who decides what penalty will be, in the case of a 'guilty' verdict?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The jury",
+        "isAnswer": false
+      },
+      {
+        "value": "A police officer",
+        "isAnswer": false
+      },
+      {
+        "value": "A solicitor",
+        "isAnswer": false
+      },
+      {
+        "value": "The judge",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Official reports of parliamentary proceeding are published in which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Telegraph",
+        "isAnswer": false
+      },
+      {
+        "value": "The Sunday Times",
+        "isAnswer": false
+      },
+      {
+        "value": "The BBC magazine",
+        "isAnswer": false
+      },
+      {
+        "value": "Hansard",
+        "isAnswer": true
+      }
+    ]
+  }
+]

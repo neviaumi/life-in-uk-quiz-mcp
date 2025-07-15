@@ -1,0 +1,490 @@
+[
+  {
+    "question": "Which TWO responsibilities should you respect as a resident of the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Treat others with fairness",
+        "isAnswer": true
+      },
+      {
+        "value": "Respect and obey the law",
+        "isAnswer": true
+      },
+      {
+        "value": "Vote for the government in power",
+        "isAnswer": false
+      },
+      {
+        "value": "Take in and look after stray animals",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which TWO places are arrangements different for taking your Life in the UK Test?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Isle of Man",
+        "isAnswer": true
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Channel Island",
+        "isAnswer": true
+      },
+      {
+        "value": "Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Textile and engineering firms recruited workers from which TWO countries after the Second World War?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "South Africa",
+        "isAnswer": false
+      },
+      {
+        "value": "India",
+        "isAnswer": true
+      },
+      {
+        "value": "Pakistan",
+        "isAnswer": true
+      },
+      {
+        "value": "Canada",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "D-Day refers to what event in British history?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Battle of Trafalgar",
+        "isAnswer": false
+      },
+      {
+        "value": "British invasion of Europe in 1994",
+        "isAnswer": false
+      },
+      {
+        "value": "On 6 June 1944, allied forces landed in Normandy",
+        "isAnswer": true
+      },
+      {
+        "value": "End of the war in Europe in 1945",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Battle of Agincourt is commemorated in the Bayeux Tapestry",
+        "isAnswer": false
+      },
+      {
+        "value": "The Battle of Hastings is commemorated in the Bayeux Tapestry",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Why were more castles built in Britain and Ireland in the Middle Ages?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They were cheap to build",
+        "isAnswer": false
+      },
+      {
+        "value": "They were status symbols for the nobility",
+        "isAnswer": false
+      },
+      {
+        "value": "They created work for tradesmen",
+        "isAnswer": false
+      },
+      {
+        "value": "They were defensive strongholds",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Some people in Britain were opposed to the slave trade. Who set up the first formal anti-slavery groups in the late 1700s?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Methodists",
+        "isAnswer": false
+      },
+      {
+        "value": "Mormons",
+        "isAnswer": false
+      },
+      {
+        "value": "Quakers",
+        "isAnswer": true
+      },
+      {
+        "value": "Puritans",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA public vote in 2002 decided that Winston Churchill was the Greatest Briton of all time.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The Elizabeth Tower is part of which building in London?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "St Pauls Cathedral",
+        "isAnswer": false
+      },
+      {
+        "value": "Mansion House",
+        "isAnswer": false
+      },
+      {
+        "value": "Houses of parliament",
+        "isAnswer": true
+      },
+      {
+        "value": "Buckingham Palace",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO famous London buildings are built in the 19th-century 'gothic' style?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "St Paul's Cathedral",
+        "isAnswer": false
+      },
+      {
+        "value": "Buckingham Palace",
+        "isAnswer": false
+      },
+      {
+        "value": "The Houses of Parliament",
+        "isAnswer": true
+      },
+      {
+        "value": "St Pancras Station",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who is the patron saint of Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "St David",
+        "isAnswer": false
+      },
+      {
+        "value": "St George",
+        "isAnswer": false
+      },
+      {
+        "value": "St Andrews",
+        "isAnswer": true
+      },
+      {
+        "value": "St Patrick",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are Christian groups?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Baptists",
+        "isAnswer": true
+      },
+      {
+        "value": "Roman Catholics",
+        "isAnswer": true
+      },
+      {
+        "value": "Buddhists",
+        "isAnswer": false
+      },
+      {
+        "value": "Sikhs",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn the UK a citizen may only follow an approved religion.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO plants are associated with the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Shamrock",
+        "isAnswer": true
+      },
+      {
+        "value": "Cactus",
+        "isAnswer": false
+      },
+      {
+        "value": "Rose",
+        "isAnswer": true
+      },
+      {
+        "value": "Olive tree",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Ian McEwan, Hilary Mantel and Julian Barnes have all won which literacy prize?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Nobel Prize in Literature",
+        "isAnswer": false
+      },
+      {
+        "value": "The Turner Prize",
+        "isAnswer": false
+      },
+      {
+        "value": "The Man Booker Prize",
+        "isAnswer": true
+      },
+      {
+        "value": "The Mercury Prize",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Where would the Children's Hearings System deal with cases of children or young people accused of an offence?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following have the right to vote?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "UK-born adults citizens",
+        "isAnswer": true
+      },
+      {
+        "value": "Adults who have been given a visa to study in the UK",
+        "isAnswer": false
+      },
+      {
+        "value": "Adults who have been granted an indefinite right to remain in the UK.",
+        "isAnswer": false
+      },
+      {
+        "value": "Adults who are naturalised citizens of the UK",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are members of the Parliament (MPs) responsible for?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Representing only those who voted for them",
+        "isAnswer": false
+      },
+      {
+        "value": "Supporting the government on all decisions and laws",
+        "isAnswer": false
+      },
+      {
+        "value": "Scruitanising and commenting on what the government is doing",
+        "isAnswer": true
+      },
+      {
+        "value": "Representing everyone in their constituency",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO services are funded by National Insurance Contributions?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Supermarket home deliveries",
+        "isAnswer": false
+      },
+      {
+        "value": "State retirement pension",
+        "isAnswer": true
+      },
+      {
+        "value": "Local taxi services",
+        "isAnswer": false
+      },
+      {
+        "value": "National Health Service (NHS)",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "County Courts deal with criminal cases.",
+        "isAnswer": false
+      },
+      {
+        "value": "County Courts deal with civil disputes.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "To which TWO international bodies does the UK belong?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The North Atlantic Treaty Organization (NATO)",
+        "isAnswer": true
+      },
+      {
+        "value": "The Arab League",
+        "isAnswer": false
+      },
+      {
+        "value": "The North American Free Trade Agreement (NAFTA)",
+        "isAnswer": false
+      },
+      {
+        "value": "The Commonwealth",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What must police officers do?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Obey the law",
+        "isAnswer": true
+      },
+      {
+        "value": "Be politically neutral",
+        "isAnswer": false
+      },
+      {
+        "value": "Be rude and abusive",
+        "isAnswer": false
+      },
+      {
+        "value": "Make a FALSE? statement",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Decisions on government policies are made by the monarch.",
+        "isAnswer": false
+      },
+      {
+        "value": "Decisions on government policies are made by the Prime Minister and cabinet.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following do you have to pay tax on?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Income from property, savings and dividends",
+        "isAnswer": true
+      },
+      {
+        "value": "Profits from self-employment",
+        "isAnswer": true
+      },
+      {
+        "value": "Shopping vouchers given to you by family or friends",
+        "isAnswer": false
+      },
+      {
+        "value": "Small amounts of money given to you as a gift",
+        "isAnswer": false
+      }
+    ]
+  }
+]

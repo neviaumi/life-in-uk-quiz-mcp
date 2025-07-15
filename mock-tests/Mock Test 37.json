@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What TWO freedoms are offered by the UK to citizens and permanent residents?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "A right to a fair trial",
+        "isAnswer": true
+      },
+      {
+        "value": "Free groceries for everyone",
+        "isAnswer": false
+      },
+      {
+        "value": "Freedom of speech",
+        "isAnswer": true
+      },
+      {
+        "value": "Long lunch breaks on Friday",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Isle of Man is a Crown dependency",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Elizabeth I had very good relations with Parliament.",
+        "isAnswer": true
+      },
+      {
+        "value": "Elizabeth I handled parliament very badly during her reign.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are English Civil war battles?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Naseby",
+        "isAnswer": true
+      },
+      {
+        "value": "Hastings",
+        "isAnswer": false
+      },
+      {
+        "value": "Waterloo",
+        "isAnswer": false
+      },
+      {
+        "value": "Marston Moor",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Reformation failed in Scotland and the country remained Strongly Catholic.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nNorman French influenced the development of the English language as we know today.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Victorian period famously saw reformers leading moves to improve conditions for which section of society?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The poor",
+        "isAnswer": true
+      },
+      {
+        "value": "The middle classes",
+        "isAnswer": false
+      },
+      {
+        "value": "The aristocracy",
+        "isAnswer": false
+      },
+      {
+        "value": "The clergy",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During the 18th century, Britain fought a number of wars with which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "India",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa",
+        "isAnswer": false
+      },
+      {
+        "value": "France",
+        "isAnswer": true
+      },
+      {
+        "value": "Spain",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Elizabethan period in England was a time of growing patriotism. What do we mean by this?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A feeling of pride in being English",
+        "isAnswer": true
+      },
+      {
+        "value": "There was unrest and instability",
+        "isAnswer": false
+      },
+      {
+        "value": "The country became democratic",
+        "isAnswer": false
+      },
+      {
+        "value": "The monarchy became unpopular",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "During the reign of Charles I, Irish Catholics supported the views of the Puritans.",
+        "isAnswer": false
+      },
+      {
+        "value": "During the reign of Charles I, Parliament attempted to take control of the English army following a rebellion in Ireland.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who were the Picts?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ancestors of the Irish people",
+        "isAnswer": false
+      },
+      {
+        "value": "Ancestors of the Welsh people",
+        "isAnswer": false
+      },
+      {
+        "value": "Ancestors of the Scottish people",
+        "isAnswer": true
+      },
+      {
+        "value": "Ancestors of the English people",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "St George is the patron saint of which UK country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMost people in the UK live in towns and cities",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nPantomimes are plays based on fairy stories.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "At which festival are mince pies traditionally eaten?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Christmas",
+        "isAnswer": true
+      },
+      {
+        "value": "Vaisakhi",
+        "isAnswer": false
+      },
+      {
+        "value": "Easter",
+        "isAnswer": false
+      },
+      {
+        "value": "Diwali",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What do Sir William Golding, Seamus Heaney and Harold Pinter have in common?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They have all been awarded the Nobel Prize for literature.",
+        "isAnswer": true
+      },
+      {
+        "value": "They were part of the first British expedition to the North Pole.",
+        "isAnswer": false
+      },
+      {
+        "value": "They are all famous British athletes",
+        "isAnswer": false
+      },
+      {
+        "value": "They have all been Prime Minister",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Steve Redgrave is a famous rower who won gold medals in five consecutive Olympics Games.",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Steve Redgrave is a famous film actor who has won several BAFTAs.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Since 1927 the BBC has organised which series of famous concerts?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Aldeburgh Festival",
+        "isAnswer": false
+      },
+      {
+        "value": "The Proms",
+        "isAnswer": true
+      },
+      {
+        "value": "Glastonbury",
+        "isAnswer": false
+      },
+      {
+        "value": "The Eisteddfod",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "All the national saints' days are celebrated but only in England and Wales are they official holidays.",
+        "isAnswer": false
+      },
+      {
+        "value": "All the patron saints' days are celebrated but only in Scotland and Northern Ireland are they official holidays.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe 40 days before Easter are known as Lent.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following countries did not help set up the EEC?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Germany",
+        "isAnswer": false
+      },
+      {
+        "value": "Belgium",
+        "isAnswer": false
+      },
+      {
+        "value": "Ireland",
+        "isAnswer": true
+      },
+      {
+        "value": "Luxembourg",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Members of the House of Lords are voted in by members of the House of Commons.",
+        "isAnswer": false
+      },
+      {
+        "value": "Members of the House of Lords are not elected by the people.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What sorts of cases do Crown Court and Sheriff Courts deal with?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Youth cases",
+        "isAnswer": false
+      },
+      {
+        "value": "Small claims procedures",
+        "isAnswer": false
+      },
+      {
+        "value": "Serious offences",
+        "isAnswer": true
+      },
+      {
+        "value": "Minor criminal cases",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a core value of the civil service?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Party loyalty",
+        "isAnswer": false
+      },
+      {
+        "value": "Integrity",
+        "isAnswer": true
+      },
+      {
+        "value": "Laziness",
+        "isAnswer": false
+      },
+      {
+        "value": "Bribery",
+        "isAnswer": false
+      }
+    ]
+  }
+]

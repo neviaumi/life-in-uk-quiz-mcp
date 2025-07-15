@@ -1,0 +1,474 @@
+[
+  {
+    "question": "To apply to become a permanent resident or citizen of the UK. You will need to be able to do which TWO of the following?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Have a good understanding of life in the UK",
+        "isAnswer": true
+      },
+      {
+        "value": "Speak and read Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "Speak and read English",
+        "isAnswer": true
+      },
+      {
+        "value": "Speak more than one language",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO were associated with King Charles I and parliament during the English Civil War?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Roundheads",
+        "isAnswer": true
+      },
+      {
+        "value": "Tories",
+        "isAnswer": false
+      },
+      {
+        "value": "Luddites",
+        "isAnswer": false
+      },
+      {
+        "value": "Cavaliers",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a famous Stone Age site in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Windsor Castle",
+        "isAnswer": false
+      },
+      {
+        "value": "Globe Theatre",
+        "isAnswer": false
+      },
+      {
+        "value": "Nelson's Column",
+        "isAnswer": false
+      },
+      {
+        "value": "Stonehenge",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Where did the Vikings come from?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Denmark and Norway",
+        "isAnswer": true
+      },
+      {
+        "value": "Germany and Austria",
+        "isAnswer": false
+      },
+      {
+        "value": "Belgium and Holland",
+        "isAnswer": false
+      },
+      {
+        "value": "France and Luxembourg",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSir Robert Walpole was Prime Minister from 1700-1730.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Henry VIII took which title in relation to Ireland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "King",
+        "isAnswer": true
+      },
+      {
+        "value": "Lieutenant",
+        "isAnswer": false
+      },
+      {
+        "value": "Commander",
+        "isAnswer": false
+      },
+      {
+        "value": "Head",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Acts of Parliament in 1870 and 1882 awarded which right to women?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The right to keep their own earnings and property after marriage",
+        "isAnswer": true
+      },
+      {
+        "value": "The right to work",
+        "isAnswer": false
+      },
+      {
+        "value": "The right to attend university",
+        "isAnswer": false
+      },
+      {
+        "value": "The right to bear arms",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "By 1200, the English ruled an area of Ireland around Dublin known as what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Pale",
+        "isAnswer": true
+      },
+      {
+        "value": "The Pict",
+        "isAnswer": false
+      },
+      {
+        "value": "The plain",
+        "isAnswer": false
+      },
+      {
+        "value": "The Pate",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What happened when Charles I tried to impose a revised Prayer Book onto the Presbyterian Church in Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It was very popular across the Union",
+        "isAnswer": false
+      },
+      {
+        "value": "England and Wales rebelled",
+        "isAnswer": false
+      },
+      {
+        "value": "It was accepted after some amendments",
+        "isAnswer": false
+      },
+      {
+        "value": "The Scottish rebelled and formed an army",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Why did Henry VIII marry Anne of Cleves?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He loved her",
+        "isAnswer": false
+      },
+      {
+        "value": "For political reasons",
+        "isAnswer": true
+      },
+      {
+        "value": "To have a male heir",
+        "isAnswer": false
+      },
+      {
+        "value": "She was beautiful",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHenry VIII continued his father's work to centralise the administrative powers of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What did St Augustine and St Columba do during the Anglo-Saxon period?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They were early Christian missionaries",
+        "isAnswer": true
+      },
+      {
+        "value": "They were courageous warriors.",
+        "isAnswer": false
+      },
+      {
+        "value": "They were leaders of an uprising in Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "They invented new farming techniques.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "During Queen Elizabeth I's reign, English settlers began to colonise Australia.",
+        "isAnswer": false
+      },
+      {
+        "value": "During Queen Elizabeth I's reign, English settlers began to colonise the eastern coast of North America.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "After Protestants, which is the biggest denomination of Christianity in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ethiopian Orthodox",
+        "isAnswer": false
+      },
+      {
+        "value": "Jehovah's Witnesses",
+        "isAnswer": false
+      },
+      {
+        "value": "Christian Science",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholics",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The first professional UK football clubs were formed in the late 19th century.",
+        "isAnswer": true
+      },
+      {
+        "value": "The first professional UK football clubs were formed in 1066",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which is the capital city of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Westminster",
+        "isAnswer": false
+      },
+      {
+        "value": "Birmingham",
+        "isAnswer": false
+      },
+      {
+        "value": "London",
+        "isAnswer": true
+      },
+      {
+        "value": "Windsor",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The capital cities of the nations of the UK are London, Cardiff, Edinburgh and Belfast.",
+        "isAnswer": true
+      },
+      {
+        "value": "The capital cities of the nations of the UK are London, Swansea, Glasgow and Dublin.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Hindu and Sikh festival is normally celebrated in October or November every year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Vaisakhi",
+        "isAnswer": false
+      },
+      {
+        "value": "Diwali",
+        "isAnswer": true
+      },
+      {
+        "value": "Eid ul Adha",
+        "isAnswer": false
+      },
+      {
+        "value": "Hanukkah",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following are major outdoor music festivals?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Glastonbury",
+        "isAnswer": true
+      },
+      {
+        "value": "Isle of Wight Festival",
+        "isAnswer": true
+      },
+      {
+        "value": "Royal Ascot",
+        "isAnswer": false
+      },
+      {
+        "value": "Hogmanay",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIt is legal to carry a weapon if it is for self defence.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In 1999, what happened to hereditary peers in the House of Lords?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They lost their automatic right to attend the House of Lords",
+        "isAnswer": true
+      },
+      {
+        "value": "Women were allowed to inherit their titles",
+        "isAnswer": false
+      },
+      {
+        "value": "Their salaries were stopped",
+        "isAnswer": false
+      },
+      {
+        "value": "Their numbers were greatly increased.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Since which year has the Prime Minister had the power to nominate life peers to the House of Lords?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "2012",
+        "isAnswer": false
+      },
+      {
+        "value": "1999",
+        "isAnswer": false
+      },
+      {
+        "value": "1958",
+        "isAnswer": true
+      },
+      {
+        "value": "1925",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of these groups cannot stand for election?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Health Service workers",
+        "isAnswer": false
+      },
+      {
+        "value": "Members of the police force",
+        "isAnswer": false
+      },
+      {
+        "value": "Members of the armed forces",
+        "isAnswer": true
+      },
+      {
+        "value": "Civil servants",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe police do not need to protect and help people who are not UK citizens.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "question": "Which TWO of the following are freedoms offered to citizens and permanent residents of the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Half day off work on Friday",
+        "isAnswer": false
+      },
+      {
+        "value": "Freedom of speech",
+        "isAnswer": true
+      },
+      {
+        "value": "A right to take part in the election of a government",
+        "isAnswer": true
+      },
+      {
+        "value": "Free heating for all",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a fundamental principle of British life?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Religious faith",
+        "isAnswer": false
+      },
+      {
+        "value": "Democracy",
+        "isAnswer": true
+      },
+      {
+        "value": "Extremism",
+        "isAnswer": false
+      },
+      {
+        "value": "A relaxed work ethic",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What were the names of the TWO main groups in parliament in the early 18th century?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Tories",
+        "isAnswer": true
+      },
+      {
+        "value": "Whigs",
+        "isAnswer": true
+      },
+      {
+        "value": "Nationalists",
+        "isAnswer": false
+      },
+      {
+        "value": "Labour",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWhen Queen Anne died, a German, George of Hanover, became the next King of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO wars was England involved in during the Middle Ages?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Peninsular",
+        "isAnswer": false
+      },
+      {
+        "value": "Hundred Years War",
+        "isAnswer": true
+      },
+      {
+        "value": "Crusades",
+        "isAnswer": true
+      },
+      {
+        "value": "Crimean",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Where did the people of the Bronze Age bury their dead?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Burial mounds",
+        "isAnswer": false
+      },
+      {
+        "value": "Round barrows",
+        "isAnswer": true
+      },
+      {
+        "value": "Earth barrows",
+        "isAnswer": false
+      },
+      {
+        "value": "Roundhouses",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During the reign of Henry VIII, which country of the union became formally united with England?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe MacDonald clan of Glencoe were massacred.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "With which sport do you associate Lewis Hamilton, Jensen Button and Damon Hill?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Formula 1",
+        "isAnswer": true
+      },
+      {
+        "value": "Skiing",
+        "isAnswer": false
+      },
+      {
+        "value": "Football",
+        "isAnswer": false
+      },
+      {
+        "value": "Athletics",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How old do you have to be to buy alcohol in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "20",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Battle of the Boyne is celebrated with a bank holiday in which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Northern Ireland",
+        "isAnswer": true
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Diwali is a religious celebration for which TWO religious groups?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Jews",
+        "isAnswer": false
+      },
+      {
+        "value": "Hindus",
+        "isAnswer": true
+      },
+      {
+        "value": "Sikh",
+        "isAnswer": true
+      },
+      {
+        "value": "Muslims",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "At the beginning of the 19th century, which one of the following groups could vote?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Property-owning men over the age of 18",
+        "isAnswer": false
+      },
+      {
+        "value": "All adults over the age of 18",
+        "isAnswer": false
+      },
+      {
+        "value": "Property-owning men over the age of 21",
+        "isAnswer": true
+      },
+      {
+        "value": "All women who owned property",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe police do not need to protect and help people who are not UK citizens.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA husband who forces his wife to have sex can be charged with rape.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe main political parties actively look for members.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO countries are members of the Commonwealth?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "US",
+        "isAnswer": true
+      },
+      {
+        "value": "Australia",
+        "isAnswer": false
+      },
+      {
+        "value": "Ethiopia",
+        "isAnswer": false
+      },
+      {
+        "value": "Canada",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAll young people are sent a National Insurance Number before their 16th birthday.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWales, Scotland and Northern Ireland each have devolved administrations which give them total control over all policies and laws.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Queen is ceremonial head of the Commonwealth.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Queen is ceremonial head of the North Atlantic Treaty Organization (NATO).",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who appoints life peers in the House of Lords?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Speaker of the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "The Prime Minister",
+        "isAnswer": false
+      },
+      {
+        "value": "The monarch",
+        "isAnswer": true
+      },
+      {
+        "value": "The Chief Whip",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA General Election occurs every eight years.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Chancellor of the Exchequer is responsible for the economy.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Chancellor of the Exchequer is responsible for crime, policing and immigration.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The judiciary is responsible for which TWO of the following?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Making the law",
+        "isAnswer": false
+      },
+      {
+        "value": "Making sure that trials are fair",
+        "isAnswer": true
+      },
+      {
+        "value": "Interpreting the law",
+        "isAnswer": true
+      },
+      {
+        "value": "Arresting people",
+        "isAnswer": false
+      }
+    ]
+  }
+]

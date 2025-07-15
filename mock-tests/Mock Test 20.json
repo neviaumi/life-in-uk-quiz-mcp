@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Who did Henry VIII marry after the execution of Anne Boleyn?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Anne of Cleves",
+        "isAnswer": false
+      },
+      {
+        "value": "Catherine Parr",
+        "isAnswer": false
+      },
+      {
+        "value": "Catherine Howard",
+        "isAnswer": false
+      },
+      {
+        "value": "Jane Seymour",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe jet engine and radar were developed in Britain in the 1830s.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "During the 17th Century, many people left Britain and Ireland to settle in which of the following places?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "France",
+        "isAnswer": false
+      },
+      {
+        "value": "America",
+        "isAnswer": true
+      },
+      {
+        "value": "Africa",
+        "isAnswer": false
+      },
+      {
+        "value": "London",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Anglo-Saxon kingdoms in England were united under King Alfred the Great.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Anglo-Saxon kingdoms were united under King Kenneth MacAlpin.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "King Edward I of England annexed Wales to the crown of England by which statute?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Statute of Carmarthen",
+        "isAnswer": false
+      },
+      {
+        "value": "The Statute of Gwynedd",
+        "isAnswer": false
+      },
+      {
+        "value": "The Statute of Rhuddlan",
+        "isAnswer": true
+      },
+      {
+        "value": "The Statute of Caernarfon",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "An attempt by which group to put James II's son on the throne instead of George I was quickly defeated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Irish Catholics",
+        "isAnswer": false
+      },
+      {
+        "value": "French Huguenots",
+        "isAnswer": false
+      },
+      {
+        "value": "English Puritans",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Jacobites",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "During the 16th century, the Scottish Parliament welcomed the authority of the Pope and Roman Catholics religious services became commonplace.",
+        "isAnswer": false
+      },
+      {
+        "value": "During the 16th century, the Scottish Parliament Abolished the authority of the Pope and Roman Catholic religious services became illegal.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "William of Normandy invaded England in 1066. Where is Normandy?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Southern Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Norway",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern France",
+        "isAnswer": true
+      },
+      {
+        "value": "Denmark",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following was a co-discoverer of insulin?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "John Logie Baird",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Frank Whittle",
+        "isAnswer": false
+      },
+      {
+        "value": "John MacLeod",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Robert Watson-Watt",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The four shortlisted works for the Turner Prize are shown at which London venue?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Tate Britain",
+        "isAnswer": true
+      },
+      {
+        "value": "British Museum",
+        "isAnswer": false
+      },
+      {
+        "value": "National Gallery",
+        "isAnswer": false
+      },
+      {
+        "value": "Victoria and Albert Museum",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "National parks are national sports grounds for people to hold sporting events.",
+        "isAnswer": false
+      },
+      {
+        "value": "National parks are areas of protected countryside that everyone can visit.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO people are famous UK sports stars?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Dame Kelly Holmes",
+        "isAnswer": true
+      },
+      {
+        "value": "Lucien Freud",
+        "isAnswer": false
+      },
+      {
+        "value": "Jane Austen",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Chris Hoy",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Cricket matches can last up to two weeks.",
+        "isAnswer": false
+      },
+      {
+        "value": "Cricket matches can last up to five days.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "George Fredrick Handel, the German-born composer who became a British citizen, wrote which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Balthazar's Feast",
+        "isAnswer": false
+      },
+      {
+        "value": "Peter Grimes",
+        "isAnswer": false
+      },
+      {
+        "value": "Music for the Royal Fireworks",
+        "isAnswer": true
+      },
+      {
+        "value": "The Planets",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSome people rent land away from home called an allotment, where they can grow fruit and vegetables.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which film was directed by Alfred Hitchcock?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The 21 Steps",
+        "isAnswer": false
+      },
+      {
+        "value": "The 100 Steps",
+        "isAnswer": false
+      },
+      {
+        "value": "The 39 Steps",
+        "isAnswer": true
+      },
+      {
+        "value": "The 1,001 Steps",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What event is commemorated on 5 November every year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The end of the First World War",
+        "isAnswer": false
+      },
+      {
+        "value": "A plot to blow up the Houses of Parliament",
+        "isAnswer": true
+      },
+      {
+        "value": "England's Worlds Cup victory of 1966",
+        "isAnswer": false
+      },
+      {
+        "value": "The Queen's birthday",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who or what were jesters?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Men who organised hunts in the Middle Ages",
+        "isAnswer": false
+      },
+      {
+        "value": "People who told jokes at medieval royal courts",
+        "isAnswer": true
+      },
+      {
+        "value": "Combatants on horseback at medieval feasts",
+        "isAnswer": false
+      },
+      {
+        "value": "Silver coins of the 18th century",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The heptathlon comprises how many different track and field events?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "7",
+        "isAnswer": true
+      },
+      {
+        "value": "8",
+        "isAnswer": false
+      },
+      {
+        "value": "6",
+        "isAnswer": false
+      },
+      {
+        "value": "5",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Chequers is the Prime Minister's country house.",
+        "isAnswer": true
+      },
+      {
+        "value": "Chequers is the Prime Minister's house in London.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How often are members of Parliament (MPs) elected?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "At least every five years",
+        "isAnswer": true
+      },
+      {
+        "value": "Every six months",
+        "isAnswer": false
+      },
+      {
+        "value": "At least every three years",
+        "isAnswer": false
+      },
+      {
+        "value": "Every year",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "UK laws ensure people are not treated unfairly in any area of work or life.",
+        "isAnswer": true
+      },
+      {
+        "value": "In the UK, employers can discriminate against different groups of people.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the minimum age you can drive a car or motor cycle in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "17",
+        "isAnswer": true
+      },
+      {
+        "value": "25",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Every MP represents which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A country",
+        "isAnswer": false
+      },
+      {
+        "value": "A city",
+        "isAnswer": false
+      },
+      {
+        "value": "None of the above",
+        "isAnswer": false
+      },
+      {
+        "value": "A constituency",
+        "isAnswer": true
+      }
+    ]
+  }
+]

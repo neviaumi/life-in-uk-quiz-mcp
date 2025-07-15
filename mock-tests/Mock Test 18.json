@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Which of the following is a fundamental principle of British life?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Individual liberty",
+        "isAnswer": true
+      },
+      {
+        "value": "Extremism",
+        "isAnswer": false
+      },
+      {
+        "value": "Inequality",
+        "isAnswer": false
+      },
+      {
+        "value": "Intolerance",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1588 the English fleet defeated a large French fleet of ships that intended to land an army in England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During the 'Great Depression' of the 1930s, which TWO major new industries developed?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Automobile",
+        "isAnswer": true
+      },
+      {
+        "value": "Aviation",
+        "isAnswer": true
+      },
+      {
+        "value": "Shipbuilding",
+        "isAnswer": false
+      },
+      {
+        "value": "Coal mining",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Dylan Thomas was a famous writer and poet from which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nDuring the Great Depression of the 1930s the UK had high levels of employment.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nCatherine Howard was the sixth wife of Henry VIII",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is NOT correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "D-Day was allied operation that attacked German forces in France by advancing through Spain.",
+        "isAnswer": false
+      },
+      {
+        "value": "The attack on Normandy by Allied forces is often called D-Day.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The Industrial Revolution saw the rapid growth of which of the following in the 18th and 19th centuries?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Population",
+        "isAnswer": false
+      },
+      {
+        "value": "Democracy",
+        "isAnswer": false
+      },
+      {
+        "value": "Industry",
+        "isAnswer": true
+      },
+      {
+        "value": "Agriculture",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Where did Mary Stuart spend most of her childhood?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Germany",
+        "isAnswer": false
+      },
+      {
+        "value": "Spain",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "France",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "When was the first Union Flag created?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "1609",
+        "isAnswer": false
+      },
+      {
+        "value": "1606",
+        "isAnswer": true
+      },
+      {
+        "value": "1506",
+        "isAnswer": false
+      },
+      {
+        "value": "1706",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO wars was England involved in during the Middle Ages?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Crimean",
+        "isAnswer": false
+      },
+      {
+        "value": "Crusades",
+        "isAnswer": true
+      },
+      {
+        "value": "Peninsular",
+        "isAnswer": false
+      },
+      {
+        "value": "Hundred Years War",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Sir Chris Hoy is a famous sportsman in which event or sport?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Swimming",
+        "isAnswer": false
+      },
+      {
+        "value": "Cycling",
+        "isAnswer": true
+      },
+      {
+        "value": "Ice Skating",
+        "isAnswer": false
+      },
+      {
+        "value": "Athletics",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "On which date is St Patrick's Day celebrated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "30 November",
+        "isAnswer": false
+      },
+      {
+        "value": "17 March",
+        "isAnswer": true
+      },
+      {
+        "value": "23 April",
+        "isAnswer": false
+      },
+      {
+        "value": "1 March",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous British composers?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Ralph Vaughan Williams",
+        "isAnswer": true
+      },
+      {
+        "value": "Claude Debussy",
+        "isAnswer": false
+      },
+      {
+        "value": "Henry Purcell",
+        "isAnswer": true
+      },
+      {
+        "value": "Johann Sebastian Bach",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe UK has a declining elderly population.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The National Assembly makes laws for Wales in 20 areas. It does not make laws in which of the following areas?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Housing",
+        "isAnswer": false
+      },
+      {
+        "value": "Education and training",
+        "isAnswer": false
+      },
+      {
+        "value": "Health and social services",
+        "isAnswer": false
+      },
+      {
+        "value": "Economic policy",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is a jury made up of?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People working in high-power jobs",
+        "isAnswer": false
+      },
+      {
+        "value": "People who are members of political parties",
+        "isAnswer": false
+      },
+      {
+        "value": "People randomly chosen from the electoral register",
+        "isAnswer": true
+      },
+      {
+        "value": "People who have submitted an application form and been accepted.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The civil service largely consists of political appointees.",
+        "isAnswer": false
+      },
+      {
+        "value": "The civil service is politically neutral.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nYou must always tell a canvasser how you intend to vote.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What did hereditary peers lose in 1999?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The right to own land",
+        "isAnswer": false
+      },
+      {
+        "value": "The automatic right to sit in the House of Lords",
+        "isAnswer": true
+      },
+      {
+        "value": "The right to speak in Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "The right to elect other peers to the House of Lords",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Income tax is not paid on which of the following forms of income?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Money you win on the lottery",
+        "isAnswer": true
+      },
+      {
+        "value": "Pension",
+        "isAnswer": false
+      },
+      {
+        "value": "Benefits",
+        "isAnswer": false
+      },
+      {
+        "value": "All of the above",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Someone wishing to stand as a candidate for election as an MP would need to be how old?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      },
+      {
+        "value": "There is no minimum age limit",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "The Northern Ireland Assembly makes decisions in which TWO of the following areas?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Foreign policy",
+        "isAnswer": true
+      },
+      {
+        "value": "The environment",
+        "isAnswer": false
+      },
+      {
+        "value": "Agriculture",
+        "isAnswer": true
+      },
+      {
+        "value": "Nuclear energy",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Council of Europe has the power to make laws, which are binding in member states.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  }
+]

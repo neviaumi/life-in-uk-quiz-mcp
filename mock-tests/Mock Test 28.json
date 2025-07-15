@@ -1,0 +1,458 @@
+[
+  {
+    "question": "What are TWO fundamental principles of British life?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Tolerance of those with different faiths and beliefs",
+        "isAnswer": true
+      },
+      {
+        "value": "Participation in community life",
+        "isAnswer": true
+      },
+      {
+        "value": "Growing your own fruit and vegetables",
+        "isAnswer": false
+      },
+      {
+        "value": "Only driving your car on weekdays",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Industrial Revolution introduced changes in the banking system in the 1970's.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Industrial Revolution was the rapid development of industry in the 18th and 19th centuries.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The first person to use the title Prime Minister was Sir Christopher Wren.",
+        "isAnswer": false
+      },
+      {
+        "value": "The first person to use the title Prime Minister was Sir Robert Walpole.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO records tells us about England during the time of William I?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Bayeux Tapestry",
+        "isAnswer": true
+      },
+      {
+        "value": "Diary of Samuel Pepys",
+        "isAnswer": false
+      },
+      {
+        "value": "Magna Carta",
+        "isAnswer": false
+      },
+      {
+        "value": "Domesday Book",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIsaac Newton is a famous musician from the 18th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which product did the UK produce over half the world's supply in the 19th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Rubber",
+        "isAnswer": false
+      },
+      {
+        "value": "Beer",
+        "isAnswer": false
+      },
+      {
+        "value": "Cigarettes",
+        "isAnswer": false
+      },
+      {
+        "value": "Cotton cloth",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1707 the kingdoms of England and Scotland were united.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMargaret Thatcher was the longest-serving UK Prime Minister of the 20th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Wars of the Roses were between the houses of Windsor and Tudor",
+        "isAnswer": false
+      },
+      {
+        "value": "The War of the Roses was between the houses of Lancaster and York.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In 1948 Aneurin (Nye) Bevan led the establishment of the National Health Service (NHS). What was his role at the time?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Deputy Prime Minister",
+        "isAnswer": false
+      },
+      {
+        "value": "Minister for Health",
+        "isAnswer": true
+      },
+      {
+        "value": "Home secretary",
+        "isAnswer": false
+      },
+      {
+        "value": "Minister for Social Security",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Royal Society was formed to promote what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Natural knowledge",
+        "isAnswer": true
+      },
+      {
+        "value": "Astronomy",
+        "isAnswer": false
+      },
+      {
+        "value": "Art",
+        "isAnswer": false
+      },
+      {
+        "value": "Music",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Education Act of 1944 is often called The Butler Act and introduced free secondary education in England and Wales.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What do we know about the life of Anne Boleyn?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "She never married",
+        "isAnswer": false
+      },
+      {
+        "value": "She ruled with William",
+        "isAnswer": false
+      },
+      {
+        "value": "She had one daughter with Henry VIII named Elizabeth",
+        "isAnswer": true
+      },
+      {
+        "value": "She married Henry VIII late in his life, and survived him",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following factors contributed to Industrial Revolution in Britain?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The development of steam power and machinery",
+        "isAnswer": true
+      },
+      {
+        "value": "The foundation of the modern welfare state",
+        "isAnswer": false
+      },
+      {
+        "value": "The repealing of the Corn Laws",
+        "isAnswer": true
+      },
+      {
+        "value": "The outbreak of plague",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which is the most popular sport in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Tennis",
+        "isAnswer": false
+      },
+      {
+        "value": "Football",
+        "isAnswer": true
+      },
+      {
+        "value": "Rugby",
+        "isAnswer": false
+      },
+      {
+        "value": "Golf",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What celebration takes place each year on 14 February?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Halloween",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day",
+        "isAnswer": true
+      },
+      {
+        "value": "Hogmanay",
+        "isAnswer": false
+      },
+      {
+        "value": "Bonfire Night",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the famous horse race held in Liverpool?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Grand National",
+        "isAnswer": true
+      },
+      {
+        "value": "Grand Chase",
+        "isAnswer": false
+      },
+      {
+        "value": "Grand Derby",
+        "isAnswer": false
+      },
+      {
+        "value": "Steeplechase",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Northern Irish portrait artist, who died in 1941, painted some portraits of the Royal Family?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Harley Robinson",
+        "isAnswer": false
+      },
+      {
+        "value": "Basil Blackshaw",
+        "isAnswer": false
+      },
+      {
+        "value": "Paul Henry",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir John Lavery",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In 1998 the Good Friday Agreement devolved powers to Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "In 1998 the Good Friday Agreement let to the establishment of the Northern Ireland Assembly",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "By joining a political party, what TWO activities might you be involved in?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Handling out leaflets in the street",
+        "isAnswer": true
+      },
+      {
+        "value": "Joining your MP for sessions in the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "Violent clashes with other political parties",
+        "isAnswer": false
+      },
+      {
+        "value": "Knocking on people's doors and asking for support",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What happens when a Member of Parliament (MP) dies or resigns?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A neighbouring MP looks after the constituency",
+        "isAnswer": false
+      },
+      {
+        "value": "A by-election is held to replace the MP",
+        "isAnswer": true
+      },
+      {
+        "value": "The post remains vacant until the next General Election.",
+        "isAnswer": false
+      },
+      {
+        "value": "Their party chooses someone to fill the post until the next General Election.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\n The home Secretary is the government minister responsible for managing relationships with foreign countries.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is one of the Queen's important ceremonial roles?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To receive foreign ambassadors and high commissioners",
+        "isAnswer": true
+      },
+      {
+        "value": "To write laws",
+        "isAnswer": false
+      },
+      {
+        "value": "To negotiate trade agreements with other countries",
+        "isAnswer": false
+      },
+      {
+        "value": "To chair debates in Parliament",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In the UK, it is acceptable to discriminate against people for which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Religion or beliefs",
+        "isAnswer": false
+      },
+      {
+        "value": "None of the above",
+        "isAnswer": true
+      },
+      {
+        "value": "Age",
+        "isAnswer": false
+      },
+      {
+        "value": "Pregnancy or maternity",
+        "isAnswer": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "question": "What do you accept and agree to when you become a permanent resident of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Protestant beliefs and values",
+        "isAnswer": false
+      },
+      {
+        "value": "Traditions of the UK",
+        "isAnswer": true
+      },
+      {
+        "value": "The right to be tried for crimes in your country of origin",
+        "isAnswer": false
+      },
+      {
+        "value": "Catholic beliefs and values",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1588 the English fleet defeated a large French fleet of ships that intended to land an army in England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBefore 1215 there were no laws to limit the power of the king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1707 the kingdoms of England and Scotland were united.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "An attempt by which group to put James II's son on the throne instead of George I was quickly defeated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "French Huguenots",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Jacobites",
+        "isAnswer": true
+      },
+      {
+        "value": "Irish Catholics",
+        "isAnswer": false
+      },
+      {
+        "value": "English Puritans",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish poet wrote The Bruce about the Battle of Bannockburn?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Robert Burns",
+        "isAnswer": false
+      },
+      {
+        "value": "John Milton",
+        "isAnswer": false
+      },
+      {
+        "value": "John Barbour",
+        "isAnswer": true
+      },
+      {
+        "value": "Geoffrey Chaucer",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "James II invaded Ireland in an attempt to regain the throne with an army from which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "France",
+        "isAnswer": true
+      },
+      {
+        "value": "Germany",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a famous Stone Age site in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Globe Theatre",
+        "isAnswer": false
+      },
+      {
+        "value": "Windsor Castle",
+        "isAnswer": false
+      },
+      {
+        "value": "Nelson's Column",
+        "isAnswer": false
+      },
+      {
+        "value": "Stonehenge",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe threat of Viking attack caused the people in the north to unite, and the term Scotland was used to describe that country.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous UK landmarks?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Snowdonia",
+        "isAnswer": true
+      },
+      {
+        "value": "Notre Dame",
+        "isAnswer": false
+      },
+      {
+        "value": "Loch Lomond",
+        "isAnswer": true
+      },
+      {
+        "value": "Grand Canyon",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous gardens in the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Snowdonia",
+        "isAnswer": false
+      },
+      {
+        "value": "London eye",
+        "isAnswer": false
+      },
+      {
+        "value": "Sissinghurst",
+        "isAnswer": true
+      },
+      {
+        "value": "Bodnant Garden",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous British artists?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Andy Murray",
+        "isAnswer": false
+      },
+      {
+        "value": "David Hockney",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Edward Elgar",
+        "isAnswer": false
+      },
+      {
+        "value": "Henry Moore",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA traditional food in Wales is Ulster fry.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "With which sport do you associate Lewis Hamilton, Jensen Button and Damon Hill?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Football",
+        "isAnswer": false
+      },
+      {
+        "value": "Formula 1",
+        "isAnswer": true
+      },
+      {
+        "value": "Athletics",
+        "isAnswer": false
+      },
+      {
+        "value": "Skiing",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Lake District is England's largest national park",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe small claims procedure is an informal way for people to settle minor disputes.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What important change to our voting rights took place in 1969?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Compulsory voting was introduced",
+        "isAnswer": false
+      },
+      {
+        "value": "The voting age was reduced to 18 for men and women",
+        "isAnswer": true
+      },
+      {
+        "value": "Prisoners were given the vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Women over 35 were given the vote",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In the UK, employers can discriminate against different groups of people.",
+        "isAnswer": false
+      },
+      {
+        "value": "UK laws ensure people are not treated unfairly in any area of work or life.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Magistrates usually work unpaid and do not need legal qualifications",
+        "isAnswer": true
+      },
+      {
+        "value": "Magistrates must be specially trained legal experts who have been solicitors for three years.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWales, Scotland and Northern Ireland each have devolved administrations which give them total control over all policies and laws.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\n Life peers in the House of Lords can pass on their title to their first-born child",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Income tax is not paid on which of the following forms of income?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Benefits",
+        "isAnswer": false
+      },
+      {
+        "value": "Money you win on the lottery",
+        "isAnswer": true
+      },
+      {
+        "value": "Pension",
+        "isAnswer": false
+      },
+      {
+        "value": "All of the above",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAll MPs represent one of the main political parties.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  }
+]

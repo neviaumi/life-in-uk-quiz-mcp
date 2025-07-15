@@ -1,0 +1,474 @@
+[
+  {
+    "question": "What is a responsibility that you will have as a citizen or permanent resident of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To keep your dog on a lead at all times",
+        "isAnswer": false
+      },
+      {
+        "value": "To avoid shopping on a Sunday",
+        "isAnswer": false
+      },
+      {
+        "value": "To look after yourself and your family",
+        "isAnswer": true
+      },
+      {
+        "value": "To grow your own vegetables",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the following statement TRUE or FALSE?\nThere is no place in British society for extremism or intolerance.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "mark one answer",
+    "options": [
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry in Britain in the 20th century.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry that began in the 18th century.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What special type of windows did many cathedrals built in the Middle Ages have?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sash",
+        "isAnswer": false
+      },
+      {
+        "value": "Stained glass",
+        "isAnswer": true
+      },
+      {
+        "value": "Arched",
+        "isAnswer": false
+      },
+      {
+        "value": "Mullioned",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How did Jane Seymour die?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The plague",
+        "isAnswer": false
+      },
+      {
+        "value": "Old age",
+        "isAnswer": false
+      },
+      {
+        "value": "She was executed",
+        "isAnswer": false
+      },
+      {
+        "value": "following childbirth",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO were great thinkers of the Enlightenment?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Adam Smith",
+        "isAnswer": true
+      },
+      {
+        "value": "Robert Burns",
+        "isAnswer": false
+      },
+      {
+        "value": "David Hume",
+        "isAnswer": true
+      },
+      {
+        "value": "Robert Louis Stevenson",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Hadrian's Wall was built to keep out whom?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "The Vikings",
+        "isAnswer": false
+      },
+      {
+        "value": "The Picts",
+        "isAnswer": true
+      },
+      {
+        "value": "The Irish",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What happened to Margaret Thatcher in 1979 to make her famous in UK history?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "She was made a general in the British army.",
+        "isAnswer": false
+      },
+      {
+        "value": "She became the first woman Prime Minister.",
+        "isAnswer": true
+      },
+      {
+        "value": "She took part in the Olympics.",
+        "isAnswer": false
+      },
+      {
+        "value": "She became a High Court judge",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Sake Dean Mahomet opened which establishment in George Street, London in 1810?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Mahomet Coffee House",
+        "isAnswer": false
+      },
+      {
+        "value": "Mahomet Shampoo Parlour",
+        "isAnswer": false
+      },
+      {
+        "value": "Pakistan Curry House",
+        "isAnswer": false
+      },
+      {
+        "value": "Hindustan Coffee House",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nRichard Arkwright developed horse-driven spinning mills that used only one machine, increasing efficiency and production.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn the Middle Ages, England's systems of 'common law' was established by referring to previous decisions and tradition.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What are small Scottish farms also known as?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Homesteads",
+        "isAnswer": false
+      },
+      {
+        "value": "Crofts",
+        "isAnswer": true
+      },
+      {
+        "value": "Bothies",
+        "isAnswer": false
+      },
+      {
+        "value": "Hamlets",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What did Iron Age people sometimes defend?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "None of the above",
+        "isAnswer": false
+      },
+      {
+        "value": "Long walls",
+        "isAnswer": false
+      },
+      {
+        "value": "Castles",
+        "isAnswer": false
+      },
+      {
+        "value": "Hill forts",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What were women campaigning for the right to vote known as?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Suffragettes",
+        "isAnswer": true
+      },
+      {
+        "value": "Democrettes",
+        "isAnswer": false
+      },
+      {
+        "value": "Feminettes",
+        "isAnswer": false
+      },
+      {
+        "value": "Votettes",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSake Dean Mahomet was born in 1759 and grew up in the Bengal Religion of India.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In 1348 a third of the populations of England, Wales and Scotland died as a result of which plague?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Green Death",
+        "isAnswer": false
+      },
+      {
+        "value": "The Black Death",
+        "isAnswer": true
+      },
+      {
+        "value": "The Blue Death",
+        "isAnswer": false
+      },
+      {
+        "value": "The White Death",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which event occurs each year on the third Sunday in June?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Boxing Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Halloween",
+        "isAnswer": false
+      },
+      {
+        "value": "Remembrance Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Father's Day",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In which language was The Canterbury Tales written?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "French",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Gaelic",
+        "isAnswer": false
+      },
+      {
+        "value": "English",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What festival is celebrated on the 31st of October?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Bonfire Night",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Hogmanay",
+        "isAnswer": false
+      },
+      {
+        "value": "Halloween",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Murder, assault and theft are examples of civil disputes.",
+        "isAnswer": false
+      },
+      {
+        "value": "Murder, assault and theft are crimes.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO things can you do to look after the environment?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Never turn the lights off in your house",
+        "isAnswer": false
+      },
+      {
+        "value": "Recycle you waste",
+        "isAnswer": true
+      },
+      {
+        "value": "Walk and use public transport to get around",
+        "isAnswer": true
+      },
+      {
+        "value": "Drive your car as much as possible",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In the UK organ donation is voluntary.",
+        "isAnswer": true
+      },
+      {
+        "value": "In the UK organ donation is a legal requirement.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who do some local councils appoint as a ceremonial leader?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A mayor",
+        "isAnswer": true
+      },
+      {
+        "value": "A local business leader",
+        "isAnswer": false
+      },
+      {
+        "value": "A local celebrity",
+        "isAnswer": false
+      },
+      {
+        "value": "A member of the Royal Family",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who is the head of state?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Prince Philip",
+        "isAnswer": false
+      },
+      {
+        "value": "The Queen",
+        "isAnswer": true
+      },
+      {
+        "value": "The President",
+        "isAnswer": false
+      },
+      {
+        "value": "The Prime Minister",
+        "isAnswer": false
+      }
+    ]
+  }
+]

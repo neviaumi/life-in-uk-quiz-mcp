@@ -1,0 +1,394 @@
+[
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The 'Divine Rights of Kings' meant that the king was appointed by God.",
+        "isAnswer": true
+      },
+      {
+        "value": "The 'Divine Rights of Kings' meant that the English king should rule France.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "During Queen Elizabeth I's reign, English settlers began to colonise Australia.",
+        "isAnswer": false
+      },
+      {
+        "value": "During Queen Elizabeth I's reign, English settlers began to colonise the eastern coast of North America.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBefore 1215 there were no laws to limit the power of the king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBritain and Germany developed Concorde, a passenger supersonic aircraft",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Elizabeth I came to the throne when, following a short reign, her half-sister Mary died.",
+        "isAnswer": true
+      },
+      {
+        "value": "Elizabeth I came to the throne when, following a long reign, her cousin Mary died.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were members of the Royal Society?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Sir Edmond Halley",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Isaac Newton",
+        "isAnswer": true
+      },
+      {
+        "value": "Samuel Pepys",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Christopher Wren",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Bill of Rights confirmed the rights of Parliament and limits of the king's power.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Houses of Parliament are built in the medieval 'gothic' style of architecture.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is true?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Most People live in the countryside but much of Britain is covered by towns and cities.",
+        "isAnswer": false
+      },
+      {
+        "value": "Most people live in towns and cities but much of Britain is still countryside",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are major horse-racing events in the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Scottish Grand National",
+        "isAnswer": true
+      },
+      {
+        "value": "Six Nations Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "The Open Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "Royal Ascot",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "When walking with your dog in a public place, what must you ensure?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "That your dog does not come into contact with other dogs",
+        "isAnswer": false
+      },
+      {
+        "value": "That your dog wears a special dog coat",
+        "isAnswer": false
+      },
+      {
+        "value": "That your dog never strays more than 3 metres away from you",
+        "isAnswer": false
+      },
+      {
+        "value": "That your dog wears a collar showing the name and address of the owner",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FASLE?\nDundee and Aberdeen are cities in Northern Ireland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWilliam Blake, Lord Byron and Robert Browning were all famous golfers.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe British Broadcasting Corporation (BBC) is financed by selling adverting space during television programmes.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "There is no established Church in Wales or Northern Ireland.",
+        "isAnswer": true
+      },
+      {
+        "value": "Wales and Northern Ireland each have their own Church of state.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the novel Lucky Jim?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Kingsley Arnis",
+        "isAnswer": true
+      },
+      {
+        "value": "James Callaghan",
+        "isAnswer": false
+      },
+      {
+        "value": "Jimmy Tarbuck",
+        "isAnswer": false
+      },
+      {
+        "value": "James Joyce",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Houses of Parliament are built in the medieval 'gothic' style of architecture.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What system of government does the UK have?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Parliament democracy",
+        "isAnswer": true
+      },
+      {
+        "value": "Dictatorship",
+        "isAnswer": false
+      },
+      {
+        "value": "Federal government",
+        "isAnswer": false
+      },
+      {
+        "value": "Communist government",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The official home of the Prime Minister is 10 Downing Street.",
+        "isAnswer": true
+      },
+      {
+        "value": "The official home of the Prime Minister is Buckingham Palace.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In Northern Ireland all those entitled to vote must complete their own registration form.",
+        "isAnswer": true
+      },
+      {
+        "value": "In Northern Ireland a member of your family must complete a voting registration form on your behalf.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What are members of the Northern Ireland Parliament known as?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "MLAs",
+        "isAnswer": true
+      },
+      {
+        "value": "MEPs",
+        "isAnswer": false
+      },
+      {
+        "value": "MPs",
+        "isAnswer": false
+      },
+      {
+        "value": "MNIPs",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "You should ignore your new neighbours if they want to introduce themselves to you",
+        "isAnswer": false
+      },
+      {
+        "value": "You may introduce yourself to your neighbours when you move into a new house or flat, if circumstances permit",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "How many countries belong to the Commonwealth?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "29",
+        "isAnswer": false
+      },
+      {
+        "value": "12",
+        "isAnswer": false
+      },
+      {
+        "value": "54",
+        "isAnswer": true
+      },
+      {
+        "value": "25",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAll MPs represent one of the main political parties.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  }
+]
