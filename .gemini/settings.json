@@ -1,0 +1,10 @@
+{
+  "allowMCPServers": ["life-in-uk-quiz"],
+  "mcpServers": {
+    "life-in-uk-quiz": {
+      "command": "/Users/davidng/.nvm/versions/node/v22.13.0/bin/node",
+      "args": ["main.js"],
+      "cwd": "/Users/davidng/WebstormProjects/life-in-uk-quiz-mcp"
+    }
+  }
+}
