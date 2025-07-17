@@ -1,1 +1,450 @@
-[{"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Bonnie Prince Charlie became King Charles II of England in 1660.", "isAnswer": false}, {"value": "Charles, king of Scotland, was restored as King Charles II of England in 1660.", "isAnswer": true}]}, {"question": "Why was the Habeas Corpus Act of 1679 so important?", "remark": "Mark one answer", "options": [{"value": "It ensured that those who died could only be buried by a relative.", "isAnswer": false}, {"value": "It ended capital punishment in England.", "isAnswer": false}, {"value": "It allowed people to bury the dead where they wished.", "isAnswer": false}, {"value": "It ensured no person could be held unlawfully.", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The Swinging Sixties was a period of social change.", "isAnswer": true}, {"value": "The Swinging sixties was a period of religious change.", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nKing Henry Vlll created the Church of England when the pope refused to grant him a divorce.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nIn 1833 a law abolished slavery throughout the British Empire.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The UK experienced high levels of employment during the Great Depression of the 1930s.", "isAnswer": false}, {"value": "During the Great Depression of the 1930s, parts of the UK experienced mass unemployment.", "isAnswer": true}]}, {"question": "Who introduced a system called feudalism to Britain?", "remark": "Mark one answer", "options": [{"value": "Vikings", "isAnswer": false}, {"value": "Normans", "isAnswer": true}, {"value": "Jutes", "isAnswer": false}, {"value": "Anglo-Saxons", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The Industrial Revolution is the name given to the rapid development of industry that began in the 18th century.", "isAnswer": true}, {"value": "The Industrial Revolution is the name given to the rapid development of industry in Britain in the 20th century.", "isAnswer": false}]}, {"question": "Which TWO of the following are Christian religious festivals celebrated in the UK?", "remark": "Mark two answers", "options": [{"value": "Easter", "isAnswer": true}, {"value": "Halloween", "isAnswer": false}, {"value": "Christmas", "isAnswer": true}, {"value": "New Year", "isAnswer": false}]}, {"question": "Which TWO are famous UK landmarks?", "remark": "Mark two answers", "options": [{"value": "Snowdonia", "isAnswer": true}, {"value": "Loch Lomond", "isAnswer": true}, {"value": "Notre Dame", "isAnswer": false}, {"value": "Grand Canyon", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe Crown Jewels are kept at the Tower of London.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Which two are famous British authors?", "remark": "Mark two answers", "options": [{"value": "Mary Quant", "isAnswer": false}, {"value": "Thomas Hardy", "isAnswer": true}, {"value": "Henry Moore", "isAnswer": false}, {"value": "Graham Greene", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nThe Lake District is England's largest national park", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Who wrote Paradise Lost?", "remark": "Mark one answer", "options": [{"value": "John Milton", "isAnswer": true}, {"value": "Rider Haggard", "isAnswer": false}, {"value": "Salman Rushdie", "isAnswer": false}, {"value": "William Shakespeare", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Volunteering is a good way to earn additional money.", "isAnswer": false}, {"value": "Volunteering is a way of helping others without receiving payment.", "isAnswer": true}]}, {"question": "Which TWO are examples of Civil law?", "remark": "Mark two answers", "options": [{"value": "Disputes between landlords and tenants", "isAnswer": true}, {"value": "Discrimination in the Workplace", "isAnswer": true}, {"value": "Carrying a weapon", "isAnswer": false}, {"value": "Selling tobacco", "isAnswer": false}]}, {"question": "How many people serve on a jury in Scotland?", "remark": "Mark one answer", "options": [{"value": "20", "isAnswer": false}, {"value": "15", "isAnswer": true}, {"value": "8", "isAnswer": false}, {"value": "11", "isAnswer": false}]}, {"question": "Which of the following area does civil law cover?", "remark": "Mark one answer", "options": [{"value": "Debt", "isAnswer": true}, {"value": "Drunk and disorderly behaviour", "isAnswer": false}, {"value": "burglary", "isAnswer": false}, {"value": "Violent crime", "isAnswer": false}]}, {"question": "Who decides what should happen in legal disputes over contracts, property rights or employment rights?", "remark": "Mark one answer", "options": [{"value": "The peers", "isAnswer": false}, {"value": "The judiciary", "isAnswer": true}, {"value": "The media", "isAnswer": false}, {"value": "The Police", "isAnswer": false}]}, {"question": "The Scottish Parliament can make laws in which of the following areas?", "remark": "Mark one answer", "options": [{"value": "All of above", "isAnswer": true}, {"value": "Taxation", "isAnswer": false}, {"value": "Health", "isAnswer": false}, {"value": "Civil and criminal law", "isAnswer": false}]}, {"question": "How often is Prime Minister's Questions held?", "remark": "Mark one answer", "options": [{"value": "Every week while Parliament is in session", "isAnswer": true}, {"value": "Every month", "isAnswer": false}, {"value": "Every day while parliament is in session", "isAnswer": false}, {"value": "Every day", "isAnswer": false}]}, {"question": "In Northern Ireland, children who have committed an offence are dealt with by which of the following?", "remark": "Mark one answer", "options": [{"value": "A system called the Children's Hearings System", "isAnswer": false}, {"value": "A system of youth conferencing", "isAnswer": true}, {"value": "Crown Court", "isAnswer": false}, {"value": "A Youth Court", "isAnswer": false}]}, {"question": "Which TWO actions can political parties undertake to gain support for their candidate?", "remark": "Mark two answers", "options": [{"value": "Knocking on doors and talking", "isAnswer": true}, {"value": "Paying people to vote a certain way", "isAnswer": false}, {"value": "Handling out leaflets", "isAnswer": true}, {"value": "Threatening people to make them vote a certain way", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "You do not need the help of a lawyer to issue a small claim", "isAnswer": true}, {"value": "You will need the help of a lawyer to issue a small claim.", "isAnswer": false}]}]
+[
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Bonnie Prince Charlie became King Charles II of England in 1660.",
+        "isAnswer": false
+      },
+      {
+        "value": "Charles, king of Scotland, was restored as King Charles II of England in 1660.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Why was the Habeas Corpus Act of 1679 so important?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It ensured that those who died could only be buried by a relative.",
+        "isAnswer": false
+      },
+      {
+        "value": "It ended capital punishment in England.",
+        "isAnswer": false
+      },
+      {
+        "value": "It allowed people to bury the dead where they wished.",
+        "isAnswer": false
+      },
+      {
+        "value": "It ensured no person could be held unlawfully.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Swinging Sixties was a period of social change.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Swinging sixties was a period of religious change.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nKing Henry Vlll created the Church of England when the pope refused to grant him a divorce.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1833 a law abolished slavery throughout the British Empire.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK experienced high levels of employment during the Great Depression of the 1930s.",
+        "isAnswer": false
+      },
+      {
+        "value": "During the Great Depression of the 1930s, parts of the UK experienced mass unemployment.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who introduced a system called feudalism to Britain?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Vikings",
+        "isAnswer": false
+      },
+      {
+        "value": "Normans",
+        "isAnswer": true
+      },
+      {
+        "value": "Jutes",
+        "isAnswer": false
+      },
+      {
+        "value": "Anglo-Saxons",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry that began in the 18th century.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry in Britain in the 20th century.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are Christian religious festivals celebrated in the UK?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Easter",
+        "isAnswer": true
+      },
+      {
+        "value": "Halloween",
+        "isAnswer": false
+      },
+      {
+        "value": "Christmas",
+        "isAnswer": true
+      },
+      {
+        "value": "New Year",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous UK landmarks?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Snowdonia",
+        "isAnswer": true
+      },
+      {
+        "value": "Loch Lomond",
+        "isAnswer": true
+      },
+      {
+        "value": "Notre Dame",
+        "isAnswer": false
+      },
+      {
+        "value": "Grand Canyon",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Crown Jewels are kept at the Tower of London.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which two are famous British authors?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Mary Quant",
+        "isAnswer": false
+      },
+      {
+        "value": "Thomas Hardy",
+        "isAnswer": true
+      },
+      {
+        "value": "Henry Moore",
+        "isAnswer": false
+      },
+      {
+        "value": "Graham Greene",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Lake District is England's largest national park",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote Paradise Lost?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "John Milton",
+        "isAnswer": true
+      },
+      {
+        "value": "Rider Haggard",
+        "isAnswer": false
+      },
+      {
+        "value": "Salman Rushdie",
+        "isAnswer": false
+      },
+      {
+        "value": "William Shakespeare",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Volunteering is a good way to earn additional money.",
+        "isAnswer": false
+      },
+      {
+        "value": "Volunteering is a way of helping others without receiving payment.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are examples of Civil law?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Disputes between landlords and tenants",
+        "isAnswer": true
+      },
+      {
+        "value": "Discrimination in the Workplace",
+        "isAnswer": true
+      },
+      {
+        "value": "Carrying a weapon",
+        "isAnswer": false
+      },
+      {
+        "value": "Selling tobacco",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How many people serve on a jury in Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "20",
+        "isAnswer": false
+      },
+      {
+        "value": "15",
+        "isAnswer": true
+      },
+      {
+        "value": "8",
+        "isAnswer": false
+      },
+      {
+        "value": "11",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following area does civil law cover?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Debt",
+        "isAnswer": true
+      },
+      {
+        "value": "Drunk and disorderly behaviour",
+        "isAnswer": false
+      },
+      {
+        "value": "burglary",
+        "isAnswer": false
+      },
+      {
+        "value": "Violent crime",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who decides what should happen in legal disputes over contracts, property rights or employment rights?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The peers",
+        "isAnswer": false
+      },
+      {
+        "value": "The judiciary",
+        "isAnswer": true
+      },
+      {
+        "value": "The media",
+        "isAnswer": false
+      },
+      {
+        "value": "The Police",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The Scottish Parliament can make laws in which of the following areas?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "All of above",
+        "isAnswer": true
+      },
+      {
+        "value": "Taxation",
+        "isAnswer": false
+      },
+      {
+        "value": "Health",
+        "isAnswer": false
+      },
+      {
+        "value": "Civil and criminal law",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How often is Prime Minister's Questions held?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every week while Parliament is in session",
+        "isAnswer": true
+      },
+      {
+        "value": "Every month",
+        "isAnswer": false
+      },
+      {
+        "value": "Every day while parliament is in session",
+        "isAnswer": false
+      },
+      {
+        "value": "Every day",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In Northern Ireland, children who have committed an offence are dealt with by which of the following?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A system called the Children's Hearings System",
+        "isAnswer": false
+      },
+      {
+        "value": "A system of youth conferencing",
+        "isAnswer": true
+      },
+      {
+        "value": "Crown Court",
+        "isAnswer": false
+      },
+      {
+        "value": "A Youth Court",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO actions can political parties undertake to gain support for their candidate?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Knocking on doors and talking",
+        "isAnswer": true
+      },
+      {
+        "value": "Paying people to vote a certain way",
+        "isAnswer": false
+      },
+      {
+        "value": "Handling out leaflets",
+        "isAnswer": true
+      },
+      {
+        "value": "Threatening people to make them vote a certain way",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "You do not need the help of a lawyer to issue a small claim",
+        "isAnswer": true
+      },
+      {
+        "value": "You will need the help of a lawyer to issue a small claim.",
+        "isAnswer": false
+      }
+    ]
+  }
+]

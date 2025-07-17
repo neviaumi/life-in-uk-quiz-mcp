@@ -27,7 +27,7 @@
     "options": [
       {
         "value": "TRUE",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "FALSE",

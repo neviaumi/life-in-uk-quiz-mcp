@@ -1,1 +1,426 @@
-[{"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "James VI of Scotland was related to Queen Elizabeth I of England.", "isAnswer": true}, {"value": "James VI of Scotland was NOT related to Queen Elizabeth I of England.", "isAnswer": false}]}, {"question": "Charles I was unwilling to reach an agreement with Parliament. Following his defeat in the Civil War, What happened to him?", "remark": "Mark one answer", "options": [{"value": "He was executed", "isAnswer": true}, {"value": "He was exiled", "isAnswer": false}, {"value": "he was exonerated", "isAnswer": false}, {"value": "He was Excommunicated", "isAnswer": false}]}, {"question": "In what way was Elizabeth I skilled at managing Parliament?", "remark": "Mark one answer", "options": [{"value": "She established a balance between Catholics and protestants", "isAnswer": true}, {"value": "She reduced the power of parliament so her wishes had more significance", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe Domesday Book no longer exists. It was destroyed at the end of the Norman Conquest.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Henry VIII had six wives. What was the name of his first wife?", "remark": "Mark one answer", "options": [{"value": "Anne of Cleves", "isAnswer": false}, {"value": "Anne Boleyn", "isAnswer": false}, {"value": "Catherine Howards", "isAnswer": false}, {"value": "Catherine of Aragon", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nAt the beginning of the 'Middle Ages', England ruled Ireland.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nKing Henry I was on the throne at the time of Magna Carta.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "James I and Charles I believed in the 'Divine Right of Kings' and that they could rule without the approval of Parliament", "isAnswer": true}, {"value": "James I and Charles I were very skilled at negotiating with Parliament", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "In 1789 there was an unpopular new government in France and Britain declared war.", "isAnswer": false}, {"value": "In 1789 there was a revolution in France and the new French government declared war on Britain.", "isAnswer": true}]}, {"question": "In 1913, the British government promised Home Rule for Ireland. Which group within Ireland threatened to resist this move by force?", "remark": "Mark one answer", "options": [{"value": "The Muslims in the east", "isAnswer": false}, {"value": "The Buddhists in the west", "isAnswer": false}, {"value": "The protestants in the north", "isAnswer": true}, {"value": "The Protestants in the south", "isAnswer": false}]}, {"question": "Which TWO of the following names may be given to the day before Lent starts?", "remark": "Mark two answers", "options": [{"value": "Pancake Day", "isAnswer": true}, {"value": "Ash Wednesday", "isAnswer": false}, {"value": "Good Friday", "isAnswer": false}, {"value": "Shrove Tuesday", "isAnswer": true}]}, {"question": "Which TWO religions celebrate Diwali?", "remark": "Mark two answers", "options": [{"value": "Christians", "isAnswer": false}, {"value": "Buddhists", "isAnswer": false}, {"value": "Sikhs", "isAnswer": true}, {"value": "Hindus", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nMost people live in the countryside in the UK.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": true}, {"value": "TRUE", "isAnswer": false}]}, {"question": "During which part of the year are pantomime productions staged in theatres?", "remark": "Mark one answer", "options": [{"value": "Christmas", "isAnswer": true}, {"value": "Easter", "isAnswer": false}, {"value": "Summer", "isAnswer": false}, {"value": "Valentine's day", "isAnswer": false}]}, {"question": "Who are TWO famous British film directors?", "remark": "Mark two answers", "options": [{"value": "Sir Alfred Hitchcock", "isAnswer": true}, {"value": "Thomas Gainsborough", "isAnswer": false}, {"value": "Evelyn Waugh", "isAnswer": false}, {"value": "Ridley Scott", "isAnswer": true}]}, {"question": "For which TWO types of literature is William Shakespeare famous for?", "remark": "Mark two answers", "options": [{"value": "Sonnets", "isAnswer": true}, {"value": "Novels", "isAnswer": false}, {"value": "Plays", "isAnswer": true}, {"value": "Biographies", "isAnswer": false}]}, {"question": "At what age can you vote in a General Election in the UK?", "remark": "Mark one answer", "options": [{"value": "18", "isAnswer": true}, {"value": "23", "isAnswer": false}, {"value": "16", "isAnswer": false}, {"value": "21", "isAnswer": false}]}, {"question": "What if a Member of Parliament (MP) dies or resigns, what is the election called held to replace them?", "remark": "Mark one answer", "options": [{"value": "Hustings", "isAnswer": false}, {"value": "Selection", "isAnswer": false}, {"value": "Re-selection", "isAnswer": false}, {"value": "By-election", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The public can attend debates in the House of Commons.", "isAnswer": true}, {"value": "No member of the public is allowed to attend debates in the House of Commons.", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The UK has never been a member of NATO.", "isAnswer": false}, {"value": "The UK is a member of NATO.", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nYou can serve on a jury up to the age of 80.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": true}, {"value": "TRUE", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "All acts of Parliament are made in the Prime Minister's name.", "isAnswer": false}, {"value": "All acts of Parliament are made in the monarch's name.", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Proceedings in Parliament are broadcast on television", "isAnswer": true}, {"value": "Proceeding in Parliament cannot be reported in the press", "isAnswer": false}]}, {"question": "Causing trouble whilst drinking in public can result in which TWO of the following from the police?", "remark": "Mark two answers", "options": [{"value": "Praise", "isAnswer": false}, {"value": "A fine", "isAnswer": true}, {"value": "An award", "isAnswer": false}, {"value": "Arrest", "isAnswer": true}]}]
+[
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "James VI of Scotland was related to Queen Elizabeth I of England.",
+        "isAnswer": true
+      },
+      {
+        "value": "James VI of Scotland was NOT related to Queen Elizabeth I of England.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Charles I was unwilling to reach an agreement with Parliament. Following his defeat in the Civil War, What happened to him?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He was executed",
+        "isAnswer": true
+      },
+      {
+        "value": "He was exiled",
+        "isAnswer": false
+      },
+      {
+        "value": "he was exonerated",
+        "isAnswer": false
+      },
+      {
+        "value": "He was Excommunicated",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In what way was Elizabeth I skilled at managing Parliament?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "She established a balance between Catholics and protestants",
+        "isAnswer": true
+      },
+      {
+        "value": "She reduced the power of parliament so her wishes had more significance",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Domesday Book no longer exists. It was destroyed at the end of the Norman Conquest.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Henry VIII had six wives. What was the name of his first wife?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Anne of Cleves",
+        "isAnswer": false
+      },
+      {
+        "value": "Anne Boleyn",
+        "isAnswer": false
+      },
+      {
+        "value": "Catherine Howards",
+        "isAnswer": false
+      },
+      {
+        "value": "Catherine of Aragon",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAt the beginning of the 'Middle Ages', England ruled Ireland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nKing Henry I was on the throne at the time of Magna Carta.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "James I and Charles I believed in the 'Divine Right of Kings' and that they could rule without the approval of Parliament",
+        "isAnswer": true
+      },
+      {
+        "value": "James I and Charles I were very skilled at negotiating with Parliament",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In 1789 there was an unpopular new government in France and Britain declared war.",
+        "isAnswer": false
+      },
+      {
+        "value": "In 1789 there was a revolution in France and the new French government declared war on Britain.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In 1913, the British government promised Home Rule for Ireland. Which group within Ireland threatened to resist this move by force?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Muslims in the east",
+        "isAnswer": false
+      },
+      {
+        "value": "The Buddhists in the west",
+        "isAnswer": false
+      },
+      {
+        "value": "The protestants in the north",
+        "isAnswer": true
+      },
+      {
+        "value": "The Protestants in the south",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following names may be given to the day before Lent starts?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Pancake Day",
+        "isAnswer": true
+      },
+      {
+        "value": "Ash Wednesday",
+        "isAnswer": false
+      },
+      {
+        "value": "Good Friday",
+        "isAnswer": false
+      },
+      {
+        "value": "Shrove Tuesday",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO religions celebrate Diwali?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Christians",
+        "isAnswer": false
+      },
+      {
+        "value": "Buddhists",
+        "isAnswer": false
+      },
+      {
+        "value": "Sikhs",
+        "isAnswer": true
+      },
+      {
+        "value": "Hindus",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMost people live in the countryside in the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During which part of the year are pantomime productions staged in theatres?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Christmas",
+        "isAnswer": true
+      },
+      {
+        "value": "Easter",
+        "isAnswer": false
+      },
+      {
+        "value": "Summer",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's day",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who are TWO famous British film directors?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Sir Alfred Hitchcock",
+        "isAnswer": true
+      },
+      {
+        "value": "Thomas Gainsborough",
+        "isAnswer": false
+      },
+      {
+        "value": "Evelyn Waugh",
+        "isAnswer": false
+      },
+      {
+        "value": "Ridley Scott",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "For which TWO types of literature is William Shakespeare famous for?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Sonnets",
+        "isAnswer": true
+      },
+      {
+        "value": "Novels",
+        "isAnswer": false
+      },
+      {
+        "value": "Plays",
+        "isAnswer": true
+      },
+      {
+        "value": "Biographies",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "At what age can you vote in a General Election in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "23",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What if a Member of Parliament (MP) dies or resigns, what is the election called held to replace them?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Hustings",
+        "isAnswer": false
+      },
+      {
+        "value": "Selection",
+        "isAnswer": false
+      },
+      {
+        "value": "Re-selection",
+        "isAnswer": false
+      },
+      {
+        "value": "By-election",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The public can attend debates in the House of Commons.",
+        "isAnswer": true
+      },
+      {
+        "value": "No member of the public is allowed to attend debates in the House of Commons.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK has never been a member of NATO.",
+        "isAnswer": false
+      },
+      {
+        "value": "The UK is a member of NATO.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nYou can serve on a jury up to the age of 80.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "All acts of Parliament are made in the Prime Minister's name.",
+        "isAnswer": false
+      },
+      {
+        "value": "All acts of Parliament are made in the monarch's name.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Proceedings in Parliament are broadcast on television",
+        "isAnswer": true
+      },
+      {
+        "value": "Proceeding in Parliament cannot be reported in the press",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Causing trouble whilst drinking in public can result in which TWO of the following from the police?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Praise",
+        "isAnswer": false
+      },
+      {
+        "value": "A fine",
+        "isAnswer": true
+      },
+      {
+        "value": "An award",
+        "isAnswer": false
+      },
+      {
+        "value": "Arrest",
+        "isAnswer": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "question": "Which court would you use to get back money that was owed to you?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "County Court",
+        "isAnswer": true
+      },
+      {
+        "value": "Magistrates' Court",
+        "isAnswer": false
+      },
+      {
+        "value": "Youth Court",
+        "isAnswer": false
+      },
+      {
+        "value": "Coroner's Court",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How old do you have to be to go into a betting shop in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "21",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "25",
+        "isAnswer": false
+      },
+      {
+        "value": "30",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "For approximately how many years did the Romans remain in Britain?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "50 years",
+        "isAnswer": false
+      },
+      {
+        "value": "100 years",
+        "isAnswer": false
+      },
+      {
+        "value": "400 years",
+        "isAnswer": true
+      },
+      {
+        "value": "600 years",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWhen Queen Anne died in 1714, parliament chose a German to be the next king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Anglo-Saxon kingdoms in England united under King Alfred the Great.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Anglo-Saxon kingdoms in England united under King Kenneth MacAlpin.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThomas Hardy was a famous author who wrote Far from the Madding Crowd.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a traditional pub game in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scrabble",
+        "isAnswer": false
+      },
+      {
+        "value": "Pool",
+        "isAnswer": true
+      },
+      {
+        "value": "Rounders",
+        "isAnswer": false
+      },
+      {
+        "value": "Poker",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe main political parties actively look for members of the public to help at elections and contribute to their costs.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Magistrates usually work unpaid and do not need legal qualifications.",
+        "isAnswer": true
+      },
+      {
+        "value": "Magistrates must be specially trained legal experts who have been solicitors for three years.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who was given the title of Lord Protector in the 17th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "King Charles II",
+        "isAnswer": false
+      },
+      {
+        "value": "Samuel Pepys",
+        "isAnswer": false
+      },
+      {
+        "value": "Oliver Cromwell",
+        "isAnswer": true
+      },
+      {
+        "value": "Isaac Newton",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland, Wales and Northern Ireland have parliaments or assemblies of their own.",
+        "isAnswer": true
+      },
+      {
+        "value": "Scotland, Wales and Northern Ireland do not have parliaments or assemblies of their own.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Shakespeare wrote 'To be or not to be'.",
+        "isAnswer": true
+      },
+      {
+        "value": "Shakespeare wrote 'We will fight on the beaches'.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of these novels are by Charles Dickens?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Harry Potter and Great Expectations",
+        "isAnswer": false
+      },
+      {
+        "value": "Great Expectations and Oliver Twist",
+        "isAnswer": true
+      },
+      {
+        "value": "Harry Potter, and Pride and Prejudice",
+        "isAnswer": false
+      },
+      {
+        "value": "Pride and Prejudice, and Oliver Twist",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is the capital city of Wales?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Swansea",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": true
+      },
+      {
+        "value": "Edinburgh",
+        "isAnswer": false
+      },
+      {
+        "value": "Belfast",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why was the Habeas Corpus Act of 1679 so important?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It ensured no person could be held prisoner unlawfully.",
+        "isAnswer": true
+      },
+      {
+        "value": "It allowed people to bury the dead where they wished.",
+        "isAnswer": false
+      },
+      {
+        "value": "It ensured that those who died could only be buried by a relative.",
+        "isAnswer": false
+      },
+      {
+        "value": "It ended capital punishment in England.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAll young people are sent a National Insurance number just before their 16th birthday.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How old must you be to ride a moped in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "18",
+        "isAnswer": false
+      },
+      {
+        "value": "25",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": true
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During which part of the year are pantomime productions staged in theatres?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Easter",
+        "isAnswer": false
+      },
+      {
+        "value": "Summer",
+        "isAnswer": false
+      },
+      {
+        "value": "Christmas",
+        "isAnswer": true
+      },
+      {
+        "value": "Valentine's Day",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the youngest age at which you can be asked to serve on a jury?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "22",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      },
+      {
+        "value": "30",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Union Flag consists of four crosses, one for each part of the United Kingdom.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE OR FALSE?\nThe British constitution is contained in a single written document.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "When you apply to become a UK citizen or permanent resident, you can choose which laws and responsibilities you want to accept.",
+        "isAnswer": false
+      },
+      {
+        "value": "When you apply to become a UK citizen or permanent resident, you will be agreeing to respect the laws, values and traditions of the UK.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous horse-racing events?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Cup Final and the Six Nations",
+        "isAnswer": false
+      },
+      {
+        "value": "The Grand National and Royal Ascot",
+        "isAnswer": true
+      },
+      {
+        "value": "Royal Ascot and the Six Nations",
+        "isAnswer": false
+      },
+      {
+        "value": "The Grand National and the Cup Final",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "George and Robert Stephenson were famous pioneers of railway engines.",
+        "isAnswer": true
+      },
+      {
+        "value": "George and Robert Stephenson were famous pioneers of agricultural changes.",
+        "isAnswer": false
+      }
+    ]
+  }
+]

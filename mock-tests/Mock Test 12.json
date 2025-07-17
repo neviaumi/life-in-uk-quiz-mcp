@@ -49,11 +49,11 @@
     "options": [
       {
         "value": "TRUE",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "FALSE",
-        "isAnswer": false
+        "isAnswer": true
       }
     ]
   },

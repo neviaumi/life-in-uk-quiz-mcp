@@ -317,11 +317,11 @@
     "options": [
       {
         "value": "US",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "Australia",
-        "isAnswer": false
+        "isAnswer": true
       },
       {
         "value": "Ethiopia",
@@ -403,11 +403,11 @@
     "options": [
       {
         "value": "TRUE",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "FALSE",
-        "isAnswer": false
+        "isAnswer": true
       }
     ]
   },

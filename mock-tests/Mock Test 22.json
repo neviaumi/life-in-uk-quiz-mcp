@@ -83,7 +83,7 @@
     "options": [
       {
         "value": "It abolished rotten boroughs",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "It increased the number of people who could vote.",

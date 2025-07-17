@@ -1,1 +1,486 @@
-[{"question": "Which TWO are British overseas territories?", "remark": "Mark two answers", "options": [{"value": "St Helena", "isAnswer": true}, {"value": "Falkland Islands", "isAnswer": true}, {"value": "Hawaii", "isAnswer": false}]}, {"question": "Which TWO of the following were famous Victorians?", "remark": "Mark two answers", "options": [{"value": "Margaret Thatcher", "isAnswer": false}, {"value": "Isambard Kingdom Brunel", "isAnswer": true}, {"value": "Florence Nightingale", "isAnswer": true}, {"value": "Dylan Thomas", "isAnswer": false}]}, {"question": "Who were the 'suffragettes'?", "remark": "Mark one answer", "options": [{"value": "Women who campaigned for women's votes", "isAnswer": true}, {"value": "Women who left the UK to live in India", "isAnswer": false}, {"value": "Women who chose to be single", "isAnswer": false}, {"value": "Women who stayed at home to raise a family", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe Swinging Sixties is associated with the 1860s.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Which group of refugees settled in England before 1720?", "remark": "Mark one answer", "options": [{"value": "Germans", "isAnswer": false}, {"value": "Welsh", "isAnswer": false}, {"value": "Brelons", "isAnswer": false}, {"value": "Huguenots", "isAnswer": true}]}, {"question": "During the 1960s, Parliament passed new laws that made it illegal for employers to discriminate against women because of their gender and gave them which right?", "remark": "Mark one answer", "options": [{"value": "Equal pay", "isAnswer": true}, {"value": "Free lunches", "isAnswer": false}, {"value": "Childcare at work", "isAnswer": false}, {"value": "Two year's maternity leave", "isAnswer": false}]}, {"question": "On his escape from the Battle of Worcester, Charles II famously hid inside what?", "remark": "Mark one answer", "options": [{"value": "A forest", "isAnswer": false}, {"value": "A cellar", "isAnswer": false}, {"value": "An oak tree", "isAnswer": true}, {"value": "None of the above", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Robert Burns wrote in Scots language.", "isAnswer": false}, {"value": "Robert Burns wrote in Scots, English and a combination of both.", "isAnswer": true}]}, {"question": "Where did the Boer war take place?", "remark": "Mark one answer", "options": [{"value": "France", "isAnswer": false}, {"value": "England", "isAnswer": false}, {"value": "South Africa", "isAnswer": true}, {"value": "Turkey", "isAnswer": false}]}, {"question": "Rudyard Kipling was awarded which major prize in 1907?", "remark": "Mark one answer", "options": [{"value": "The Man Booker Prize", "isAnswer": false}, {"value": "The Pulitzer Prize", "isAnswer": false}, {"value": "The Nobel Prize in Literature", "isAnswer": true}, {"value": "The Somerset Maugham Award", "isAnswer": false}]}, {"question": "Which TWO of the following statements are correct?", "remark": "Mark two answers", "options": [{"value": "The Roman army faced no resistance during the invasions.", "isAnswer": false}, {"value": "The Romans unified the whole of the British Isles.", "isAnswer": false}, {"value": "The Romans built roads and public buildings, and created a structure of law.", "isAnswer": true}, {"value": "The Romans introduced new plants and animals to Britain.", "isAnswer": true}]}, {"question": "In England, parliaments were called when the king needed to consult the nobles and for what other reason?", "remark": "Mark one answer", "options": [{"value": "To create new lords", "isAnswer": false}, {"value": "To call elections", "isAnswer": false}, {"value": "To lower taxes", "isAnswer": false}, {"value": "To raise money", "isAnswer": true}]}, {"question": "Charles I believed, and tried to rule in line with, what principles?", "remark": "Mark one answer", "options": [{"value": "The Divine Rights of Kings", "isAnswer": true}, {"value": "Communism", "isAnswer": false}, {"value": "Democracy", "isAnswer": false}, {"value": "Religious virtue", "isAnswer": false}]}, {"question": "Jane Seymour gave birth to the son Henry VIII wanted. What was his name?", "remark": "Mark one answer", "options": [{"value": "Henry", "isAnswer": false}, {"value": "Edward", "isAnswer": true}, {"value": "Richard", "isAnswer": false}, {"value": "Edmund", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe American colonies rebelled against the British Parliament in the 18th century because they did not want to pay taxes without representation in Parliament.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": false}, {"value": "TRUE", "isAnswer": true}]}, {"question": "Textile and engineering firms recruited workers from which TWO countries after the Second World War?", "remark": "Mark two answers", "options": [{"value": "Pakistan", "isAnswer": true}, {"value": "India", "isAnswer": true}, {"value": "Canada", "isAnswer": false}, {"value": "South Africa", "isAnswer": false}]}, {"question": "The UK has what kind of monarchy?", "remark": "Mark one answer", "options": [{"value": "Provisional", "isAnswer": false}, {"value": "Absolute", "isAnswer": false}, {"value": "Democratic", "isAnswer": false}, {"value": "Constitutional", "isAnswer": true}]}, {"question": "Where in London is the White Tower?", "remark": "Mark one answer", "options": [{"value": "Palace of Westminster", "isAnswer": false}, {"value": "Buckingham Palace", "isAnswer": false}, {"value": "Tower of London", "isAnswer": true}, {"value": "St Paul's Cathedral", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nMo Farah and Jessica Ennis are well-known athletes who won gold medals at the 2012 London Olympics.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Which UK city hosted the 2012 Paralympics Games?", "remark": "Mark one answer", "options": [{"value": "Edinburgh", "isAnswer": false}, {"value": "Cardiff", "isAnswer": false}, {"value": "Belfast", "isAnswer": false}, {"value": "London", "isAnswer": true}]}, {"question": "Which of the following takes place on 14 February every year?", "remark": "Mark one answer", "options": [{"value": "St George's Day", "isAnswer": false}, {"value": "St Valentine's Day", "isAnswer": true}, {"value": "St Christopher's Day", "isAnswer": false}, {"value": "All Saints Day", "isAnswer": false}]}, {"question": "Who wrote the poem The Tyger?", "remark": "Mark one answer", "options": [{"value": "William Wallace", "isAnswer": false}, {"value": "William Blake", "isAnswer": true}, {"value": "William Shakespeare", "isAnswer": false}, {"value": "William Wordsworth", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nMembers of the public are allowed to attend Youth Court hearings.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Anyone who wishes to buy tobacco or tobacco products must be over what age?", "remark": "Mark one answer", "options": [{"value": "18", "isAnswer": true}, {"value": "14", "isAnswer": false}, {"value": "21", "isAnswer": false}, {"value": "16", "isAnswer": false}]}]
+[
+  {
+    "question": "Which TWO are British overseas territories?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "St Helena",
+        "isAnswer": true
+      },
+      {
+        "value": "Falkland Islands",
+        "isAnswer": true
+      },
+      {
+        "value": "Hawaii",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were famous Victorians?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Margaret Thatcher",
+        "isAnswer": false
+      },
+      {
+        "value": "Isambard Kingdom Brunel",
+        "isAnswer": true
+      },
+      {
+        "value": "Florence Nightingale",
+        "isAnswer": true
+      },
+      {
+        "value": "Dylan Thomas",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who were the 'suffragettes'?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Women who campaigned for women's votes",
+        "isAnswer": true
+      },
+      {
+        "value": "Women who left the UK to live in India",
+        "isAnswer": false
+      },
+      {
+        "value": "Women who chose to be single",
+        "isAnswer": false
+      },
+      {
+        "value": "Women who stayed at home to raise a family",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Swinging Sixties is associated with the 1860s.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which group of refugees settled in England before 1720?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Germans",
+        "isAnswer": false
+      },
+      {
+        "value": "Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "Brelons",
+        "isAnswer": false
+      },
+      {
+        "value": "Huguenots",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "During the 1960s, Parliament passed new laws that made it illegal for employers to discriminate against women because of their gender and gave them which right?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Equal pay",
+        "isAnswer": true
+      },
+      {
+        "value": "Free lunches",
+        "isAnswer": false
+      },
+      {
+        "value": "Childcare at work",
+        "isAnswer": false
+      },
+      {
+        "value": "Two year's maternity leave",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "On his escape from the Battle of Worcester, Charles II famously hid inside what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A forest",
+        "isAnswer": false
+      },
+      {
+        "value": "A cellar",
+        "isAnswer": false
+      },
+      {
+        "value": "An oak tree",
+        "isAnswer": true
+      },
+      {
+        "value": "None of the above",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Robert Burns wrote in Scots language.",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert Burns wrote in Scots, English and a combination of both.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Where did the Boer war take place?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "France",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa",
+        "isAnswer": true
+      },
+      {
+        "value": "Turkey",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Rudyard Kipling was awarded which major prize in 1907?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Man Booker Prize",
+        "isAnswer": false
+      },
+      {
+        "value": "The Pulitzer Prize",
+        "isAnswer": false
+      },
+      {
+        "value": "The Nobel Prize in Literature",
+        "isAnswer": true
+      },
+      {
+        "value": "The Somerset Maugham Award",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following statements are correct?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "The Roman army faced no resistance during the invasions.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Romans unified the whole of the British Isles.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Romans built roads and public buildings, and created a structure of law.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Romans introduced new plants and animals to Britain.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In England, parliaments were called when the king needed to consult the nobles and for what other reason?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To create new lords",
+        "isAnswer": false
+      },
+      {
+        "value": "To call elections",
+        "isAnswer": false
+      },
+      {
+        "value": "To lower taxes",
+        "isAnswer": false
+      },
+      {
+        "value": "To raise money",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Charles I believed, and tried to rule in line with, what principles?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Divine Rights of Kings",
+        "isAnswer": true
+      },
+      {
+        "value": "Communism",
+        "isAnswer": false
+      },
+      {
+        "value": "Democracy",
+        "isAnswer": false
+      },
+      {
+        "value": "Religious virtue",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Jane Seymour gave birth to the son Henry VIII wanted. What was his name?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Henry",
+        "isAnswer": false
+      },
+      {
+        "value": "Edward",
+        "isAnswer": true
+      },
+      {
+        "value": "Richard",
+        "isAnswer": false
+      },
+      {
+        "value": "Edmund",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe American colonies rebelled against the British Parliament in the 18th century because they did not want to pay taxes without representation in Parliament.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Textile and engineering firms recruited workers from which TWO countries after the Second World War?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Pakistan",
+        "isAnswer": true
+      },
+      {
+        "value": "India",
+        "isAnswer": true
+      },
+      {
+        "value": "Canada",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The UK has what kind of monarchy?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Provisional",
+        "isAnswer": false
+      },
+      {
+        "value": "Absolute",
+        "isAnswer": false
+      },
+      {
+        "value": "Democratic",
+        "isAnswer": false
+      },
+      {
+        "value": "Constitutional",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Where in London is the White Tower?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Palace of Westminster",
+        "isAnswer": false
+      },
+      {
+        "value": "Buckingham Palace",
+        "isAnswer": false
+      },
+      {
+        "value": "Tower of London",
+        "isAnswer": true
+      },
+      {
+        "value": "St Paul's Cathedral",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMo Farah and Jessica Ennis are well-known athletes who won gold medals at the 2012 London Olympics.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which UK city hosted the 2012 Paralympics Games?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Edinburgh",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": false
+      },
+      {
+        "value": "Belfast",
+        "isAnswer": false
+      },
+      {
+        "value": "London",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following takes place on 14 February every year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "St George's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "St Valentine's Day",
+        "isAnswer": true
+      },
+      {
+        "value": "St Christopher's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "All Saints Day",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote the poem The Tyger?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William Wallace",
+        "isAnswer": false
+      },
+      {
+        "value": "William Blake",
+        "isAnswer": true
+      },
+      {
+        "value": "William Shakespeare",
+        "isAnswer": false
+      },
+      {
+        "value": "William Wordsworth",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMembers of the public are allowed to attend Youth Court hearings.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Anyone who wishes to buy tobacco or tobacco products must be over what age?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "14",
+        "isAnswer": false
+      },
+      {
+        "value": "21",
+        "isAnswer": false
+      },
+      {
+        "value": "16",
+        "isAnswer": false
+      }
+    ]
+  }
+]

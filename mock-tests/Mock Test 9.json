@@ -215,11 +215,11 @@
     "options": [
       {
         "value": "FALSE",
-        "isAnswer": false
+        "isAnswer": true
       },
       {
         "value": "TRUE",
-        "isAnswer": true
+        "isAnswer": false
       }
     ]
   },

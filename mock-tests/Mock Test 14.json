@@ -1,1 +1,482 @@
-[{"question": "Which of the following is a Crown dependency?", "remark": "Mark one answer", "options": [{"value": "Scotland", "isAnswer": false}, {"value": "England", "isAnswer": false}, {"value": "Northern Ireland", "isAnswer": false}, {"value": "The Channel Islands", "isAnswer": true}]}, {"question": "Which of the following is a country of the UK?", "remark": "Mark one answer", "options": [{"value": "Isle of Man", "isAnswer": false}, {"value": "Scotland", "isAnswer": true}, {"value": "Republic of Ireland", "isAnswer": false}, {"value": "Channel Islands", "isAnswer": false}]}, {"question": "Which TWO wars was England involved in during the Middle Ages?", "remark": "Mark two answers", "options": [{"value": "Crimean", "isAnswer": false}, {"value": "Peninsular", "isAnswer": false}, {"value": "Hundred Years War", "isAnswer": true}, {"value": "Crusades", "isAnswer": true}]}, {"question": "Which TWO developments were features of the Industrial Revolution?", "remark": "Mark two answers", "options": [{"value": "Machinery", "isAnswer": true}, {"value": "Medical advances", "isAnswer": false}, {"value": "Steam power", "isAnswer": true}, {"value": "Changes in the law", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The Black Death was a plague that only had an impact in Ireland, where many people died.", "isAnswer": false}, {"value": "The Black Death brought about major changes in English society due to the number of people who died.", "isAnswer": true}]}, {"question": "What event in 1851 took place at the Crystal Palace in Hyde Park and showed goods and exhibits from Britain and across the world?", "remark": "Mark one answer", "options": [{"value": "The Great Show", "isAnswer": false}, {"value": "The Great Event", "isAnswer": false}, {"value": "The Great Exhibition", "isAnswer": true}, {"value": "The Great Occasion", "isAnswer": false}]}, {"question": "Which of these countries did not fight on the side of the Allied Powers during the First World War?", "remark": "Mark one answer", "options": [{"value": "Serbia", "isAnswer": false}, {"value": "Italy", "isAnswer": false}, {"value": "Bulgaria", "isAnswer": true}, {"value": "US", "isAnswer": false}]}, {"question": "Which Acts of Parliament, passed in 1832 and 1867, abolished rotten boroughs, gave more parliamentary seats to urban areas and greatly increased the right of people to vote?", "remark": "Mark one answer", "options": [{"value": "The Election Acts", "isAnswer": false}, {"value": "The Change Acts", "isAnswer": false}, {"value": "The Reform Acts", "isAnswer": true}, {"value": "The Voting Acts", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nCharles II marched into England with a Scottish army to reclaim his throne.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": false}, {"value": "TRUE", "isAnswer": true}]}, {"question": "Which of these TWO countries did poet and author Rudyard Kipling spend time living in?", "remark": "Mark two answers", "options": [{"value": "India", "isAnswer": true}, {"value": "Fiji", "isAnswer": false}, {"value": "USA", "isAnswer": true}, {"value": "Japan", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "There is a yearly sailing race on the River Thames between Oxford and Cambridge Universities.", "isAnswer": false}, {"value": "There is a yearly race on the River Thames between Oxford and Cambridge Universities.", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nNorthern Ireland and Scotland have their own banknotes.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": false}, {"value": "TRUE", "isAnswer": true}]}, {"question": "What are Beowulf, The Tyger and She Walks in Beauty?", "remark": "Mark one answer", "options": [{"value": "Novels", "isAnswer": false}, {"value": "Films", "isAnswer": false}, {"value": "Poems", "isAnswer": true}, {"value": "Plays", "isAnswer": false}]}, {"question": "Which TWO Patron saints' days occur in March?", "remark": "Mark two answers", "options": [{"value": "St George", "isAnswer": false}, {"value": "St David", "isAnswer": true}, {"value": "St Andrew", "isAnswer": false}, {"value": "St Patrick", "isAnswer": true}]}, {"question": "Which sport can be traced back to 15th-century Scotland?", "remark": "Mark one answer", "options": [{"value": "Motorbike racing", "isAnswer": false}, {"value": "Surfing", "isAnswer": false}, {"value": "Golf", "isAnswer": true}, {"value": "Formula 1", "isAnswer": false}]}, {"question": "Who wrote musicals such as Cats, The Phantom of the Opera and Evita?", "remark": "Mark one answer", "options": [{"value": "Julian Lloyd Webber", "isAnswer": false}, {"value": "Andrew Lloyd Webber", "isAnswer": true}, {"value": "Gilbert and Sullivan", "isAnswer": false}, {"value": "Sir Edward Elgar", "isAnswer": false}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The Wimbledon Championships are associated with tennis.", "isAnswer": true}, {"value": "The Wimbledon Championships are associated with athletics.", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nSir Ian Botham captained the England rugby team.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": true}, {"value": "TRUE", "isAnswer": false}]}, {"question": "John Petts was a Welshman famous in which of these TWO areas of art?", "remark": "Mark two answers", "options": [{"value": "Stained glass", "isAnswer": true}, {"value": "Engraving", "isAnswer": true}, {"value": "Water colours", "isAnswer": false}, {"value": "Painting of horses", "isAnswer": false}]}, {"question": "Which country are Loch Lomond and the Trossachs National Park found?", "remark": "Mark one answer", "options": [{"value": "Scotland", "isAnswer": true}, {"value": "Wales", "isAnswer": false}, {"value": "England", "isAnswer": false}, {"value": "Northern Ireland", "isAnswer": false}]}, {"question": "The game of golf is traditionally thought to have originated in which country?", "remark": "Mark one answer", "options": [{"value": "England", "isAnswer": false}, {"value": "Scotland", "isAnswer": true}, {"value": "Spain", "isAnswer": false}, {"value": "USA", "isAnswer": false}]}, {"question": "When is a by-election for a parliamentary seat held?", "remark": "Mark one answer", "options": [{"value": "Every two years", "isAnswer": false}, {"value": "When the Prime Minister decides to call one", "isAnswer": false}, {"value": "Half-way through a parliamentary term", "isAnswer": false}, {"value": "When a member of Parliament (MP) dies or resigns", "isAnswer": true}]}, {"question": "How many people make up a Scottish jury?", "remark": "Mark one answer", "options": [{"value": "20", "isAnswer": false}, {"value": "10", "isAnswer": false}, {"value": "15", "isAnswer": true}, {"value": "12", "isAnswer": false}]}, {"question": "At the beginning of the 19th century, which one of the following groups could vote?", "remark": "Mark one answer", "options": [{"value": "All women who owned property", "isAnswer": false}, {"value": "All adults over the age of 18", "isAnswer": false}, {"value": "Property-owning men over the age of 21", "isAnswer": true}, {"value": "Property-owning men over the age of 18", "isAnswer": false}]}]
+[
+  {
+    "question": "Which of the following is a Crown dependency?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "The Channel Islands",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a country of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Isle of Man",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      },
+      {
+        "value": "Republic of Ireland",
+        "isAnswer": false
+      },
+      {
+        "value": "Channel Islands",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO wars was England involved in during the Middle Ages?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Crimean",
+        "isAnswer": false
+      },
+      {
+        "value": "Peninsular",
+        "isAnswer": false
+      },
+      {
+        "value": "Hundred Years War",
+        "isAnswer": true
+      },
+      {
+        "value": "Crusades",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO developments were features of the Industrial Revolution?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Machinery",
+        "isAnswer": true
+      },
+      {
+        "value": "Medical advances",
+        "isAnswer": false
+      },
+      {
+        "value": "Steam power",
+        "isAnswer": true
+      },
+      {
+        "value": "Changes in the law",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Black Death was a plague that only had an impact in Ireland, where many people died.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Black Death brought about major changes in English society due to the number of people who died.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What event in 1851 took place at the Crystal Palace in Hyde Park and showed goods and exhibits from Britain and across the world?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Great Show",
+        "isAnswer": false
+      },
+      {
+        "value": "The Great Event",
+        "isAnswer": false
+      },
+      {
+        "value": "The Great Exhibition",
+        "isAnswer": true
+      },
+      {
+        "value": "The Great Occasion",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these countries did not fight on the side of the Allied Powers during the First World War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Serbia",
+        "isAnswer": false
+      },
+      {
+        "value": "Italy",
+        "isAnswer": false
+      },
+      {
+        "value": "Bulgaria",
+        "isAnswer": true
+      },
+      {
+        "value": "US",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Acts of Parliament, passed in 1832 and 1867, abolished rotten boroughs, gave more parliamentary seats to urban areas and greatly increased the right of people to vote?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Election Acts",
+        "isAnswer": false
+      },
+      {
+        "value": "The Change Acts",
+        "isAnswer": false
+      },
+      {
+        "value": "The Reform Acts",
+        "isAnswer": true
+      },
+      {
+        "value": "The Voting Acts",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nCharles II marched into England with a Scottish army to reclaim his throne.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these TWO countries did poet and author Rudyard Kipling spend time living in?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "India",
+        "isAnswer": true
+      },
+      {
+        "value": "Fiji",
+        "isAnswer": false
+      },
+      {
+        "value": "USA",
+        "isAnswer": true
+      },
+      {
+        "value": "Japan",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "There is a yearly sailing race on the River Thames between Oxford and Cambridge Universities.",
+        "isAnswer": false
+      },
+      {
+        "value": "There is a yearly race on the River Thames between Oxford and Cambridge Universities.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nNorthern Ireland and Scotland have their own banknotes.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What are Beowulf, The Tyger and She Walks in Beauty?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Novels",
+        "isAnswer": false
+      },
+      {
+        "value": "Films",
+        "isAnswer": false
+      },
+      {
+        "value": "Poems",
+        "isAnswer": true
+      },
+      {
+        "value": "Plays",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO Patron saints' days occur in March?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "St George",
+        "isAnswer": false
+      },
+      {
+        "value": "St David",
+        "isAnswer": true
+      },
+      {
+        "value": "St Andrew",
+        "isAnswer": false
+      },
+      {
+        "value": "St Patrick",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which sport can be traced back to 15th-century Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Motorbike racing",
+        "isAnswer": false
+      },
+      {
+        "value": "Surfing",
+        "isAnswer": false
+      },
+      {
+        "value": "Golf",
+        "isAnswer": true
+      },
+      {
+        "value": "Formula 1",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who wrote musicals such as Cats, The Phantom of the Opera and Evita?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Julian Lloyd Webber",
+        "isAnswer": false
+      },
+      {
+        "value": "Andrew Lloyd Webber",
+        "isAnswer": true
+      },
+      {
+        "value": "Gilbert and Sullivan",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Edward Elgar",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Wimbledon Championships are associated with tennis.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Wimbledon Championships are associated with athletics.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSir Ian Botham captained the England rugby team.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "John Petts was a Welshman famous in which of these TWO areas of art?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Stained glass",
+        "isAnswer": true
+      },
+      {
+        "value": "Engraving",
+        "isAnswer": true
+      },
+      {
+        "value": "Water colours",
+        "isAnswer": false
+      },
+      {
+        "value": "Painting of horses",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which country are Loch Lomond and the Trossachs National Park found?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The game of golf is traditionally thought to have originated in which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      },
+      {
+        "value": "Spain",
+        "isAnswer": false
+      },
+      {
+        "value": "USA",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "When is a by-election for a parliamentary seat held?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every two years",
+        "isAnswer": false
+      },
+      {
+        "value": "When the Prime Minister decides to call one",
+        "isAnswer": false
+      },
+      {
+        "value": "Half-way through a parliamentary term",
+        "isAnswer": false
+      },
+      {
+        "value": "When a member of Parliament (MP) dies or resigns",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "How many people make up a Scottish jury?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "20",
+        "isAnswer": false
+      },
+      {
+        "value": "10",
+        "isAnswer": false
+      },
+      {
+        "value": "15",
+        "isAnswer": true
+      },
+      {
+        "value": "12",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "At the beginning of the 19th century, which one of the following groups could vote?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "All women who owned property",
+        "isAnswer": false
+      },
+      {
+        "value": "All adults over the age of 18",
+        "isAnswer": false
+      },
+      {
+        "value": "Property-owning men over the age of 21",
+        "isAnswer": true
+      },
+      {
+        "value": "Property-owning men over the age of 18",
+        "isAnswer": false
+      }
+    ]
+  }
+]

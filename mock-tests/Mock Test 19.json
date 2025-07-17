@@ -1,1 +1,426 @@
-[{"question": "Fighting broke out between colonists in North America and British forces in the late 18th century. What did 13 colonies declare in 1776?", "remark": "Mark one answer", "options": [{"value": "Defeat", "isAnswer": false}, {"value": "An alliance", "isAnswer": false}, {"value": "Surrender", "isAnswer": false}, {"value": "Independence", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Florence Nightingale is associated with policing.", "isAnswer": false}, {"value": "Florence Nightingale is associated with the development of nursing.", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nDuring the 18th century, radical new ideas about politics, philosophy and science were developed, called 'the Enlightenment'.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Which TWO groups contested the Wars of the Roses in the 15th century?", "remark": "Mark two answers", "options": [{"value": "Irish", "isAnswer": false}, {"value": "House of Lancaster", "isAnswer": true}, {"value": "House of York", "isAnswer": true}, {"value": "Scottish", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nLands taken from Catholics in 17th- century Ireland and given to Protestant settlers were known as 'plantations'.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": false}, {"value": "TRUE", "isAnswer": true}]}, {"question": "In 1649, England was declared a republic. What was it called?", "remark": "Mark one answer", "options": [{"value": "The People's Republic", "isAnswer": false}, {"value": "The Commonwealth", "isAnswer": true}, {"value": "Great Britain", "isAnswer": false}, {"value": "European wealth", "isAnswer": false}]}, {"question": "Which Catherine was executed after being accused of taking lovers by Henry VIII?", "remark": "Mark one answer", "options": [{"value": "Boleyn", "isAnswer": false}, {"value": "Howard", "isAnswer": true}, {"value": "Parr", "isAnswer": false}, {"value": "Of Aragon", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThanks to its position as the world's leading industrial nation during the 1800s, Britain was responsible for producing half of the world's coal, iron and cotton cloth.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": true}, {"value": "FALSE", "isAnswer": false}]}, {"question": "Richard Arkwright used steam engines to do what?", "remark": "Mark one answer", "options": [{"value": "Create electricity", "isAnswer": false}, {"value": "All of the above", "isAnswer": false}, {"value": "Power machinery", "isAnswer": true}, {"value": "Pull carriages", "isAnswer": false}]}, {"question": "Which of these statements is NOT true?", "remark": "Mark one answer", "options": [{"value": "During Queen Victoria's reign, the size and influence of the British middle class shrank", "isAnswer": true}, {"value": "During Queen Victoria reign, the middle classes became increasingly significant", "isAnswer": false}]}, {"question": "What was inscribed on some Iron Age coins?", "remark": "Mark one answer", "options": [{"value": "Value", "isAnswer": false}, {"value": "Dates", "isAnswer": false}, {"value": "Names of Iron Age settlements", "isAnswer": false}, {"value": "Names of Iron Age kings", "isAnswer": true}]}, {"question": "When England became a republic, after Charles I lost the English Civil War, it no longer had what?", "remark": "Mark one answer", "options": [{"value": "Parliament", "isAnswer": false}, {"value": "Prime Minister", "isAnswer": false}, {"value": "Monarch", "isAnswer": true}, {"value": "National anthem", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe whole British Empire was involved in the First World War, with troops from India, the West Indies, Africa, and Australia all fighting on behalf of the British.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": false}, {"value": "TRUE", "isAnswer": true}]}, {"question": "Is the statement below TRUE or FALSE?\nHenry VIII married four times.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Is this statement TRUE or FALSE?\nIn Wales and Northern Ireland, the established Churches are respectively the Church of Wales and the Church of Ulster.", "remark": "Mark one answer", "options": [{"value": "FALSE", "isAnswer": true}, {"value": "TRUE", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nThe Brit Awards is an event where sports people are given awards.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "What is the name of a novel Jane Austen?", "remark": "Mark one answer", "options": [{"value": "Our Man in Havana", "isAnswer": false}, {"value": "Oliver Twist", "isAnswer": false}, {"value": "Far from the Madding Crowd", "isAnswer": false}, {"value": "Sense and Sensibility", "isAnswer": true}]}, {"question": "What awards event celebrates British theatre?", "remark": "Mark one answer", "options": [{"value": "The Laurence Olivier Awards", "isAnswer": true}, {"value": "The Man Booker Prize", "isAnswer": false}, {"value": "The Tuner Prize", "isAnswer": false}, {"value": "The Brit Awards", "isAnswer": false}]}, {"question": "Is the statement below TRUE or FALSE?\nA traditional food in Wales is Ulster fry.", "remark": "Mark one answer", "options": [{"value": "TRUE", "isAnswer": false}, {"value": "FALSE", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The UK's constitution is a single document that includes laws and conventions", "isAnswer": false}, {"value": "The UK's constitution is unwritten but includes laws and conventions", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "Local elections are normally held in May", "isAnswer": true}, {"value": "Local election are normally held in March", "isAnswer": false}]}, {"question": "The UK is a permanent member of the UN Security Council. How many permanent members does the Security Council have?", "remark": "Mark one answer", "options": [{"value": "5", "isAnswer": true}, {"value": "27", "isAnswer": false}, {"value": "190", "isAnswer": false}, {"value": "15", "isAnswer": false}]}, {"question": "What are MEPs?", "remark": "Mark one answer", "options": [{"value": "Modern European parliamentarians", "isAnswer": false}, {"value": "Members of the English Parliament", "isAnswer": false}, {"value": "Modern English parliamentarians", "isAnswer": false}, {"value": "Members of the European Parliament", "isAnswer": true}]}, {"question": "Which of these statements is correct?", "remark": "Mark one answer", "options": [{"value": "The National Assembly for Wales and the Welsh government are based in Edinburgh.", "isAnswer": false}, {"value": "The National Assembly for Wales and the Welsh government are based in Cardiff.", "isAnswer": true}]}]
+[
+  {
+    "question": "Fighting broke out between colonists in North America and British forces in the late 18th century. What did 13 colonies declare in 1776?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Defeat",
+        "isAnswer": false
+      },
+      {
+        "value": "An alliance",
+        "isAnswer": false
+      },
+      {
+        "value": "Surrender",
+        "isAnswer": false
+      },
+      {
+        "value": "Independence",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Florence Nightingale is associated with policing.",
+        "isAnswer": false
+      },
+      {
+        "value": "Florence Nightingale is associated with the development of nursing.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nDuring the 18th century, radical new ideas about politics, philosophy and science were developed, called 'the Enlightenment'.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO groups contested the Wars of the Roses in the 15th century?",
+    "remark": "Mark two answers",
+    "options": [
+      {
+        "value": "Irish",
+        "isAnswer": false
+      },
+      {
+        "value": "House of Lancaster",
+        "isAnswer": true
+      },
+      {
+        "value": "House of York",
+        "isAnswer": true
+      },
+      {
+        "value": "Scottish",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nLands taken from Catholics in 17th- century Ireland and given to Protestant settlers were known as 'plantations'.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In 1649, England was declared a republic. What was it called?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The People's Republic",
+        "isAnswer": false
+      },
+      {
+        "value": "The Commonwealth",
+        "isAnswer": true
+      },
+      {
+        "value": "Great Britain",
+        "isAnswer": false
+      },
+      {
+        "value": "European wealth",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Catherine was executed after being accused of taking lovers by Henry VIII?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Boleyn",
+        "isAnswer": false
+      },
+      {
+        "value": "Howard",
+        "isAnswer": true
+      },
+      {
+        "value": "Parr",
+        "isAnswer": false
+      },
+      {
+        "value": "Of Aragon",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThanks to its position as the world's leading industrial nation during the 1800s, Britain was responsible for producing half of the world's coal, iron and cotton cloth.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Richard Arkwright used steam engines to do what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Create electricity",
+        "isAnswer": false
+      },
+      {
+        "value": "All of the above",
+        "isAnswer": false
+      },
+      {
+        "value": "Power machinery",
+        "isAnswer": true
+      },
+      {
+        "value": "Pull carriages",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is NOT true?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "During Queen Victoria's reign, the size and influence of the British middle class shrank",
+        "isAnswer": true
+      },
+      {
+        "value": "During Queen Victoria reign, the middle classes became increasingly significant",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What was inscribed on some Iron Age coins?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Value",
+        "isAnswer": false
+      },
+      {
+        "value": "Dates",
+        "isAnswer": false
+      },
+      {
+        "value": "Names of Iron Age settlements",
+        "isAnswer": false
+      },
+      {
+        "value": "Names of Iron Age kings",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "When England became a republic, after Charles I lost the English Civil War, it no longer had what?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "Prime Minister",
+        "isAnswer": false
+      },
+      {
+        "value": "Monarch",
+        "isAnswer": true
+      },
+      {
+        "value": "National anthem",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe whole British Empire was involved in the First World War, with troops from India, the West Indies, Africa, and Australia all fighting on behalf of the British.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHenry VIII married four times.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is this statement TRUE or FALSE?\nIn Wales and Northern Ireland, the established Churches are respectively the Church of Wales and the Church of Ulster.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      },
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Brit Awards is an event where sports people are given awards.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the name of a novel Jane Austen?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Our Man in Havana",
+        "isAnswer": false
+      },
+      {
+        "value": "Oliver Twist",
+        "isAnswer": false
+      },
+      {
+        "value": "Far from the Madding Crowd",
+        "isAnswer": false
+      },
+      {
+        "value": "Sense and Sensibility",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What awards event celebrates British theatre?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Laurence Olivier Awards",
+        "isAnswer": true
+      },
+      {
+        "value": "The Man Booker Prize",
+        "isAnswer": false
+      },
+      {
+        "value": "The Tuner Prize",
+        "isAnswer": false
+      },
+      {
+        "value": "The Brit Awards",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA traditional food in Wales is Ulster fry.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK's constitution is a single document that includes laws and conventions",
+        "isAnswer": false
+      },
+      {
+        "value": "The UK's constitution is unwritten but includes laws and conventions",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Local elections are normally held in May",
+        "isAnswer": true
+      },
+      {
+        "value": "Local election are normally held in March",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "The UK is a permanent member of the UN Security Council. How many permanent members does the Security Council have?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "5",
+        "isAnswer": true
+      },
+      {
+        "value": "27",
+        "isAnswer": false
+      },
+      {
+        "value": "190",
+        "isAnswer": false
+      },
+      {
+        "value": "15",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What are MEPs?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Modern European parliamentarians",
+        "isAnswer": false
+      },
+      {
+        "value": "Members of the English Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "Modern English parliamentarians",
+        "isAnswer": false
+      },
+      {
+        "value": "Members of the European Parliament",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The National Assembly for Wales and the Welsh government are based in Edinburgh.",
+        "isAnswer": false
+      },
+      {
+        "value": "The National Assembly for Wales and the Welsh government are based in Cardiff.",
+        "isAnswer": true
+      }
+    ]
+  }
+]

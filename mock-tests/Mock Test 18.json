@@ -113,11 +113,11 @@
     "options": [
       {
         "value": "D-Day was allied operation that attacked German forces in France by advancing through Spain.",
-        "isAnswer": false
+        "isAnswer": true
       },
       {
         "value": "The attack on Normandy by Allied forces is often called D-Day.",
-        "isAnswer": true
+        "isAnswer": false
       }
     ]
   },
@@ -433,11 +433,11 @@
     "options": [
       {
         "value": "Foreign policy",
-        "isAnswer": true
+        "isAnswer": false
       },
       {
         "value": "The environment",
-        "isAnswer": false
+        "isAnswer": true
       },
       {
         "value": "Agriculture",

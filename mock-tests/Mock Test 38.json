@@ -318,6 +318,28 @@
     ]
   },
   {
+    "question": "What important change to our voting rights took place in 1969?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Compulsory voting was introduced",
+        "isAnswer": false
+      },
+      {
+        "value": "The voting age was reduced to 18 for men and women",
+        "isAnswer": true
+      },
+      {
+        "value": "Prisoners were given the vote",
+        "isAnswer": false
+      },
+      {
+        "value": "Women over 35 were given the vote",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
     "question": "Which of these statements is correct?",
     "remark": "Mark one answer",
     "options": [
