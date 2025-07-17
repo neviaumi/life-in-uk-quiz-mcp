@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 id=$1
-op run --env-file="./.env" -- npx gemini -y -p "As a quality assurance expert, your task is to validate the Life in the UK mock test file: @mock-tests/Mock Test $id.json.
+npx gemini -y -p "As a quality assurance expert, your task is to validate the Life in the UK mock test file: @mock-tests/Mock Test $id.json.
 
 The file must adhere to the following rules:
 1.  **File Structure:** It must be a JSON array containing exactly 24 question objects.
