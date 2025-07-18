@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-npx gemini
+op run --env-file="./.env" -- npx gemini

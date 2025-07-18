@@ -54,8 +54,6 @@ server.registerPrompt('interactiveQuizPrompt', {
 3.  Display one question at a time with its multiple-choice options. Allow me to select an answer.
 4.  After I submit my answer for a question, immediately show me if it was correct or incorrect. If incorrect, please tell me the right answer.
 5.  Keep track of my score as I go through the quiz.
-6.  **Integrate Firestore to save quiz results (score, incorrect questions, and user answers) for each user.**
-7.  **Ensure a unique User ID is generated and displayed upon quiz completion so I can share it with you for analysis.**
 
 **After the quiz:**
 1.  Once all 24 questions are answered, display my final score (e.g., 18/24) and the User ID.

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-npx gemini -y -s -p "Generate a 24-question Life in the UK quiz and save it to quiz.json,
+op run --env-file="./.env" -- npx gemini -y -s -p "Generate a 24-question Life in the UK quiz and save it to quiz.json,
 ensuring the questions are evenly distributed across the 5 syllabus
 chapters.
 
