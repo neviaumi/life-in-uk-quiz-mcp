@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which of the following is part of the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Channel Islands",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": true
+      },
+      {
+        "value": "The Isle of Man",
+        "isAnswer": false
+      },
+      {
+        "value": "The Falkland Islands",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Steve Redgrave is a famous rower who won gold medals in five consecutive Olympic Games.",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Steve Redgrave is a famous film actor who has won several BAFTAs.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Proms is an eight-week summer season of classical orchestral music.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Proms is a series of tennis matches held every June in London.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO famous London buildings are built in the 19th-century 'gothic' style?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Houses of Parliament and Buckingham Palace",
+        "isAnswer": false
+      },
+      {
+        "value": "St Paul's Cathedral and St Pancras Station",
+        "isAnswer": false
+      },
+      {
+        "value": "St Paul's Cathedral and Buckingham Palace",
+        "isAnswer": false
+      },
+      {
+        "value": "The Houses of Parliament and St Pancras Station",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a traditional food associated with Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Roast beef",
+        "isAnswer": false
+      },
+      {
+        "value": "Ulster fry",
+        "isAnswer": false
+      },
+      {
+        "value": "Fish and chips",
+        "isAnswer": false
+      },
+      {
+        "value": "Haggis",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a fundamental principle of British life?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Extremism",
+        "isAnswer": false
+      },
+      {
+        "value": "Individual liberty",
+        "isAnswer": true
+      },
+      {
+        "value": "Intolerance",
+        "isAnswer": false
+      },
+      {
+        "value": "Inequality",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?                                                                                                     All people in the UK are expected to help the police prevent and detect crimes whenever they can.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Dunkirk is associated with which TWO events?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The fall of Singapore and small boats coming to the rescue",
+        "isAnswer": false
+      },
+      {
+        "value": "The D-Day landings and the fall of Singapore",
+        "isAnswer": false
+      },
+      {
+        "value": "The rescue of 300,000 men and small boats coming to the rescue",
+        "isAnswer": true
+      },
+      {
+        "value": "The fall of Singapore and the rescue of 300,000 men",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who invaded England in 1066?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Richard the Lionheart",
+        "isAnswer": false
+      },
+      {
+        "value": "King Canute",
+        "isAnswer": false
+      },
+      {
+        "value": "William, the Duke of Normandy",
+        "isAnswer": true
+      },
+      {
+        "value": "Harold of Wessex",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe main political parties actively look for members of the public to help at elections and contribute to their costs.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What must police officers do?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Be rude and abusive",
+        "isAnswer": false
+      },
+      {
+        "value": "Obey the law",
+        "isAnswer": true
+      },
+      {
+        "value": "Make a false statement",
+        "isAnswer": false
+      },
+      {
+        "value": "Commit racial discrimination",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Members of the House of Lords are not elected by the people.",
+        "isAnswer": true
+      },
+      {
+        "value": "Members of the House of Lords are voted in by members of the House of Commons.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "After the Bill of Rights was passed in 1689, which TWO main political groups emerged?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Labour and Tories",
+        "isAnswer": false
+      },
+      {
+        "value": "Whigs and Tories",
+        "isAnswer": true
+      },
+      {
+        "value": "Whigs and Nationalists",
+        "isAnswer": false
+      },
+      {
+        "value": "Nationalists and Tories",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBefore 1215 there were few formal limits to the power of the king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are Christian groups?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Roman Catholics and Baptists",
+        "isAnswer": true
+      },
+      {
+        "value": "Hindus and Baptists",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholics and Sikhs",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholics and Buddhists",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWales, Scotland and Northern Ireland each have devolved administrations which give them total control over all policies and laws.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "For which TWO reasons is Henry VIII remembered?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Married six times and fought in the Battle of Agincourt",
+        "isAnswer": false
+      },
+      {
+        "value": "Married six times and broke away from the Church of Rome",
+        "isAnswer": true
+      },
+      {
+        "value": "Introduced the game of croquet and married six times",
+        "isAnswer": false
+      },
+      {
+        "value": "Introduced the game of croquet and fought in the Battle of Agincourt",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Home Secretary is the government minister responsible for managing relationships with foreign countries.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were English Civil War battles?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Marston Moor and Hastings",
+        "isAnswer": false
+      },
+      {
+        "value": "Waterloo and Marston Moor",
+        "isAnswer": false
+      },
+      {
+        "value": "Hastings and Naseby",
+        "isAnswer": false
+      },
+      {
+        "value": "Marston Moor and Naseby",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe shamrock is the national flower of Scotland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In 1588 the English defeated the Spanish Armada.",
+        "isAnswer": true
+      },
+      {
+        "value": "In 1588 the English defeated German bomber planes.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In the 19th century, the UK produced more than half the world's supply of one of these products. Which one?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Cotton cloth",
+        "isAnswer": true
+      },
+      {
+        "value": "Beer",
+        "isAnswer": false
+      },
+      {
+        "value": "Cigarettes",
+        "isAnswer": false
+      },
+      {
+        "value": "Rubber",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIf an accused person is aged 18 to 21, their case will be heard in a Youth Court.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of these novels are by Charles Dickens?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Harry Potter and Great Expectations",
+        "isAnswer": false
+      },
+      {
+        "value": "Great Expectations and Oliver Twist",
+        "isAnswer": true
+      },
+      {
+        "value": "Harry Potter, and Pride and Prejudice",
+        "isAnswer": false
+      },
+      {
+        "value": "Pride and Prejudice, and Oliver Twist",
+        "isAnswer": false
+      }
+    ]
+  }
+]

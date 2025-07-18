@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which TWO families contested the Wars of the Roses in the 15th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The House of York and the House of Windsor",
+        "isAnswer": false
+      },
+      {
+        "value": "The House of Windsor and the House of Lancaster",
+        "isAnswer": false
+      },
+      {
+        "value": "The House of Tudor and the House of Windsor",
+        "isAnswer": false
+      },
+      {
+        "value": "The House of York and the House of Lancaster",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous Paralympians?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ellie Simmonds and Baroness Tanni Grey-Thompson",
+        "isAnswer": true
+      },
+      {
+        "value": "Ellie Simmonds and Dame Ellen MacArthur",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Baroness Tanni Grey-Thompson",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Dame Ellen MacArthur",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO services are funded by National Insurance Contributions?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "State retirement pension and National Health Service (NHS",
+        "isAnswer": true
+      },
+      {
+        "value": "Supermarket home deliveries and National Health Service (NHS",
+        "isAnswer": false
+      },
+      {
+        "value": "Local taxi services and state retirement pension",
+        "isAnswer": false
+      },
+      {
+        "value": "State retirement pension and supermarket home deliveries",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who do some local councils appoint as a ceremonial leader?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A local business leader",
+        "isAnswer": false
+      },
+      {
+        "value": "A member of the Royal Family",
+        "isAnswer": false
+      },
+      {
+        "value": "A local celebrity",
+        "isAnswer": false
+      },
+      {
+        "value": "A mayor",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are associated with Sir Francis Drake?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Defeating the Spanish Armada and early flight",
+        "isAnswer": false
+      },
+      {
+        "value": "Defeating the Spanish Armada and sailing around the world",
+        "isAnswer": true
+      },
+      {
+        "value": "Early flight and the Titanic",
+        "isAnswer": false
+      },
+      {
+        "value": "The Titanic and sailing around the world",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A famous sailing event is held at Cowes on the Isle of Wight.",
+        "isAnswer": true
+      },
+      {
+        "value": "A famous sailing event is held in the city of Norwich.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nParticipating in your community is a fundamental principle of British life.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nPantomimes are plays based on fairy stories.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why was the Magna Carta important?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It gave all men the vote.",
+        "isAnswer": false
+      },
+      {
+        "value": "It restricted the power of the monarch.",
+        "isAnswer": true
+      },
+      {
+        "value": "It established a system of free education.",
+        "isAnswer": false
+      },
+      {
+        "value": "It gave women legal rights.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Charles, king of Scotland, was crowned King Charles II of England in 1660.",
+        "isAnswer": true
+      },
+      {
+        "value": "Bonnie Prince Charlie became King Charles II of England in 1660.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What do Sir William Golding, Seamus Heaney and Harold Pinter have in common?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They were all famous British athletes.",
+        "isAnswer": false
+      },
+      {
+        "value": "They all became Prime Minister.",
+        "isAnswer": false
+      },
+      {
+        "value": "They were part of the first British expedition to the North Pole.",
+        "isAnswer": false
+      },
+      {
+        "value": "They have all won the Nobel Prize in Literature.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "How can you reduce your carbon footprint?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Shop locally for products",
+        "isAnswer": true
+      },
+      {
+        "value": "Buy duty-free products when you're abroad",
+        "isAnswer": false
+      },
+      {
+        "value": "Do all your shopping online",
+        "isAnswer": false
+      },
+      {
+        "value": "Drive to the supermarket",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe 40 days before Easter are known as Lent.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Textile and engineering firms found workers from which TWO countries after the Second World War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Canada and India",
+        "isAnswer": false
+      },
+      {
+        "value": "India and Pakistan",
+        "isAnswer": true
+      },
+      {
+        "value": "South Africa and Pakistan",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa and India",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nFlorence Nightingale is famous for her work on education in the 19th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO political parties formed the coalition government in 2010?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Labour and Chartists",
+        "isAnswer": false
+      },
+      {
+        "value": "Chartists and Liberal Democrats",
+        "isAnswer": false
+      },
+      {
+        "value": "Conservatives and Liberal Democrats",
+        "isAnswer": true
+      },
+      {
+        "value": "Conservatives and Labour",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO things can you do to look after the environment?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Recycle your waste and never turn your lights off in your house",
+        "isAnswer": false
+      },
+      {
+        "value": "Drive your car as much as possible and never turn the lights off in your house",
+        "isAnswer": false
+      },
+      {
+        "value": "Recycle your waste and walk and use public transport to get around",
+        "isAnswer": true
+      },
+      {
+        "value": "Drive your car as much as possible and recycle your waste",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE OR FALSE? \nMembers of the public are allowed to attend Youth Court hearings.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In a Crown Court case, the judge decides the penalty when someone is found guilty.",
+        "isAnswer": true
+      },
+      {
+        "value": "In a Crown Court case, the jury decides the penalty when someone is found guilty.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is the capital city of Wales?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Swansea",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": true
+      },
+      {
+        "value": "Edinburgh",
+        "isAnswer": false
+      },
+      {
+        "value": "Belfast",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People in paid work need to pay National Insurance Contributions.",
+        "isAnswer": true
+      },
+      {
+        "value": "People in paid work do not need to pay National Insurance Contributions.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "How old do you have to be to go into a betting shop in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "21",
+        "isAnswer": false
+      },
+      {
+        "value": "18",
+        "isAnswer": true
+      },
+      {
+        "value": "25",
+        "isAnswer": false
+      },
+      {
+        "value": "30",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Richard Arkwright developed new farming methods in the UK.",
+        "isAnswer": false
+      },
+      {
+        "value": "Richard Arkwright ran efficient and profitable factories.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK is governed by the parliament sitting in Westminster.",
+        "isAnswer": true
+      },
+      {
+        "value": "The UK is governed by the parliament sitting in Edinburgh.",
+        "isAnswer": false
+      }
+    ]
+  }
+]

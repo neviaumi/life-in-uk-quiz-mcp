@@ -50,14 +50,14 @@ server.registerPrompt('interactiveQuizPrompt', {
 
 **Instructions for the interactive quiz:**
 1.  Read the questions from the attached JSON file.
-2.  Create an interactive Canvas (Web app) to present the quiz.
+2.  Create an interactive Canvas (WebComponent App) to present the quiz.
 3.  Display one question at a time with its multiple-choice options. Allow me to select an answer.
 4.  After I submit my answer for a question, immediately show me if it was correct or incorrect. If incorrect, please tell me the right answer.
 5.  Keep track of my score as I go through the quiz.
 
 **After the quiz:**
-1.  Once all 24 questions are answered, display my final score (e.g., 18/24) and the User ID.
-2.  Based on my incorrect answers (which you should be able to retrieve using the provided User ID), analyze and identify the topics or themes where I need more study from the "Life in the UK" handbook.
+1.  Once all 24 questions are answered, display my final score (e.g., 18/24).
+2.  Based on my incorrect answers, analyze and identify the topics or themes where I need more study from the "Life in the UK" handbook.
 3.  Present a summary of these areas for improvement to help me prepare for the real test.
 `,
       },
