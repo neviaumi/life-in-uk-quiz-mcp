@@ -101,6 +101,21 @@ server.registerTool('generateQuiz',
     },
 );
 
+function getAllQuestions() {
+  const genericQuestions = [
+    'Which of the following statements is correct?',
+    'Which of these statements is correct?',
+  ];
+  const allQuestions = mockTest.map(
+      (q, index) => ({id: index, question: q.question.trim()}));
+  const questionIds = Object.values(Object.fromEntries(allQuestions.filter(
+      (question) => !genericQuestions.includes(question.question)).
+      map((question) => [question.question, question.id])));
+  return allQuestions.filter(
+      (question) => genericQuestions.includes(question.question) ||
+          questionIds.includes(question.id));
+}
+
 server.registerTool(
     'getQuizQuestions',
     {
@@ -114,8 +129,7 @@ server.registerTool(
       },
     },
     async () => {
-      const questions = mockTest.map(
-          (q, index) => ({id: index, question: q.question.trim()}));
+      const questions = getAllQuestions();
       return {
         content: [
           {
@@ -137,9 +151,9 @@ server.registerResource(
       description: 'Collection of all available questions from the Life in the UK mock test question pool',
     },
     async (uri) => ({
-      contents: mockTest.map((q, index) => ({
+      contents: getAllQuestions().map(({id: index, question: question}) => ({
         uri: `${uri.href}${index}`,
-        text: q.question.trim(),
+        text: question,
       })),
     }),
 );
