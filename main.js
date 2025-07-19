@@ -145,7 +145,7 @@ server.registerTool(
 
 server.registerResource(
     'quizQuestions',
-    'quizs://',
+    'quiz://',
     {
       title: 'Quiz Questions',      // Display name for UI
       description: 'Collection of all available questions from the Life in the UK mock test question pool',
