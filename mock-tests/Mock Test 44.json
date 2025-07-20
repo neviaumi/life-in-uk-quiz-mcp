@@ -1,0 +1,458 @@
+[
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK offers its citizens and permanent residents freedom of speech.",
+        "isAnswer": true
+      },
+      {
+        "value": "The UK does not allow citizens or permanent residents to voice opinions publicly.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who elects Police and Crime Commissioners (PCCs)?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The police",
+        "isAnswer": false
+      },
+      {
+        "value": "The Home Office",
+        "isAnswer": false
+      },
+      {
+        "value": "The public",
+        "isAnswer": true
+      },
+      {
+        "value": "Members of Parliament",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nDuring the 18th century, new ideas about politics, philosophy and science were developed. This period is often called 'the Enlightenment'.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "For which TWO types of literature is William Shakespeare famous?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Plays and sonnets",
+        "isAnswer": true
+      },
+      {
+        "value": "Biographies and sonnets",
+        "isAnswer": false
+      },
+      {
+        "value": "Novels and biographies",
+        "isAnswer": false
+      },
+      {
+        "value": "Novels and plays",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Elizabeth I was not successful in balancing her wishes and views against those of the House of Lords and the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "Elizabeth I was successful in balancing her wishes and views against those of the House of Lords and the House of Commons",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "After the Bill of Rights was passed in 1689, which TWO main political groups emerged?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Labour and Tories",
+        "isAnswer": false
+      },
+      {
+        "value": "Whigs and Tories",
+        "isAnswer": true
+      },
+      {
+        "value": "Whigs and Nationalists",
+        "isAnswer": false
+      },
+      {
+        "value": "Nationalists and Tories",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which cross on the Union Flag represents the patron saint of England?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The diagonal white cross",
+        "isAnswer": false
+      },
+      {
+        "value": "The diagonal red cross",
+        "isAnswer": false
+      },
+      {
+        "value": "The upright red cross",
+        "isAnswer": true
+      },
+      {
+        "value": "None of these",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why was the Magna Carta important?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "It gave all men the vote.",
+        "isAnswer": false
+      },
+      {
+        "value": "It restricted the power of the monarch.",
+        "isAnswer": true
+      },
+      {
+        "value": "It established a system of free education.",
+        "isAnswer": false
+      },
+      {
+        "value": "It gave women legal rights.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why was Henry VIII an important English monarch?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He broke from the Church of Rome.",
+        "isAnswer": true
+      },
+      {
+        "value": "He established the RAF.",
+        "isAnswer": false
+      },
+      {
+        "value": "He invaded Sweden.",
+        "isAnswer": false
+      },
+      {
+        "value": "He re-established the Catholic Church in England.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the Northern Ireland Assembly building?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Houses of Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "The Senedd",
+        "isAnswer": false
+      },
+      {
+        "value": "Stormont",
+        "isAnswer": true
+      },
+      {
+        "value": "Holyrood House",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHereditary peers have the automatic right to attend the House of Lords.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following plants are particularly associated with the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Shamrock and rose",
+        "isAnswer": true
+      },
+      {
+        "value": "Cactus and olive tree",
+        "isAnswer": false
+      },
+      {
+        "value": "Rose and cactus",
+        "isAnswer": false
+      },
+      {
+        "value": "Shamrock and cactus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a jury made up of?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People working in high-powered jobs",
+        "isAnswer": false
+      },
+      {
+        "value": "People randomly chosen from the electoral register",
+        "isAnswer": true
+      },
+      {
+        "value": "People who are members of political parties",
+        "isAnswer": false
+      },
+      {
+        "value": "People who have submitted an application form and been accepted",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are linked to football?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Premier League and The Open",
+        "isAnswer": false
+      },
+      {
+        "value": "UEFA and the Premier League",
+        "isAnswer": true
+      },
+      {
+        "value": "The Ashes and UEFA",
+        "isAnswer": false
+      },
+      {
+        "value": "The Ashes and The Open",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE OR FALSE?\nThe National Citizen Service provides military training to young people.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous Paralympians?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ellie Simmonds and Baroness Tanni Grey-Thompson",
+        "isAnswer": true
+      },
+      {
+        "value": "Ellie Simmonds and Dame Ellen MacArthur",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Baroness Tanni Grey-Thompson",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Dame Ellen MacArthur",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous British composers?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Henry Purcell and Ralph Vaughan Williams",
+        "isAnswer": true
+      },
+      {
+        "value": "Johann Sebastian Bach and Henry Purcell",
+        "isAnswer": false
+      },
+      {
+        "value": "Claude Debussy and Henry Purcell",
+        "isAnswer": false
+      },
+      {
+        "value": "Claude Debussy and Johann Sebastian Bach",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is the role of a jury at a court trial?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To decide whether evidence should be allowed to be heard",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide the sentence that the accused should be given",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide who the judge should be",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide a verdict based on what they have heard.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Roman army left England after 100 years to defend other parts of their Empire.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Roman army left England after 400 years to defend other parts of their Empire.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSnowdonia is a national park in Northern Ireland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO religions celebrate Diwali?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Hindus and Christians",
+        "isAnswer": false
+      },
+      {
+        "value": "Hindus and Sikhs",
+        "isAnswer": true
+      },
+      {
+        "value": "Christians and Sikhs",
+        "isAnswer": false
+      },
+      {
+        "value": "Buddhists and Christians",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Home Secretary is the government minister responsible for managing relationships with foreign countries.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Hadrian's Wall was built to keep out whom?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Irish",
+        "isAnswer": false
+      },
+      {
+        "value": "The Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "The Picts",
+        "isAnswer": true
+      },
+      {
+        "value": "The Vikings",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland, Wales and Northern Ireland have parliaments or assemblies of their own.",
+        "isAnswer": true
+      },
+      {
+        "value": "Scotland, Wales and Northern Ireland do not have parliaments or assemblies of their own.",
+        "isAnswer": false
+      }
+    ]
+  }
+]

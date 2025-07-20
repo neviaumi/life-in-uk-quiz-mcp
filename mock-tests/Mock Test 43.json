@@ -1,0 +1,442 @@
+[
+  {
+    "question": "How often does Prime Minister's Questions occur when Parliament is sitting?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Every day",
+        "isAnswer": false
+      },
+      {
+        "value": "Twice a week",
+        "isAnswer": false
+      },
+      {
+        "value": "Once a week",
+        "isAnswer": true
+      },
+      {
+        "value": "Once a month",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nKing Henry VIII established the Church of England when the Pope refused to grant him a divorce.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In 1588 the English defeated the Spanish Armada.",
+        "isAnswer": true
+      },
+      {
+        "value": "In 1588 the English defeated German bomber planes.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn the UK, there are now a record number of people aged 85 and over.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are major horse-racing events in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Open Championship and the Scottish Grand National",
+        "isAnswer": false
+      },
+      {
+        "value": "The Open Championship and the Six Nations Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Grand National and the Six Nations Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Grand National and Royal Ascot",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which area of government policy is the responsibility of the Chancellor of the Exchequer?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Education",
+        "isAnswer": false
+      },
+      {
+        "value": "Health",
+        "isAnswer": false
+      },
+      {
+        "value": "Economy",
+        "isAnswer": true
+      },
+      {
+        "value": "Legal affairs",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are Christian groups?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Roman Catholics and Baptists",
+        "isAnswer": true
+      },
+      {
+        "value": "Hindus and Baptists",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholics and Sikhs",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholics and Buddhists",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE OR FALSE? \nMembers of the public are allowed to attend Youth Court hearings.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In 1776, 13 British colonies declared their independence. In which part of the world were these colonies?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Australia",
+        "isAnswer": false
+      },
+      {
+        "value": "Canada",
+        "isAnswer": false
+      },
+      {
+        "value": "America",
+        "isAnswer": true
+      },
+      {
+        "value": "South Africa",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why is Sir Edwin Lutyens famous?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He won a gold medal at the London 2012 Olympic Games.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was the first UK Prime Minister.",
+        "isAnswer": false
+      },
+      {
+        "value": "He invented the World Wide Web.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was a 20th-century architect.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who appoints life peers in the House of Lords?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The monarch",
+        "isAnswer": true
+      },
+      {
+        "value": "The Archbishop of Canterbury",
+        "isAnswer": false
+      },
+      {
+        "value": "The Speaker of the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "The Chief Whip",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following plants are particularly associated with the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Shamrock and rose",
+        "isAnswer": true
+      },
+      {
+        "value": "Cactus and olive tree",
+        "isAnswer": false
+      },
+      {
+        "value": "Rose and cactus",
+        "isAnswer": false
+      },
+      {
+        "value": "Shamrock and cactus",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Scotland, Wales and Northern Ireland have parliaments or assemblies of their own.",
+        "isAnswer": true
+      },
+      {
+        "value": "Scotland, Wales and Northern Ireland do not have parliaments or assemblies of their own.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which country did Germany invade in 1939 that led to the UK declaring war on Germany?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Austria",
+        "isAnswer": false
+      },
+      {
+        "value": "Finland",
+        "isAnswer": false
+      },
+      {
+        "value": "Poland",
+        "isAnswer": true
+      },
+      {
+        "value": "France",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO commemorations or celebrations are held in November each year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Remembrance Day and Bonfire Night",
+        "isAnswer": true
+      },
+      {
+        "value": "Father's Day and Valentine's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day and Remembrance Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day and Bonfire Night",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish king defeated the English at the Battle of Bannockburn in 1314?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William Wallace",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert the Bruce",
+        "isAnswer": true
+      },
+      {
+        "value": "Malcolm",
+        "isAnswer": false
+      },
+      {
+        "value": "Andrew",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Textile and engineering firms found workers from which TWO countries after the Second World War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Canada and India",
+        "isAnswer": false
+      },
+      {
+        "value": "India and Pakistan",
+        "isAnswer": true
+      },
+      {
+        "value": "South Africa and Pakistan",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa and India",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn the UK you are expected to treat others with fairness.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The first person to use the title Prime Minister was Sir Robert Walpole.",
+        "isAnswer": true
+      },
+      {
+        "value": "The first person to use the title Prime Minister was Sir Christopher Wren.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Speaker of the House of Commons remains a Member of Parliament (MP) after election as Speaker",
+        "isAnswer": true
+      },
+      {
+        "value": "The Speaker of the House of Commons has to give up being an MP when elected as Speaker.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Wales and Northern Ireland each have their own Church of state.",
+        "isAnswer": false
+      },
+      {
+        "value": "There is no established Church in Wales or Northern Ireland.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What is the role of a jury at a court trial?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To decide whether evidence should be allowed to be heard",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide the sentence that the accused should be given",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide who the judge should be",
+        "isAnswer": false
+      },
+      {
+        "value": "To decide a verdict based on what they have heard.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The official home of the Prime Minister is 10 Downing Street.",
+        "isAnswer": true
+      },
+      {
+        "value": "The official home of the Prime Minister is Buckingham Palace.",
+        "isAnswer": false
+      }
+    ]
+  }
+]
