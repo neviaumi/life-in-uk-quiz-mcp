@@ -1,0 +1,418 @@
+[
+  {
+    "question": "When you arrive at a polling station, the staff will ask for which of the following:",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Photocopy of your passport.",
+        "isAnswer": false
+      },
+      {
+        "value": "Name, address and photo ID.",
+        "isAnswer": true
+      },
+      {
+        "value": "Life in the UK test certificate.",
+        "isAnswer": false
+      },
+      {
+        "value": "National Insurance number.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "With which sport do you associate Lewis Hamilton, Jenson Button and Damon Hill?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Football",
+        "isAnswer": false
+      },
+      {
+        "value": "Athletics",
+        "isAnswer": false
+      },
+      {
+        "value": "Skiing",
+        "isAnswer": false
+      },
+      {
+        "value": "Formula 1",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe British Broadcasting Corporation (BBC) is financed by income tax.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA husband who forces his wife to have sex can be charged with rape.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are major outdoor music festivals?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Hogmanay and Glastonbury",
+        "isAnswer": false
+      },
+      {
+        "value": "Royal Ascot and the Isle of Wight Festival",
+        "isAnswer": false
+      },
+      {
+        "value": "Royal Ascot and Hogmanay",
+        "isAnswer": false
+      },
+      {
+        "value": "Isle of Wight Festival and Glastonbury",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "To apply to become a permanent resident or naturalised citizen of the UK, you must have a UK bank account.",
+        "isAnswer": false
+      },
+      {
+        "value": "To apply to become a permanent resident or naturalised citizen of the UK, you must be able to speak and read English.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following types of case are held in County Courts?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Divorce and murder",
+        "isAnswer": false
+      },
+      {
+        "value": "Murder and minor criminal offences",
+        "isAnswer": false
+      },
+      {
+        "value": "Minor criminal offences and breaches of contract",
+        "isAnswer": false
+      },
+      {
+        "value": "Divorce and breaches of contract",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "People in paid work need to pay National Insurance Contributions.",
+        "isAnswer": true
+      },
+      {
+        "value": "People in paid work do not need to pay National Insurance Contributions.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE OR FALSE?\nThe British constitution is contained in a single written document.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Home Secretary is the government minister responsible for managing relationships with foreign countries.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Proms is an eight-week summer season of classical orchestral music.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Proms is a series of tennis matches held every June in London.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Elizabeth I was not successful in balancing her wishes and views against those of the House of Lords and the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "Elizabeth I was successful in balancing her wishes and views against those of the House of Lords and the House of Commons",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSome people rent land called 'an allotment', where they grow fruit and vegetables.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Union Flag consists of four crosses, one for each part of the United Kingdom.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMost people in the UK live in towns and cities.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are responsibilities of Members of Parliament (MPs)?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Representing everyone in their constituency and supporting the government on all decisions and laws",
+        "isAnswer": false
+      },
+      {
+        "value": "Scrutinising and commenting on what the government is doing and representing only those who voted for them",
+        "isAnswer": false
+      },
+      {
+        "value": "Scrutinising and commenting on what the government is doing and supporting the government on all decisions and laws",
+        "isAnswer": false
+      },
+      {
+        "value": "Representing everyone in their constituency and scrutinising and commenting on what the government is doing",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "For approximately how many years did the Romans remain in Britain?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "50 years",
+        "isAnswer": false
+      },
+      {
+        "value": "100 years",
+        "isAnswer": false
+      },
+      {
+        "value": "400 years",
+        "isAnswer": true
+      },
+      {
+        "value": "600 years",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBritain and Germany developed Concorde, a supersonic passenger aircraft.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "In everyday language, people may say 'rain stopped play'. With which sport is this phrase associated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Football",
+        "isAnswer": false
+      },
+      {
+        "value": "Cricket",
+        "isAnswer": true
+      },
+      {
+        "value": "Rugby league",
+        "isAnswer": false
+      },
+      {
+        "value": "Horse racing",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nKing Henry VIII established the Church of England when the Pope refused to grant him a divorce.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Channel Islands are a part of the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were famous Victorians?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Isambard Kingdom Brunel and Margaret Thatcher",
+        "isAnswer": false
+      },
+      {
+        "value": "Isambard Kingdom Brunel and Florence Nightingale",
+        "isAnswer": true
+      },
+      {
+        "value": "Margaret Thatcher and Dylan Thomas",
+        "isAnswer": false
+      },
+      {
+        "value": "Margaret Thatcher and Florence Nightingale",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why was Henry VIII an important English monarch?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He broke from the Church of Rome.",
+        "isAnswer": true
+      },
+      {
+        "value": "He established the RAF.",
+        "isAnswer": false
+      },
+      {
+        "value": "He invaded Sweden.",
+        "isAnswer": false
+      },
+      {
+        "value": "He re-established the Catholic Church in England.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which Scottish king defeated the English at the Battle of Bannockburn in 1314?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William Wallace",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert the Bruce",
+        "isAnswer": true
+      },
+      {
+        "value": "Malcolm",
+        "isAnswer": false
+      },
+      {
+        "value": "Andrew",
+        "isAnswer": false
+      }
+    ]
+  }
+]
