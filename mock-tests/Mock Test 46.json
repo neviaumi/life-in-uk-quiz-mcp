@@ -1,0 +1,434 @@
+[
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry in Britain in the 20th century.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Industrial Revolution is the name given to the rapid development of industry that began in the 18th century.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO religions celebrate Diwali?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Hindus and Christians",
+        "isAnswer": false
+      },
+      {
+        "value": "Hindus and Sikhs",
+        "isAnswer": true
+      },
+      {
+        "value": "Christians and Sikhs",
+        "isAnswer": false
+      },
+      {
+        "value": "Buddhists and Christians",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nBritain has never been at war with France.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHereditary peers have the automatic right to attend the House of Lords.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Lake District is England's largest national park.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following groups of adults is NOT eligible to vote in all UK elections?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Citizens of the USA",
+        "isAnswer": true
+      },
+      {
+        "value": "Adult citizens of the UK",
+        "isAnswer": false
+      },
+      {
+        "value": "Citizens of the Commonwealth who are resident in the UK",
+        "isAnswer": false
+      },
+      {
+        "value": "Citizens of Ireland who are resident in the UK",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWales, Scotland and Northern Ireland each have devolved administrations which give them total control over all policies and laws.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Lancelot 'Capability' Brown and Gertrude Jekyll were famous garden designers.",
+        "isAnswer": true
+      },
+      {
+        "value": "Lancelot 'Capability' Brown and Gertrude Jekyll were famous characters in a Sherlock Holmes story.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "When a Member of Parliament (MP) dies or resigns, what is the election called that is held to replace them?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Re-selection",
+        "isAnswer": false
+      },
+      {
+        "value": "Selection",
+        "isAnswer": false
+      },
+      {
+        "value": "Hustings",
+        "isAnswer": false
+      },
+      {
+        "value": "By-election",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following would you contact for help on a legal matter?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A solicitor and Citizens Advice",
+        "isAnswer": true
+      },
+      {
+        "value": "A solicitor and a local councillor",
+        "isAnswer": false
+      },
+      {
+        "value": "A local councillor and your local Member of Parliament (MP)",
+        "isAnswer": false
+      },
+      {
+        "value": "Citizens Advice and your local Member of Parliament (MP)",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe 'Swinging Sixties' is a reference to the 1860s.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The first professional UK football clubs were formed in the late 19th century",
+        "isAnswer": true
+      },
+      {
+        "value": "The first professional UK football clubs were formed in 1066.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO groups were associated with King Charles I and Parliament during the English Civil War?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Tories and Roundheads",
+        "isAnswer": false
+      },
+      {
+        "value": "Cavaliers and Luddites",
+        "isAnswer": false
+      },
+      {
+        "value": "Roundheads and Cavaliers",
+        "isAnswer": true
+      },
+      {
+        "value": "Roundheads and Luddites",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What task is associated with the National Trust?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Building new public roads",
+        "isAnswer": false
+      },
+      {
+        "value": "Preserving old aircraft",
+        "isAnswer": false
+      },
+      {
+        "value": "Preserving important buildings and places",
+        "isAnswer": true
+      },
+      {
+        "value": "Managing investment accounts",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO commemorations or celebrations are held in November each year?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Remembrance Day and Bonfire Night",
+        "isAnswer": true
+      },
+      {
+        "value": "Father's Day and Valentine's Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day and Remembrance Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Valentine's Day and Bonfire Night",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were introduced in the early 20th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Child Benefit payments and free school meals",
+        "isAnswer": false
+      },
+      {
+        "value": "The National Health Service (NHS) and Child Benefit payments",
+        "isAnswer": false
+      },
+      {
+        "value": "The National Health Service (NHS) and old-age pensions",
+        "isAnswer": false
+      },
+      {
+        "value": "Old-age pensions and free school meals",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nMargaret Thatcher was the longest-serving UK Prime Minister of the 20th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which countries make up 'Great Britain'?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Just England",
+        "isAnswer": false
+      },
+      {
+        "value": "England, Scotland and Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "England and Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "England, Scotland and Northern Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why is Sir Edwin Lutyens famous?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He won a gold medal at the London 2012 Olympic Games.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was the first UK Prime Minister.",
+        "isAnswer": false
+      },
+      {
+        "value": "He invented the World Wide Web.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was a 20th-century architect.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who do some local councils appoint as a ceremonial leader?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A local business leader",
+        "isAnswer": false
+      },
+      {
+        "value": "A member of the Royal Family",
+        "isAnswer": false
+      },
+      {
+        "value": "A local celebrity",
+        "isAnswer": false
+      },
+      {
+        "value": "A mayor",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Who was given the title of Lord Protector in the 17th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "King Charles II",
+        "isAnswer": false
+      },
+      {
+        "value": "Samuel Pepys",
+        "isAnswer": false
+      },
+      {
+        "value": "Oliver Cromwell",
+        "isAnswer": true
+      },
+      {
+        "value": "Isaac Newton",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHenry VIII is famous for marrying six times and breaking away from the Church of Rome.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The UK offers its citizens and permanent residents freedom of speech.",
+        "isAnswer": true
+      },
+      {
+        "value": "The UK does not allow citizens or permanent residents to voice opinions publicly.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Scottish Parliament sits in Edinburgh.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  }
+]

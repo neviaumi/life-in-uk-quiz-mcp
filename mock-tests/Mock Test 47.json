@@ -1,0 +1,346 @@
+[
+  {
+    "question": "Is the following statement TRUE or FALSE?\nBritish values and principles are based on history and traditions.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThe Channel Islands are a part of the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSt Helena is a Crown dependency.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Battle of Britain in 1940 was fought at sea.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Battle of Britain in 1940 was fought in the air.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO fought in wars against Napoleon?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Winston Churchill and the Duke of Wellington",
+        "isAnswer": false
+      },
+      {
+        "value": "Margaret Thatcher and the Duke of Wellington",
+        "isAnswer": false
+      },
+      {
+        "value": "Margaret Thatcher and Admiral Nelson",
+        "isAnswer": false
+      },
+      {
+        "value": "Admiral Nelson and the Duke of Wellington",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What did St Augustine and St Columba do during the Anglo-Saxon period?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They invented new farming techniques.",
+        "isAnswer": false
+      },
+      {
+        "value": "They led an uprising in Wales.",
+        "isAnswer": false
+      },
+      {
+        "value": "They helped to spread Christianity across Britain.",
+        "isAnswer": true
+      },
+      {
+        "value": "They fought courageously against the Romans.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Reform Act of 1832 reduced the number of people who had the right to vote.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Reform Act of 1832 increased the number of people who had the right to vote.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sake Dean Mahomet is famous for introducing tea-drinking and bungalows to Britain from India.",
+        "isAnswer": false
+      },
+      {
+        "value": "Sake Dean Mahomet is famous for introducing curry houses to Britain from India.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "By 1400 the preferred language of the English court was French.",
+        "isAnswer": false
+      },
+      {
+        "value": "By 1400 the preferred language of the English court was English.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are associated with Sir Francis Drake?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Defeating the Spanish Armada and early flight",
+        "isAnswer": false
+      },
+      {
+        "value": "Defeating the Spanish Armada and sailing around the world",
+        "isAnswer": true
+      },
+      {
+        "value": "Early flight and the Titanic",
+        "isAnswer": false
+      },
+      {
+        "value": "The Titanic and sailing around the world",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nIn 1707 the kingdoms of England and Scotland were united.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Charles, king of Scotland, was crowned King Charles II of England in 1660.",
+        "isAnswer": true
+      },
+      {
+        "value": "Bonnie Prince Charlie became King Charles II of England in 1660.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What was the Reformation?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A reduction in the power of the nobles",
+        "isAnswer": false
+      },
+      {
+        "value": "A movement against the authority of the Pope",
+        "isAnswer": true
+      },
+      {
+        "value": "A part of the Wars of the Roses",
+        "isAnswer": false
+      },
+      {
+        "value": "A bill of rights",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "During the 'Great Depression' of the 1930s, which TWO major new industries developed?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Automobiles and aviation",
+        "isAnswer": true
+      },
+      {
+        "value": "Ship building and coal mining",
+        "isAnswer": false
+      },
+      {
+        "value": "Ship building and aviation",
+        "isAnswer": false
+      },
+      {
+        "value": "Coal mining and automobiles",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO developments were features of the Industrial Revolution?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Machinery and steam power",
+        "isAnswer": true
+      },
+      {
+        "value": "Changes in the law and steam power",
+        "isAnswer": false
+      },
+      {
+        "value": "Machinery and medical advances",
+        "isAnswer": false
+      },
+      {
+        "value": "Medical advances and changes in the law",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "In Elizabeth I’s time, English settlers began to colonise Australia.",
+        "isAnswer": false
+      },
+      {
+        "value": "In Elizabeth I’s time, English settlers began to colonise the eastern coast of America.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE? The Civil War between Charles I and Parliament in the mid-17th century led to Oliver Cromwell becoming king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which language was spoken by people during the Iron Age?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Latin",
+        "isAnswer": false
+      },
+      {
+        "value": "A language that was part of the Celtic family",
+        "isAnswer": true
+      },
+      {
+        "value": "English",
+        "isAnswer": false
+      },
+      {
+        "value": "Anglo-Saxon",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Battle of Agincourt is commemorated in the Bayeux Tapestry.",
+        "isAnswer": false
+      },
+      {
+        "value": "The Battle of Hastings is commemorated in the Bayeux Tapestry.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which queen is remembered for fighting against the Romans?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Elizabeth",
+        "isAnswer": false
+      },
+      {
+        "value": "Boudicca",
+        "isAnswer": true
+      },
+      {
+        "value": "Victoria",
+        "isAnswer": false
+      },
+      {
+        "value": "Anne",
+        "isAnswer": false
+      }
+    ]
+  }
+]

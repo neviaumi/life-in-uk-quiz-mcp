@@ -51,7 +51,7 @@ server.registerPrompt('interactiveQuizPrompt', {
 **Instructions for the interactive quiz:**
 1.  Read the questions from the attached JSON file.
 2.  Create an interactive Canvas (Web App) to present the quiz.
-3.  Display one question at a time with its multiple-choice options. Allow me to select an answer.
+3.  Display one question at a time with its multiple-choice options. **Allow me to select one or more answers as indicated by the question's remark (e.g., 'Mark one answer' or 'Mark two answers').**
 4.  After I submit my answer for a question, immediately show me if it was correct or incorrect. If incorrect, please tell me the right answer.
 5.  Keep track of my score as I go through the quiz.
 
