@@ -1,5 +1,403 @@
 [
   {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "By the middle of the 17th century the last Welsh rebellions had been defeated.",
+        "isAnswer": false
+      },
+      {
+        "value": "By the middle of the 15th century the last Welsh rebellions had been defeated.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of these figures were great Scottish thinkers of the Enlightenment?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Robert Louis Stevenson and David Hume",
+        "isAnswer": false
+      },
+      {
+        "value": "Adam Smith and David Hume",
+        "isAnswer": true
+      },
+      {
+        "value": "Robert Burns and Robert Louis Stevenson",
+        "isAnswer": false
+      },
+      {
+        "value": "Robert Burns and David Hume",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Mary, Queen of Scots was unrelated to Queen Elizabeth I.",
+        "isAnswer": false
+      },
+      {
+        "value": "Mary, Queen of Scots was a cousin of Queen Elizabeth I.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWhen Queen Anne died in 1714, parliament chose a German to be the next king of England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following were introduced in the early 20th century?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Child Benefit payments and free school meals",
+        "isAnswer": false
+      },
+      {
+        "value": "The National Health Service (NHS) and Child Benefit payments",
+        "isAnswer": false
+      },
+      {
+        "value": "The National Health Service (NHS) and old-age pensions",
+        "isAnswer": false
+      },
+      {
+        "value": "Old-age pensions and free school meals",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Henry VII established the House of Tudor. What colour rose became the Tudor emblem?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "White",
+        "isAnswer": false
+      },
+      {
+        "value": "Red and white",
+        "isAnswer": true
+      },
+      {
+        "value": "Red",
+        "isAnswer": false
+      },
+      {
+        "value": "Pink",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which part of the British Empire did the Boer War of 1899–1902 take place?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "India",
+        "isAnswer": false
+      },
+      {
+        "value": "Canada",
+        "isAnswer": false
+      },
+      {
+        "value": "Australia",
+        "isAnswer": false
+      },
+      {
+        "value": "South Africa",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Dylan Thomas was a famous writer and poet from which country?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": false
+      },
+      {
+        "value": "Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\n'The Restoration' refers to the re-establishment of Catholicism as the official Church in the 17th century.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these was Isambard Kingdom Brunel famous for building?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Motor cars",
+        "isAnswer": false
+      },
+      {
+        "value": "Aeroplanes",
+        "isAnswer": false
+      },
+      {
+        "value": "Bridges",
+        "isAnswer": true
+      },
+      {
+        "value": "Skyscrapers",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why is 1918 an important date in the history of women's rights?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The first divorce laws were introduced.",
+        "isAnswer": false
+      },
+      {
+        "value": "Women over the age of 30 were given voting rights.",
+        "isAnswer": true
+      },
+      {
+        "value": "Equal pay laws were passed.",
+        "isAnswer": false
+      },
+      {
+        "value": "Women were made legally responsible for their children.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nEmmeline Pankhurst is famous for her role in the campaign to give women the vote in parliamentary elections in the UK.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which battle during the First World War did the British suffer 60,000 casualties on the first day?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Agincourt",
+        "isAnswer": false
+      },
+      {
+        "value": "El Alamein",
+        "isAnswer": false
+      },
+      {
+        "value": "The Somme",
+        "isAnswer": true
+      },
+      {
+        "value": "Waterloo",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are 20th-century British inventions?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The World Wide Web and the diesel engine",
+        "isAnswer": false
+      },
+      {
+        "value": "Television and the World Wide Web",
+        "isAnswer": true
+      },
+      {
+        "value": "Mobile phones and the diesel engine",
+        "isAnswer": false
+      },
+      {
+        "value": "Television and mobile phones",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Highland Clearances took place in Scotland.",
+        "isAnswer": true
+      },
+      {
+        "value": "The Highland Clearances took place in Ireland.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which group of refugees settled in England between 1680 and 1720?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Welsh",
+        "isAnswer": false
+      },
+      {
+        "value": "Germans",
+        "isAnswer": false
+      },
+      {
+        "value": "Bretons",
+        "isAnswer": false
+      },
+      {
+        "value": "Huguenots",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO points about slavery are correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "William Wilberforce was a leading abolitionist and the Royal Navy refused to stop ships carrying slaves",
+        "isAnswer": false
+      },
+      {
+        "value": "Quakers set up the first anti-slavery groups and the Royal Navy refused to stop ships carrying slaves",
+        "isAnswer": false
+      },
+      {
+        "value": "Slavery survived in the British Empire until the early 20th century and the Royal Navy refused to stop ships carrying slaves",
+        "isAnswer": false
+      },
+      {
+        "value": "William Wilberforce was a leading abolitionist and Quakers set up the first anti-slavery groups",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which part of the UK is associated with Robert Burns (1759–1796)?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "England",
+        "isAnswer": false
+      },
+      {
+        "value": "Scotland",
+        "isAnswer": true
+      },
+      {
+        "value": "Wales",
+        "isAnswer": false
+      },
+      {
+        "value": "Northern Ireland",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which significant change was introduced by the Education Act of 1944?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "New public examinations",
+        "isAnswer": false
+      },
+      {
+        "value": "Free secondary education in England and Wales",
+        "isAnswer": true
+      },
+      {
+        "value": "Primary education for all",
+        "isAnswer": false
+      },
+      {
+        "value": "The requirement to wear school uniform",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWales united with England during the reign of Henry VIII.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\n'In 1921 a peace treaty was signed which led to Ireland becoming two countries.'",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
     "question": "Is the following statement TRUE or FALSE?\nBritish values and principles are based on history and traditions.",
     "remark": "Mark one answer",
     "options": [
