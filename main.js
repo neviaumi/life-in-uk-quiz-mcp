@@ -102,14 +102,26 @@ server.registerTool(
     },
   },
   async ({ questionIds }) => {
-    const matchQuestions = questionIds
-      .map((id) => mockTest[id])
-      .filter(Boolean);
+    function shuffleArray(source) {
+      for (let i = source.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [source[i], source[j]] = [source[j], source[i]];
+      }
+      return source;
+    }
+    const matchQuestions = shuffleArray(
+      questionIds.map((id) => mockTest[id]).filter(Boolean),
+    ).map((question) => {
+      return {
+        ...question,
+        options: shuffleArray(question.options),
+      };
+    });
     return {
       content: [
         {
           type: "text",
-          text: JSON.stringify(matchQuestions),
+          text: JSON.stringify({ questions: matchQuestions }),
         },
       ],
       structuredContent: {
@@ -127,6 +139,7 @@ function getAllQuestions() {
   const allQuestions = mockTest.map((q, index) => ({
     id: index,
     question: q.question.trim(),
+    options: q.options.map((option) => option.value),
   }));
   const questionIds = Object.values(
     Object.fromEntries(
@@ -135,11 +148,21 @@ function getAllQuestions() {
         .map((question) => [question.question, question.id]),
     ),
   );
-  return allQuestions.filter(
-    (question) =>
-      genericQuestions.includes(question.question) ||
-      questionIds.includes(question.id),
-  );
+  return allQuestions
+    .filter(
+      (question) =>
+        genericQuestions.includes(question.question) ||
+        questionIds.includes(question.id),
+    )
+    .map((question) => {
+      if (genericQuestions.includes(question.question)) {
+        return question;
+      }
+      return {
+        id: question.id,
+        question: question.question,
+      };
+    });
 }
 
 server.registerTool(
@@ -153,6 +176,7 @@ server.registerTool(
         z.object({
           id: z.number(),
           question: z.string(),
+          options: z.array(z.string()).optional(),
         }),
       ),
     },
@@ -163,7 +187,7 @@ server.registerTool(
       content: [
         {
           type: "text",
-          text: JSON.stringify(questions),
+          text: JSON.stringify({ questions }),
         },
       ],
       structuredContent: {
