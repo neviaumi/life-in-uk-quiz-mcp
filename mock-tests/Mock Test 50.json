@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which TWO are famous British fashion designers?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Capability Brown and Sir Edwin Lutyens",
+        "isAnswer": false
+      },
+      {
+        "value": "Mary Quant and Capability Brown",
+        "isAnswer": false
+      },
+      {
+        "value": "Mary Quant and Vivienne Westwood",
+        "isAnswer": true
+      },
+      {
+        "value": "Capability Brown and Vivienne Westwood",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are recent British film actors that have won Oscars?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Tilda Swinton and Jayne Torvill",
+        "isAnswer": false
+      },
+      {
+        "value": "Colin Firth and Robert Louis Stevenson",
+        "isAnswer": false
+      },
+      {
+        "value": "Jayne Torvill and Colin Firth",
+        "isAnswer": false
+      },
+      {
+        "value": "Tilda Swinton and Colin Firth",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Steve Redgrave is a famous rower who won gold medals in five consecutive Olympic Games.",
+        "isAnswer": true
+      },
+      {
+        "value": "Sir Steve Redgrave is a famous film actor who has won several BAFTAs.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of these novels are by Charles Dickens?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Harry Potter and Great Expectations",
+        "isAnswer": false
+      },
+      {
+        "value": "Great Expectations and Oliver Twist",
+        "isAnswer": true
+      },
+      {
+        "value": "Harry Potter, and Pride and Prejudice",
+        "isAnswer": false
+      },
+      {
+        "value": "Pride and Prejudice, and Oliver Twist",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What do Sir William Golding, Seamus Heaney and Harold Pinter have in common?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "They were all famous British athletes.",
+        "isAnswer": false
+      },
+      {
+        "value": "They all became Prime Minister.",
+        "isAnswer": false
+      },
+      {
+        "value": "They were part of the first British expedition to the North Pole.",
+        "isAnswer": false
+      },
+      {
+        "value": "They have all won the Nobel Prize in Literature.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous British artists?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "David Hockney and Henry Moore",
+        "isAnswer": true
+      },
+      {
+        "value": "David Hockney and Sir Edward Elgar",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Edward Elgar and Henry Moore",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Andy Murray and Sir Edward Elgar",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Bobby Moore is famous for his achievements in which sport?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Football",
+        "isAnswer": true
+      },
+      {
+        "value": "Rugby union",
+        "isAnswer": false
+      },
+      {
+        "value": "Horse racing",
+        "isAnswer": false
+      },
+      {
+        "value": "Motor racing",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is a bank holiday?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "A public holiday when banks and many other businesses close for the day",
+        "isAnswer": true
+      },
+      {
+        "value": "A holiday just for people working in banks",
+        "isAnswer": false
+      },
+      {
+        "value": "A week off for everyone in the UK",
+        "isAnswer": false
+      },
+      {
+        "value": "An extra holiday entitlement for working longer hours than usual",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these is the name of a novel by Jane Austen?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sense and Sensibility",
+        "isAnswer": true
+      },
+      {
+        "value": "Far from the Madding Crowd",
+        "isAnswer": false
+      },
+      {
+        "value": "Oliver Twist",
+        "isAnswer": false
+      },
+      {
+        "value": "Our Man in Havana",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nThomas Hardy was a famous author who wrote Far from the Madding Crowd.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous British film directors?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Alfred Hitchcock and Evelyn Waugh",
+        "isAnswer": false
+      },
+      {
+        "value": "Evelyn Waugh and Thomas Gainsborough",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Alfred Hitchcock and Sir Ridley Scott",
+        "isAnswer": true
+      },
+      {
+        "value": "Evelyn Waugh and Sir Ridley Scott",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nSir Mo Farah and Dame Jessica Ennis-Hill are well-known athletes who won\ngold medals at the 2012 London Olympics.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  }
+]

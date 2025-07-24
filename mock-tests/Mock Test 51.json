@@ -1,0 +1,198 @@
+[
+  {
+    "question": "What is the name of the Northern Ireland Assembly building?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Houses of Parliament",
+        "isAnswer": false
+      },
+      {
+        "value": "The Senedd",
+        "isAnswer": false
+      },
+      {
+        "value": "Stormont",
+        "isAnswer": true
+      },
+      {
+        "value": "Holyrood House",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Members of Parliament (MPs) are elected through a system called 'first past the post'.",
+        "isAnswer": true
+      },
+      {
+        "value": "MPs are elected through a system called 'proportional representation'.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What sort of cases do Crown Courts and Sheriff Courts deal with?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Small claims procedures",
+        "isAnswer": false
+      },
+      {
+        "value": "Youth cases",
+        "isAnswer": false
+      },
+      {
+        "value": "Minor criminal cases",
+        "isAnswer": false
+      },
+      {
+        "value": "Serious offences",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nAll young people are sent a National Insurance number just before their 16th birthday.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Who appoints life peers in the House of Lords?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The monarch",
+        "isAnswer": false
+      },
+      {
+        "value": "The Archbishop of Canterbury",
+        "isAnswer": false
+      },
+      {
+        "value": "The Speaker of the House of Commons",
+        "isAnswer": false
+      },
+      {
+        "value": "The Chief Whip",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nHereditary peers have the automatic right to attend the House of Lords.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO actions can a judge take if a public body is not respecting someone's legal rights?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Order the body to pay compensation and close down the public body",
+        "isAnswer": false
+      },
+      {
+        "value": "Place the body's members in prison and close down the public body",
+        "isAnswer": false
+      },
+      {
+        "value": "Order the body to change its practices and order the body to pay compensation",
+        "isAnswer": false
+      },
+      {
+        "value": "Place the body's members in prison and order the body to change its practices",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following do you have to pay tax on?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Income from property, savings and dividends, and small amounts of money given to you as a gift",
+        "isAnswer": false
+      },
+      {
+        "value": "Income from property, savings and dividends, and shopping vouchers given to you by family or friends",
+        "isAnswer": false
+      },
+      {
+        "value": "Profits from self-employment, and income from property, savings and dividends",
+        "isAnswer": false
+      },
+      {
+        "value": "Profits from self-employment, and shopping vouchers given to you by family or friends",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following types of case are held in County Courts?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Divorce and murder",
+        "isAnswer": false
+      },
+      {
+        "value": "Murder and minor criminal offences",
+        "isAnswer": false
+      },
+      {
+        "value": "Minor criminal offences and breaches of contract",
+        "isAnswer": false
+      },
+      {
+        "value": "Divorce and breaches of contract",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these groups can take part in the National Citizen Service programme?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "All children up to the age of 17",
+        "isAnswer": false
+      },
+      {
+        "value": "16- and 17-year-olds",
+        "isAnswer": true
+      },
+      {
+        "value": "Pensioners",
+        "isAnswer": false
+      },
+      {
+        "value": "18- to 30-year-olds",
+        "isAnswer": false
+      }
+    ]
+  }
+]

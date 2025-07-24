@@ -1,0 +1,422 @@
+[
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Andy Murray is the first British man to sail around the world.",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Andy Murray is the first British man to win a singles tennis title in a Grand Slam tournament since 1936.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Where do the Laurence Olivier awards take place?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "London",
+        "isAnswer": true
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": false
+      },
+      {
+        "value": "Edinburgh",
+        "isAnswer": false
+      },
+      {
+        "value": "Belfast",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nCharles Dickens was famous for writing musicals.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "What type of church is the Church of Scotland?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Quaker",
+        "isAnswer": false
+      },
+      {
+        "value": "Roman Catholic",
+        "isAnswer": false
+      },
+      {
+        "value": "Presbyterian",
+        "isAnswer": true
+      },
+      {
+        "value": "Methodist",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous British composers?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Henry Purcell and Ralph Vaughan Williams",
+        "isAnswer": true
+      },
+      {
+        "value": "Johann Sebastian Bach and Henry Purcell",
+        "isAnswer": false
+      },
+      {
+        "value": "Claude Debussy and Henry Purcell",
+        "isAnswer": false
+      },
+      {
+        "value": "Claude Debussy and Johann Sebastian Bach",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nDundee and Aberdeen are cities in Northern Ireland.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "On which date is St Patrick's Day celebrated?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "1 March",
+        "isAnswer": false
+      },
+      {
+        "value": "17 March",
+        "isAnswer": true
+      },
+      {
+        "value": "23 April",
+        "isAnswer": false
+      },
+      {
+        "value": "30 November",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "In which country was the composer George Frederick Handel born?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Iceland",
+        "isAnswer": false
+      },
+      {
+        "value": "Russia",
+        "isAnswer": false
+      },
+      {
+        "value": "Japan",
+        "isAnswer": false
+      },
+      {
+        "value": "Germany",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nPeople can see the Crown Jewels at the Tower of London.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": true
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Why is Sir Edwin Lutyens famous?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "He won a gold medal at the London 2012 Olympic Games.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was the first UK Prime Minister.",
+        "isAnswer": false
+      },
+      {
+        "value": "He invented the World Wide Web.",
+        "isAnswer": false
+      },
+      {
+        "value": "He was a 20th-century architect.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are major horse-racing events in the UK?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "The Open Championship and the Scottish Grand National",
+        "isAnswer": false
+      },
+      {
+        "value": "The Open Championship and the Six Nations Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Grand National and the Six Nations Championship",
+        "isAnswer": false
+      },
+      {
+        "value": "Scottish Grand National and Royal Ascot",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which event occurs each year on the third Sunday in June?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Halloween",
+        "isAnswer": false
+      },
+      {
+        "value": "Father's Day",
+        "isAnswer": true
+      },
+      {
+        "value": "Boxing Day",
+        "isAnswer": false
+      },
+      {
+        "value": "Remembrance Day",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nJohn Constable (1776–1837) founded the modern police force in England.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous British authors?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Mary Quant and Henry Moore",
+        "isAnswer": false
+      },
+      {
+        "value": "Thomas Hardy and Graham Greene",
+        "isAnswer": true
+      },
+      {
+        "value": "Thomas Hardy and Henry Moore",
+        "isAnswer": false
+      },
+      {
+        "value": "Graham Greene and Henry Moore",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO are famous UK landmarks?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Snowdonia and Notre Dame",
+        "isAnswer": false
+      },
+      {
+        "value": "Loch Lomond and Notre Dame",
+        "isAnswer": false
+      },
+      {
+        "value": "Snowdonia and Loch Lomond",
+        "isAnswer": true
+      },
+      {
+        "value": "Grand Canyon and Loch Lomond",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Gilbert and Sullivan were a comedy double act.",
+        "isAnswer": false
+      },
+      {
+        "value": "Gilbert and Sullivan wrote many comic operas.",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nWilliam Blake, Lord Byron and Robert Browning were all famous golfers.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which UK city hosted the 2012 Paralympic Games?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Belfast",
+        "isAnswer": false
+      },
+      {
+        "value": "Cardiff",
+        "isAnswer": false
+      },
+      {
+        "value": "Edinburgh",
+        "isAnswer": false
+      },
+      {
+        "value": "London",
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "question": "Which TWO of the following are famous Paralympians?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Ellie Simmonds and Baroness Tanni Grey-Thompson",
+        "isAnswer": true
+      },
+      {
+        "value": "Ellie Simmonds and Dame Ellen MacArthur",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Baroness Tanni Grey-Thompson",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Jessica Ennis-Hill and Dame Ellen MacArthur",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Which TWO people are famous UK sports stars?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Sir Chris Hoy and Dame Kelly Holmes",
+        "isAnswer": true
+      },
+      {
+        "value": "Lucien Freud and Jane Austen",
+        "isAnswer": false
+      },
+      {
+        "value": "Dame Kelly Holmes and Jane Austen",
+        "isAnswer": false
+      },
+      {
+        "value": "Sir Chris Hoy and Lucien Freud",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What are Beowulf, The Tyger and She Walks in Beauty?",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "Plays",
+        "isAnswer": false
+      },
+      {
+        "value": "Films",
+        "isAnswer": false
+      },
+      {
+        "value": "Poems",
+        "isAnswer": true
+      },
+      {
+        "value": "Novels",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "Is the statement below TRUE or FALSE?\nA traditional food in Wales is Ulster fry.",
+    "remark": "Mark one answer",
+    "options": [
+      {
+        "value": "TRUE",
+        "isAnswer": false
+      },
+      {
+        "value": "FALSE",
+        "isAnswer": true
+      }
+    ]
+  }
+]
